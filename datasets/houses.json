@@ -1,0 +1,6648 @@
+{
+  "dataset": [
+    {
+      "angar": true,
+      "class": "S",
+      "id": 1,
+      "location": "Mulholland, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 2,
+      "location": "Mulholland, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 3,
+      "location": "Mulholland, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 4,
+      "location": "Mulholland Intersection, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 5,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 6,
+      "location": "Red County, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 7,
+      "location": "Red County, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 8,
+      "location": "Red County, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 9,
+      "location": "Red County, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 10,
+      "location": "Red County, Los Santos",
+      "price": 5000000
+    },
+    {
+      "angar": false,
+      "class": "S",
+      "id": 11,
+      "location": "Mulholland, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 12,
+      "location": "Mulholland, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 13,
+      "location": "Mulholland, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 14,
+      "location": "Mulholland, Los Santos",
+      "price": 5000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 15,
+      "location": "Mulholland, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 16,
+      "location": "Mulholland, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 17,
+      "location": "Mulholland, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 18,
+      "location": "Mulholland, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 19,
+      "location": "Mulholland, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 20,
+      "location": "Los Santos, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 21,
+      "location": "Mulholland, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 22,
+      "location": "Mulholland, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 23,
+      "location": "Mulholland Intersection, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 24,
+      "location": "Mulholland Intersection, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 25,
+      "location": "Mulholland Intersection, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 26,
+      "location": "Mulholland, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 27,
+      "location": "Mulholland, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 28,
+      "location": "Downtown Los Santos, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 29,
+      "location": "Rodeo, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 30,
+      "location": "Rodeo, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 31,
+      "location": "Richman, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 32,
+      "location": "Richman, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 33,
+      "location": "Richman, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 34,
+      "location": "Richman, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 35,
+      "location": "Richman, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 36,
+      "location": "Richman, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 37,
+      "location": "Richman, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 38,
+      "location": "Richman, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 39,
+      "location": "Richman, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 40,
+      "location": "Richman, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 41,
+      "location": "Richman, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 42,
+      "location": "Temple, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 43,
+      "location": "Temple, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 44,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 45,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 46,
+      "location": "Temple, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 47,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 48,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 49,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 50,
+      "location": "Temple, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 51,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 52,
+      "location": "Temple, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 53,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 54,
+      "location": "Temple, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 55,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 56,
+      "location": "Temple, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 57,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 58,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 59,
+      "location": "Temple, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "S",
+      "id": 60,
+      "location": "Marina, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 61,
+      "location": "Marina, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 62,
+      "location": "Marina, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 63,
+      "location": "Marina, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 64,
+      "location": "Marina, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 65,
+      "location": "Marina, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 66,
+      "location": "Marina, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 67,
+      "location": "Marina, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 68,
+      "location": "Marina, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 69,
+      "location": "Marina, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 70,
+      "location": "Marina, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 71,
+      "location": "Marina, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 72,
+      "location": "Marina, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 73,
+      "location": "Marina, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 74,
+      "location": "Marina, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 75,
+      "location": "Marina, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 76,
+      "location": "Marina, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 77,
+      "location": "Marina, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 78,
+      "location": "Marina, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 79,
+      "location": "Verona Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 80,
+      "location": "Verona Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 81,
+      "location": "Verona Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 82,
+      "location": "Verona Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 83,
+      "location": "Verona Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 84,
+      "location": "Verona Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 85,
+      "location": "Santa Maria Beach, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 86,
+      "location": "Santa Maria Beach, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 87,
+      "location": "El Corona, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 88,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 89,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 90,
+      "location": "El Corona, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 91,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 92,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 93,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 94,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 95,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 96,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 97,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 98,
+      "location": "Verdant Bluffs, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 99,
+      "location": "Verdant Bluffs, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 100,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 101,
+      "location": "El Corona, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 102,
+      "location": "El Corona, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 103,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 104,
+      "location": "El Corona, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 105,
+      "location": "El Corona, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 106,
+      "location": "El Corona, Los Santos",
+      "price": 700000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 107,
+      "location": "El Corona, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 108,
+      "location": "El Corona, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 109,
+      "location": "El Corona, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 110,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 111,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 112,
+      "location": "Idlewood, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 113,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 114,
+      "location": "Idlewood, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 115,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 116,
+      "location": "Idlewood, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 117,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 118,
+      "location": "Idlewood, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 119,
+      "location": "Idlewood, Los Santos",
+      "price": 790000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 120,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 121,
+      "location": "Idlewood, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "S",
+      "id": 122,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 123,
+      "location": "Idlewood, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 124,
+      "location": "Idlewood, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 125,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 126,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 127,
+      "location": "Idlewood, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 128,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 129,
+      "location": "Idlewood, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 130,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 131,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 132,
+      "location": "Idlewood, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 133,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 134,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 135,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 136,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 137,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 138,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 139,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 140,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 141,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 142,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 143,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 144,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 145,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 146,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 147,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 148,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 149,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 150,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 151,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 152,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 153,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 154,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 155,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 156,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 157,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 158,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 159,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 160,
+      "location": "East Beach, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 161,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 162,
+      "location": "East Beach, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 163,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 164,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 165,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 166,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 167,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 168,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 169,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 170,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 171,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 172,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 173,
+      "location": "East Beach, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 174,
+      "location": "East Beach, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 175,
+      "location": "East Beach, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 176,
+      "location": "East Beach, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 177,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 178,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 179,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 180,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 181,
+      "location": "Willowfield, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 182,
+      "location": "Willowfield, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 183,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 184,
+      "location": "Willowfield, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 185,
+      "location": "Willowfield, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 186,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 187,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 188,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 189,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 190,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 191,
+      "location": "Willowfield, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 192,
+      "location": "Willowfield, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 193,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 194,
+      "location": "East Los Santos, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 195,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 196,
+      "location": "East Los Santos, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 197,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 198,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 199,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 200,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 201,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 202,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 203,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 204,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 205,
+      "location": "East Los Santos, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 206,
+      "location": "East Los Santos, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 207,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 208,
+      "location": "East Los Santos, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 209,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 210,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 211,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 212,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 213,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 214,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 215,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 216,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 217,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 218,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 219,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 220,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 221,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 222,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 223,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 224,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 225,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 226,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 227,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 228,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 229,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 230,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 231,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 232,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 233,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 234,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 235,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 236,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 237,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 238,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 239,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 240,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 241,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 242,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 243,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 244,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 245,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 246,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 247,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 248,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 249,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 250,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 251,
+      "location": "Las Colinas, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 252,
+      "location": "Las Colinas, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 253,
+      "location": "Las Colinas, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 254,
+      "location": "Glen Park, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 255,
+      "location": "Glen Park, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 256,
+      "location": "Glen Park, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 257,
+      "location": "Glen Park, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 258,
+      "location": "Glen Park, Los Santos",
+      "price": 700000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 259,
+      "location": "Glen Park, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 260,
+      "location": "Glen Park, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 261,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 262,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 263,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 264,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 265,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 266,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 267,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 268,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 269,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 270,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 271,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 272,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 273,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 274,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 275,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 276,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 277,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 278,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 279,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 280,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 281,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 282,
+      "location": "Jefferson, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 283,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 284,
+      "location": "Jefferson, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 285,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 286,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 287,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 288,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 289,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 290,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 291,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 292,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 293,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 294,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 295,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 296,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 297,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 298,
+      "location": "Jefferson, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 299,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 300,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 301,
+      "location": "Willowfield, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 302,
+      "location": "Willowfield, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 303,
+      "location": "Willowfield, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 304,
+      "location": "Willowfield, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 305,
+      "location": "Willowfield, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 306,
+      "location": "Playa del Seville, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 307,
+      "location": "Playa del Seville, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 308,
+      "location": "Playa del Seville, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 309,
+      "location": "Playa del Seville, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 310,
+      "location": "Playa del Seville, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 311,
+      "location": "Playa del Seville, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 312,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 313,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 314,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 315,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 316,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 317,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 318,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 319,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 320,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 321,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 322,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 323,
+      "location": "Dillimore, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 324,
+      "location": "Dillimore, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 325,
+      "location": "Dillimore, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 326,
+      "location": "Dillimore, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 327,
+      "location": "Dillimore, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 328,
+      "location": "Dillimore, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 329,
+      "location": "Dillimore, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 330,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 331,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 332,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 333,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 334,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 335,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 336,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 337,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 338,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 339,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 340,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 341,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 342,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 343,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 344,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 345,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 346,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 347,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 348,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 349,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 350,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 351,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 352,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 353,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 354,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 355,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 356,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 357,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 358,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 359,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 360,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 361,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 362,
+      "location": "Tierra Robada, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 363,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 364,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 365,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 366,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 367,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 368,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 369,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 370,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 371,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 372,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 373,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 374,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 375,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 376,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 377,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 378,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 379,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 380,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 381,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 382,
+      "location": "Palomino Creek, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 383,
+      "location": "Last Dime Motel, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 384,
+      "location": "Last Dime Motel, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 385,
+      "location": "Last Dime Motel, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 386,
+      "location": "Last Dime Motel, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 387,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 388,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 389,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 390,
+      "location": "Rockshore West, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 391,
+      "location": "Rockshore West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 392,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 393,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 394,
+      "location": "Rockshore West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 395,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 396,
+      "location": "Rockshore West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 397,
+      "location": "Rockshore West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 398,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 399,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 400,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 401,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 402,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 403,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 404,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 405,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 406,
+      "location": "Rockshore West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 407,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 408,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 409,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 410,
+      "location": "Rockshore West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 411,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 412,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 413,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 414,
+      "location": "Whetstone, San Fierro",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 415,
+      "location": "Rockshore West, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 416,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 417,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 418,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 419,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 420,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 421,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 422,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 423,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 424,
+      "location": "Rockshore West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 425,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 426,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 427,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 428,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 429,
+      "location": "Rockshore West, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 430,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 431,
+      "location": "Rockshore West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 432,
+      "location": "Rockshore West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 433,
+      "location": "Rockshore West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 434,
+      "location": "Rockshore West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 435,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 436,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 437,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 438,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 439,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 440,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 441,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 442,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 443,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 444,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 445,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 446,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 447,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 448,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 449,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 450,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 451,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 452,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 453,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 454,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 455,
+      "location": "Whitewood Estates, Las Venturas",
+      "price": 700000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 456,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 16000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 457,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 458,
+      "location": "Palisades, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 459,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 460,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 461,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 7500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 462,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 463,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 464,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 465,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 7500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 466,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 467,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 468,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 469,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 470,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 471,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 472,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 473,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 474,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 475,
+      "location": "Redsands West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 476,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 477,
+      "location": "Redsands West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 478,
+      "location": "Redsands West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 479,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 480,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 481,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 482,
+      "location": "Redsands West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 483,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 484,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 485,
+      "location": "Redsands West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 486,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 487,
+      "location": "Redsands West, Las Venturas",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 488,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 489,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 490,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 491,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 492,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 493,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 494,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 495,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 496,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 497,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 498,
+      "location": "Calton Heights, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 499,
+      "location": "Calton Heights, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 500,
+      "location": "Calton Heights, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 501,
+      "location": "Calton Heights, San Fierro",
+      "price": 16000000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 502,
+      "location": "Paradiso, San Fierro",
+      "price": 16000000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 503,
+      "location": "Paradiso, San Fierro",
+      "price": 16000000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 504,
+      "location": "Paradiso, San Fierro",
+      "price": 16000000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 505,
+      "location": "Paradiso, San Fierro",
+      "price": 16000000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 506,
+      "location": "Paradiso, San Fierro",
+      "price": 16000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 507,
+      "location": "Paradiso, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 508,
+      "location": "Palisades, San Fierro",
+      "price": 1300000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 509,
+      "location": "Palisades, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 510,
+      "location": "Palisades, San Fierro",
+      "price": 1300000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 511,
+      "location": "Palisades, San Fierro",
+      "price": 1300000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 512,
+      "location": "Palisades, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 513,
+      "location": "Palisades, San Fierro",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 514,
+      "location": "Palisades, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 515,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 516,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 517,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 518,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 519,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 520,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 521,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 522,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 523,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 524,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 525,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 526,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 527,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 528,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 529,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 530,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 531,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 532,
+      "location": "Ocean Flats, San Fierro",
+      "price": 600000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 533,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 534,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 535,
+      "location": "Ocean Flats, San Fierro",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 536,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 537,
+      "location": "Ocean Flats, San Fierro",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 538,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 539,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 540,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 541,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 542,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 543,
+      "location": "Richman, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 544,
+      "location": "Richman, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 545,
+      "location": "Richman, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 546,
+      "location": "Richman, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 547,
+      "location": "Richman, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 548,
+      "location": "Richman, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 549,
+      "location": "Richman, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 550,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 551,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 552,
+      "location": "Ocean Flats, San Fierro",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 553,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 554,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 555,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 556,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 557,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 558,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 559,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 560,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 561,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 562,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 563,
+      "location": "Whetstone, San Fierro",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 564,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 565,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 566,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 567,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 568,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 569,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 570,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 571,
+      "location": "Ocean Flats, San Fierro",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 572,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 573,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 574,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 575,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 576,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 577,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 578,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 579,
+      "location": "Ocean Flats, San Fierro",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 580,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 581,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 582,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 583,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 584,
+      "location": "Bayside, San Fierro",
+      "price": 20000000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 585,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 586,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 587,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 588,
+      "location": "Ocean Flats, San Fierro",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 589,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 590,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 591,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 592,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 593,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 594,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 595,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 596,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 597,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 598,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 599,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 600,
+      "location": "Ocean Flats, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 601,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 602,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 603,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 604,
+      "location": "Ocean Flats, San Fierro",
+      "price": 600000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 605,
+      "location": "Ocean Flats, San Fierro",
+      "price": 600000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 606,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 607,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 608,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 609,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 610,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 611,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "S",
+      "id": 612,
+      "location": "Arco del Oeste, Las Venturas",
+      "price": 1
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 613,
+      "location": "Ocean Flats, San Fierro",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 614,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 615,
+      "location": "Ocean Flats, San Fierro",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 616,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 617,
+      "location": "Ocean Flats, San Fierro",
+      "price": 900000
+    },
+    {
+      "angar": false,
+      "class": "S",
+      "id": 618,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 619,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 620,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 621,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 622,
+      "location": "Ocean Flats, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 623,
+      "location": "Ocean Flats, San Fierro",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 624,
+      "location": "Angel Pine, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 625,
+      "location": "Angel Pine, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 626,
+      "location": "Angel Pine, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 627,
+      "location": "Angel Pine, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 628,
+      "location": "Angel Pine, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 629,
+      "location": "Angel Pine, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 630,
+      "location": "Angel Pine, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 631,
+      "location": "Angel Pine, San Fierro",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 632,
+      "location": "Angel Pine, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 633,
+      "location": "Angel Pine, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 634,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 635,
+      "location": "Santa Maria Beach, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 636,
+      "location": "Bayside, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 637,
+      "location": "Bayside, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 638,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 639,
+      "location": "Bayside, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 640,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 641,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 642,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 643,
+      "location": "Bayside, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 644,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 645,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 646,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 647,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 648,
+      "location": "Bayside, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 649,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 650,
+      "location": "Bayside, San Fierro",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 651,
+      "location": "Bayside, San Fierro",
+      "price": 1900000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 652,
+      "location": "Bayside Marina, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 653,
+      "location": "Bayside, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 654,
+      "location": "Bayside, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 655,
+      "location": "Fort Carson, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 656,
+      "location": "Fort Carson, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 657,
+      "location": "Fort Carson, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 658,
+      "location": "Fort Carson, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 659,
+      "location": "Fort Carson, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 660,
+      "location": "Fort Carson, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 661,
+      "location": "Fort Carson, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 662,
+      "location": "Fort Carson, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 663,
+      "location": "Fort Carson, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 664,
+      "location": "Fort Carson, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 665,
+      "location": "Fort Carson, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 666,
+      "location": "Fort Carson, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 667,
+      "location": "Fort Carson, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 668,
+      "location": "Fort Carson, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 669,
+      "location": "Fort Carson, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 670,
+      "location": "Fort Carson, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 671,
+      "location": "Fort Carson, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 672,
+      "location": "Fort Carson, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 673,
+      "location": "Fort Carson, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 674,
+      "location": "Valle Ocultado, Las Venturas",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 675,
+      "location": "Tierra Robada, Las Venturas",
+      "price": 2000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 676,
+      "location": "Tierra Robada, Las Venturas",
+      "price": 2000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 677,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 678,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 679,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 680,
+      "location": "Redsands West, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 681,
+      "location": "Red County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 682,
+      "location": "Red County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 683,
+      "location": "Red County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 684,
+      "location": "Red County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 685,
+      "location": "Red County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 686,
+      "location": "Hampton Barns, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 687,
+      "location": "Red County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 688,
+      "location": "Hampton Barns, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 689,
+      "location": "Hampton Barns, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 690,
+      "location": "Hampton Barns, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 691,
+      "location": "Hampton Barns, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 692,
+      "location": "Red County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 693,
+      "location": "Hampton Barns, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 694,
+      "location": "Red County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 695,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 696,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 697,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 698,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 699,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 700,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 701,
+      "location": "Blueberry, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 702,
+      "location": "Blueberry, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 703,
+      "location": "Blueberry, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 704,
+      "location": "Blueberry, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 705,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 706,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 707,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 708,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 709,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 710,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 711,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 712,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 713,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 714,
+      "location": "Blueberry, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 715,
+      "location": "Blueberry, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 716,
+      "location": "Blueberry, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 717,
+      "location": "Jefferson, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 718,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 719,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 720,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 721,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 722,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 723,
+      "location": "Jefferson, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 724,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 725,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 726,
+      "location": "Ganton, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 727,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 728,
+      "location": "Ganton, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 729,
+      "location": "Montgomery, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 730,
+      "location": "Beacon Hill, Los Santos",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 731,
+      "location": "Montgomery, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 732,
+      "location": "Montgomery, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 733,
+      "location": "Montgomery, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 734,
+      "location": "Montgomery, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 735,
+      "location": "Montgomery, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 736,
+      "location": "Montgomery, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 737,
+      "location": "Red County, Las Venturas",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 738,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 739,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 740,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 741,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 742,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 743,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 744,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 745,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 746,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 747,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 748,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 749,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 750,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 751,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 752,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 753,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 754,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 755,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 756,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 757,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 758,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 759,
+      "location": "Las Colinas, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 760,
+      "location": "Las Colinas, Los Santos",
+      "price": 350000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 761,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 762,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 763,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 764,
+      "location": "Fern Ridge, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 765,
+      "location": "Richman, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "S",
+      "id": 766,
+      "location": "Mulholland, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": false,
+      "class": "S",
+      "id": 767,
+      "location": "Idlewood, Los Santos",
+      "price": 1
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 768,
+      "location": "Flint Intersection, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 769,
+      "location": "Flint Intersection, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 770,
+      "location": "Flint Intersection, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 771,
+      "location": "Flint Intersection, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 772,
+      "location": "Flint County, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 773,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 774,
+      "location": "Bone County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 775,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 776,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 777,
+      "location": "Flint Intersection, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 778,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 779,
+      "location": "Verdant Bluffs, Los Santos",
+      "price": 1
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 780,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 781,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 782,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 783,
+      "location": "Flint Intersection, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 784,
+      "location": "Angel Pine, San Fierro",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 785,
+      "location": "Flint Intersection, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 786,
+      "location": "Montgomery, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 787,
+      "location": "Tierra Robada, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 788,
+      "location": "Flint Intersection, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 789,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 790,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 791,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 792,
+      "location": "Bone County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 793,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 794,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 795,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 796,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 797,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 798,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 799,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 800,
+      "location": "Tierra Robada, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 801,
+      "location": "Las Payasadas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 802,
+      "location": "Red County, San Fierro",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 803,
+      "location": "Tierra Robada, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 804,
+      "location": "Tierra Robada, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 805,
+      "location": "Flint County, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 806,
+      "location": "Flint County, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 807,
+      "location": "Flint County, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 808,
+      "location": "Flint County, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 809,
+      "location": "Flint County, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 810,
+      "location": "Flint County, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 811,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 812,
+      "location": "Red County, San Fierro",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 813,
+      "location": "Red County, San Fierro",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 814,
+      "location": "Red County, San Fierro",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 815,
+      "location": "Red County, San Fierro",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 816,
+      "location": "Red County, San Fierro",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 817,
+      "location": "Red County, San Fierro",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 818,
+      "location": "Red County, San Fierro",
+      "price": 500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 819,
+      "location": "Mulholland, Los Santos",
+      "price": 30000000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 820,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 20000000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 821,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 822,
+      "location": "Tierra Robada, Las Venturas",
+      "price": 60000000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 823,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 10000000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 824,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 7500000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 825,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 7500000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 826,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 7500000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 827,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 7500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 828,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 7500000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 829,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 7500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 830,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 3000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 831,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 832,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 2500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 833,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 3000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 834,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 835,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 3000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 836,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 3000000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 837,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 7500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 838,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 3000000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 839,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 3000000
+    },
+    {
+      "angar": false,
+      "class": "A",
+      "id": 840,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 7500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 841,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 3000000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 842,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 843,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 844,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 845,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 846,
+      "location": "Las Venturas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 847,
+      "location": "Las Venturas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 848,
+      "location": "Las Venturas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 849,
+      "location": "Las Venturas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 850,
+      "location": "Las Venturas, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 851,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 852,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 853,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 854,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 855,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 856,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 857,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 858,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 859,
+      "location": "Prickle Pine, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 860,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 861,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 862,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 863,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 864,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 865,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 866,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 867,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 868,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 869,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 870,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 871,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 872,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 873,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 874,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 875,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 876,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 877,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 878,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 879,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 880,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 881,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 882,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 883,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 884,
+      "location": "East Los Santos, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 885,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 886,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 887,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 888,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 889,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 890,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 891,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 892,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 893,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 894,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 895,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 896,
+      "location": "El Corona, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 897,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 898,
+      "location": "Idlewood, Los Santos",
+      "price": 1000000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 899,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 900,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 901,
+      "location": "Idlewood, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 902,
+      "location": "Idlewood, Los Santos",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 903,
+      "location": "Idlewood, Los Santos",
+      "price": 800000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 904,
+      "location": "Idlewood, Los Santos",
+      "price": 800000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 905,
+      "location": "Santa Maria Beach, Los Santos",
+      "price": 16000000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 906,
+      "location": "Bone County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 907,
+      "location": "East Los Santos, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": true,
+      "class": "A",
+      "id": 908,
+      "location": "Paradiso, San Fierro",
+      "price": 5000000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 909,
+      "location": "Bone County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 910,
+      "location": "Bone County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "N",
+      "id": 911,
+      "location": "Bone County, Las Venturas",
+      "price": 500000
+    },
+    {
+      "angar": true,
+      "class": "S",
+      "id": 912,
+      "location": "Arco del Oeste, Las Venturas",
+      "price": 1
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 913,
+      "location": "Palisades, San Fierro",
+      "price": 2500000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 914,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 915,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 916,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 917,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 918,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 919,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 920,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 921,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 922,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 923,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 924,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 925,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 926,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 927,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 928,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": true,
+      "class": "E",
+      "id": 929,
+      "location": "San Paradise Island, Los Santos",
+      "price": 50000000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 930,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 931,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 932,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 933,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 934,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 935,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 936,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 937,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 938,
+      "location": "East Beach, Los Santos",
+      "price": 5000000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 939,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 940,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "B",
+      "id": 941,
+      "location": "East Beach, Los Santos",
+      "price": 5000000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 942,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "C",
+      "id": 943,
+      "location": "East Beach, Los Santos",
+      "price": 1500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 944,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 945,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 946,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 947,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 948,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    },
+    {
+      "angar": false,
+      "class": "D",
+      "id": 949,
+      "location": "East Beach, Los Santos",
+      "price": 500000
+    }
+  ],
+  "version": 1
+}
