@@ -1,0 +1,80 @@
+{
+  "dataset":[
+    {
+      "comment":"/gps » По работе » Работа грузчика",
+      "min_lvl":1,
+      "name":"Грузчик"
+    },
+    {
+      "comment":"У сотрудников правительства",
+      "min_lvl":1,
+      "name":"Правительственный развозчик"
+    },
+    {
+      "comment":"/gps » По работе » Ферма",
+      "min_lvl":1,
+      "name":"Фермер"
+    },
+    {
+      "comment":"/gps » По работе » Работа грузчика",
+      "min_lvl":1,
+      "name":"Прораб"
+    },
+    {
+      "comment":"/gps » Важные места » Government",
+      "min_lvl":2,
+      "name":"Водитель автобуса"
+    },
+    {
+      "comment":"/gps » Важные места » Government",
+      "min_lvl":2,
+      "name":"Таксист"
+    },
+    {
+      "comment":"У владельца СТО",
+      "min_lvl":3,
+      "name":"Механик на СТО"
+    },
+    {
+      "comment":"/gps » Важные места » Government",
+      "min_lvl":3,
+      "name":"Механик"
+    },
+    {
+      "comment":"/gps » Важные места » Government",
+      "min_lvl":4,
+      "name":"Риелтор"
+    },
+    {
+      "comment":"/gps » Важные места » Government",
+      "min_lvl":5,
+      "name":"Ремонтная служба \"C&C Bank\""
+    },
+    {
+      "comment":"/gps » Коммерческие места » Авторынок",
+      "min_lvl":6,
+      "name":"Автосборщик"
+    },
+    {
+      "comment":"/gps » Важные места » Government",
+      "min_lvl":6,
+      "name":"Клининговая служба"
+    },
+    {
+      "comment":"/gps » Важные места » Government",
+      "min_lvl":6,
+      "name":"Крупье"
+    },
+    {
+      "comment":"/gps » Важные места » Government",
+      "min_lvl":6,
+      "name":"Инкассатор \"C&C Bank\""
+    },
+    {
+      "comment":"/gps » Важные места » Government",
+      "min_lvl":8,
+      "name":"Дальнобойщик"
+    }
+  ],
+  "version":1
+}
