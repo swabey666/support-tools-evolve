@@ -1,0 +1,270 @@
+{
+  "dataset": [
+    {
+      "damage": 1.32,
+      "id": 0,
+      "name": "Fist",
+      "ru_name": "Кулак"
+    },
+    {
+      "damage": 1.32,
+      "id": 1,
+      "name": "Brass Knuckles",
+      "ru_name": "Кастет"
+    },
+    {
+      "damage": 4.64,
+      "id": 2,
+      "name": "Golf Club",
+      "price": 1200,
+      "ru_name": "Клюшка для гольфа"
+    },
+    {
+      "damage": 4.62,
+      "id": 3,
+      "name": "Nightstick",
+      "ru_name": "Полицейская дубинка"
+    },
+    {
+      "damage": 2.64,
+      "id": 4,
+      "name": "Knife",
+      "ru_name": "Нож"
+    },
+    {
+      "damage": 4.62,
+      "id": 5,
+      "name": "Baseball Bat",
+      "price": 1000,
+      "ru_name": "Бейсбольная бита"
+    },
+    {
+      "damage": 4.62,
+      "id": 6,
+      "name": "Shovel",
+      "price": 1200,
+      "ru_name": "Лопата"
+    },
+    {
+      "damage": 4.62,
+      "id": 7,
+      "name": "Pool Cue",
+      "price": 1300,
+      "ru_name": "Кий"
+    },
+    {
+      "damage": 2.64,
+      "id": 8,
+      "name": "Katana",
+      "price": 2500,
+      "ru_name": "Катана"
+    },
+    {
+      "damage": 6.6,
+      "id": 9,
+      "name": "Chainsaw",
+      "ru_name": "Бензопила"
+    },
+    {
+      "damage": 4.62,
+      "id": 10,
+      "name": "Purple Dildo",
+      "price": 1500,
+      "ru_name": "Двухсторонний дилдо"
+    },
+    {
+      "damage": 2.64,
+      "id": 11,
+      "name": "Dildo",
+      "ru_name": "Дилдо"
+    },
+    {
+      "damage": 4.62,
+      "id": 12,
+      "name": "Vibrator",
+      "ru_name": "Вибратор"
+    },
+    {
+      "damage": 2.64,
+      "id": 13,
+      "name": "Silver Vibrator",
+      "ru_name": "Серебряный вибратор"
+    },
+    {
+      "damage": 4.62,
+      "id": 14,
+      "name": "Flowers",
+      "price": 3000,
+      "ru_name": "Букет цветов"
+    },
+    {
+      "damage": 2.64,
+      "id": 15,
+      "name": "Cane",
+      "price": 1300,
+      "ru_name": "Трость"
+    },
+    {
+      "ammo": 17,
+      "damage": 8.25,
+      "id": 22,
+      "max_damage": 16.5,
+      "name": "9mm",
+      "ru_name": "Пистолет 9мм"
+    },
+    {
+      "ammo": 17,
+      "damage": 13.2,
+      "id": 23,
+      "name": "Silenced 9mm",
+      "price": 300,
+      "ru_name": "Пистолет с глушителем",
+      "skill": {
+        "max": 1000,
+        "min": 350
+      }
+    },
+    {
+      "ammo": 7,
+      "damage": 46.2,
+      "id": 24,
+      "name": "Desert Eagle",
+      "price": 500,
+      "ru_name": "Пустынный орёл",
+      "skill": {
+        "max": 700,
+        "min": 500
+      }
+    },
+    {
+      "ammo": 1,
+      "damage": 6.6,
+      "id": 25,
+      "max_damage": 49.5,
+      "name": "Shotgun",
+      "price": 500,
+      "ru_name": "Обычный дробовик",
+      "skill": {
+        "max": 500,
+        "min": 250
+      }
+    },
+    {
+      "ammo": 2,
+      "damage": 3.3,
+      "id": 26,
+      "max_damage": 95.7,
+      "name": "Sawnoff Shotgun",
+      "ru_name": "Обрез"
+    },
+    {
+      "ammo": 7,
+      "damage": 14.85,
+      "id": 27,
+      "max_damage": 39.6,
+      "name": "Combat Shotgun",
+      "ru_name": "Скорострельный дробовик"
+    },
+    {
+      "ammo": 50,
+      "damage": 6.6,
+      "id": 28,
+      "max_damage": 13.2,
+      "name": "Uzi",
+      "ru_name": "Узи"
+    },
+    {
+      "ammo": 30,
+      "damage": 8.25,
+      "id": 29,
+      "name": "MP5",
+      "price": 250,
+      "ru_name": "МП5",
+      "skill": {
+        "max": 2500,
+        "min": 1250
+      }
+    },
+    {
+      "ammo": 30,
+      "damage": 9.9,
+      "id": 30,
+      "name": "AK-47",
+      "price": 500,
+      "ru_name": "Автомат Калашникова",
+      "skill": {
+        "max": 3500,
+        "min": 1750
+      }
+    },
+    {
+      "ammo": 30,
+      "damage": 9.9,
+      "id": 31,
+      "name": "M4",
+      "price": 500,
+      "ru_name": "Винтовка M4",
+      "skill": {
+        "max": 3500,
+        "min": 1750
+      }
+    },
+    {
+      "ammo": 50,
+      "damage": 13.2,
+      "id": 32,
+      "name": "Tec-9",
+      "ru_name": "Тек-9"
+    },
+    {
+      "ammo": 1,
+      "damage": 24.75,
+      "id": 33,
+      "name": "Country Rifle",
+      "price": 750,
+      "ru_name": "Охотничье ружьё"
+    },
+    {
+      "ammo": 1,
+      "comment": "Покупка в АММО доступна только для членов Мафии",
+      "damage": 41.25,
+      "id": 34,
+      "name": "Sniper Rifle",
+      "price": 25000,
+      "ru_name": "Снайперская винтовка"
+    },
+    {
+      "ammo": 500,
+      "damage": 46.2,
+      "id": 38,
+      "name": "Minigun",
+      "ru_name": "Миниган"
+    },
+    {
+      "ammo": 500,
+      "damage": 0.11,
+      "id": 42,
+      "name": "Fire Extinguisher",
+      "ru_name": "Огнетушитель"
+    },
+    {
+      "id": 44,
+      "name": "Night Vision Goggles",
+      "price": 5000,
+      "ru_name": "Прибор ночного видения"
+    },
+    {
+      "id": 45,
+      "name": "Thermal Goggles",
+      "price": 5000,
+      "ru_name": "Тепловизор"
+    },
+    {
+      "id": 46,
+      "name": "Parachute",
+      "price": 1000,
+      "ru_name": "Парашют"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,3485 @@
+{
+  "dataset": [
+    {
+      "class": "N",
+      "id": 400,
+      "name": "Landstalker",
+      "price": 130000,
+      "replacement": 400,
+      "speed": 87,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 401,
+      "name": "Bravura",
+      "price": 340000,
+      "replacement": 401,
+      "speed": 81,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 402,
+      "name": "Buffalo",
+      "price": 4800000,
+      "replacement": 402,
+      "speed": 103,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Фуры",
+      "id": 403,
+      "name": "Linerunner",
+      "price": 27000000,
+      "replacement": 403,
+      "speed": 61,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 404,
+      "name": "Pereniel",
+      "price": 100000,
+      "replacement": 404,
+      "speed": 73,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 405,
+      "name": "Sentinel",
+      "price": 400000,
+      "replacement": 405,
+      "speed": 91,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 406,
+      "name": "Dumper",
+      "price": 843080,
+      "replacement": 406,
+      "speed": 61,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 407,
+      "name": "Firetruck",
+      "price": 143360,
+      "replacement": 407,
+      "speed": 82,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 408,
+      "name": "Trashmaster",
+      "price": 133000,
+      "replacement": 408,
+      "speed": 55,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 409,
+      "name": "Stretch",
+      "price": 0,
+      "replacement": 409,
+      "speed": 87,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 410,
+      "name": "Manana",
+      "price": 36414,
+      "replacement": 410,
+      "speed": 72,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 411,
+      "name": "Infernus",
+      "price": 6000000,
+      "replacement": 411,
+      "speed": 123,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 412,
+      "name": "Voodoo",
+      "price": 390000,
+      "replacement": 412,
+      "speed": 93,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 413,
+      "name": "Pony",
+      "price": 5000000,
+      "replacement": 413,
+      "speed": 61,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 414,
+      "name": "Mule",
+      "price": 192080,
+      "replacement": 414,
+      "speed": 58,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 415,
+      "name": "Cheetah",
+      "price": 5600000,
+      "replacement": 415,
+      "speed": 107,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 416,
+      "name": "Ambulance",
+      "price": 143640,
+      "replacement": 416,
+      "speed": 86,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 417,
+      "name": "Leviathan",
+      "price": 1681680,
+      "replacement": 417,
+      "speed": 110,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "C",
+      "id": 418,
+      "name": "Moonbeam",
+      "price": 700000,
+      "replacement": 418,
+      "speed": 64,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 419,
+      "name": "Esperanto",
+      "price": 800000,
+      "replacement": 419,
+      "speed": 83,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 420,
+      "name": "Taxi",
+      "price": 103040,
+      "replacement": 420,
+      "speed": 80,
+      "trunk": 6,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 421,
+      "name": "Washington",
+      "price": 830000,
+      "replacement": 421,
+      "speed": 85,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 422,
+      "name": "Bobcat",
+      "price": 310000,
+      "replacement": 422,
+      "speed": 77,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 423,
+      "name": "Mr Whoopee",
+      "price": 0,
+      "replacement": 423,
+      "speed": 55,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 424,
+      "name": "BF Injection",
+      "price": 5000000,
+      "replacement": 424,
+      "speed": 75,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 425,
+      "name": "Hunter",
+      "price": 1597400,
+      "replacement": 425,
+      "speed": 110,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "D",
+      "id": 426,
+      "name": "Premier",
+      "price": 420000,
+      "replacement": 426,
+      "speed": 96,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 427,
+      "name": "Enforcer",
+      "price": 81200,
+      "replacement": 427,
+      "speed": 92,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 428,
+      "name": "Securicar",
+      "price": 0,
+      "replacement": 428,
+      "speed": 87,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 429,
+      "name": "Banshee",
+      "price": 5400000,
+      "replacement": 429,
+      "speed": 112,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Водный транспорт",
+      "id": 430,
+      "name": "Predator",
+      "price": 1443400,
+      "replacement": 430,
+      "speed": 88,
+      "trunk": 0,
+      "type": 2
+    },
+    {
+      "class": "Нет",
+      "id": 431,
+      "name": "Bus",
+      "price": 101220,
+      "replacement": 431,
+      "speed": 73,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 432,
+      "name": "Rhino",
+      "price": 85400,
+      "replacement": 432,
+      "speed": 52,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 433,
+      "name": "Barracks",
+      "price": 92120,
+      "replacement": 433,
+      "speed": 61,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 434,
+      "name": "Hotknife",
+      "price": 4800000,
+      "replacement": 434,
+      "speed": 92,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 435,
+      "name": "Trailer",
+      "price": 120400,
+      "replacement": 435,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "N",
+      "id": 436,
+      "name": "Previon",
+      "price": 100000,
+      "replacement": 436,
+      "speed": 83,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 437,
+      "name": "Coach",
+      "price": 112000,
+      "replacement": 437,
+      "speed": 88,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 438,
+      "name": "Cabbie",
+      "price": 115640,
+      "replacement": 438,
+      "speed": 79,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 439,
+      "name": "Stallion",
+      "price": 150000,
+      "replacement": 439,
+      "speed": 93,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 440,
+      "name": "Rumpo",
+      "price": 131040,
+      "replacement": 440,
+      "speed": 76,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 441,
+      "name": "RC Bandit",
+      "price": 569940,
+      "replacement": 441,
+      "speed": 42,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "A",
+      "id": 442,
+      "name": "Romero",
+      "price": 5000000,
+      "replacement": 442,
+      "speed": 77,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 443,
+      "name": "Packer",
+      "price": 80080,
+      "replacement": 443,
+      "speed": 70,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 444,
+      "name": "Monster",
+      "price": 0,
+      "replacement": 444,
+      "speed": 62,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 445,
+      "name": "Admiral",
+      "price": 810000,
+      "replacement": 445,
+      "speed": 91,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Водный транспорт",
+      "id": 446,
+      "name": "Squalo",
+      "price": 8000000,
+      "replacement": 446,
+      "speed": 120,
+      "trunk": 0,
+      "type": 2
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 447,
+      "name": "Seasparrow",
+      "price": 1569680,
+      "replacement": 447,
+      "speed": 102,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "A",
+      "id": 448,
+      "name": "Pizzaboy",
+      "price": 3000000,
+      "replacement": 448,
+      "speed": 62,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "Нет",
+      "id": 449,
+      "name": "Tram",
+      "price": 29400,
+      "replacement": 449,
+      "speed": 100,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Нет",
+      "id": 450,
+      "name": "Trailer",
+      "price": 204400,
+      "replacement": 450,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "A",
+      "id": 451,
+      "name": "Turismo",
+      "price": 6000000,
+      "replacement": 451,
+      "speed": 107,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Водный транспорт",
+      "id": 452,
+      "name": "Speeder",
+      "price": 1428840,
+      "replacement": 452,
+      "speed": 90,
+      "trunk": 0,
+      "type": 2
+    },
+    {
+      "class": "Водный транспорт",
+      "id": 453,
+      "name": "Reefer",
+      "price": 1428840,
+      "replacement": 453,
+      "speed": 27,
+      "trunk": 0,
+      "type": 2
+    },
+    {
+      "class": "Водный транспорт",
+      "id": 454,
+      "name": "Tropic",
+      "price": 14000000,
+      "replacement": 454,
+      "speed": 66,
+      "trunk": 0,
+      "type": 2
+    },
+    {
+      "class": "Нет",
+      "id": 455,
+      "name": "Flatbed",
+      "price": 157080,
+      "replacement": 455,
+      "speed": 87,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 456,
+      "name": "Yankee",
+      "price": 185080,
+      "replacement": 456,
+      "speed": 59,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 457,
+      "name": "Caddy",
+      "price": 3000000,
+      "replacement": 457,
+      "speed": 52,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 458,
+      "name": "Solair",
+      "price": 120000,
+      "replacement": 458,
+      "speed": 87,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 459,
+      "name": "Topfun Van (Berkley's RC)",
+      "price": 5000000,
+      "replacement": 459,
+      "speed": 75,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 460,
+      "name": "Skimmer",
+      "price": 2817080,
+      "replacement": 460,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "C",
+      "id": 461,
+      "name": "PCJ-600",
+      "price": 1000000,
+      "replacement": 461,
+      "speed": 89,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "Нет",
+      "id": 462,
+      "name": "Faggio",
+      "price": 0,
+      "replacement": 462,
+      "speed": 72,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "B",
+      "id": 463,
+      "name": "Freeway",
+      "price": 2000000,
+      "replacement": 463,
+      "speed": 79,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "Нет",
+      "id": 464,
+      "name": "RC Baron",
+      "price": 1547700,
+      "replacement": 464,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Нет",
+      "id": 465,
+      "name": "RC Raider",
+      "price": 1547700,
+      "replacement": 465,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "N",
+      "id": 466,
+      "name": "Glendale",
+      "price": 110000,
+      "replacement": 466,
+      "speed": 81,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 467,
+      "name": "Oceanic",
+      "price": 390000,
+      "replacement": 467,
+      "speed": 78,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "B",
+      "id": 468,
+      "name": "Sanchez",
+      "price": 1900000,
+      "replacement": 468,
+      "speed": 80,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 469,
+      "name": "Sparrow",
+      "price": 10000000,
+      "replacement": 469,
+      "speed": 98,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "A",
+      "id": 470,
+      "name": "Patriot",
+      "price": 5000000,
+      "replacement": 470,
+      "speed": 87,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "B",
+      "id": 471,
+      "name": "Quad",
+      "price": 2100000,
+      "replacement": 471,
+      "speed": 61,
+      "trunk": 1,
+      "type": 0
+    },
+    {
+      "class": "Водный транспорт",
+      "id": 472,
+      "name": "Coastguard",
+      "price": 1428840,
+      "replacement": 472,
+      "speed": 71,
+      "trunk": 0,
+      "type": 2
+    },
+    {
+      "class": "Водный транспорт",
+      "id": 473,
+      "name": "Dinghy",
+      "price": 532000,
+      "replacement": 473,
+      "speed": 58,
+      "trunk": 0,
+      "type": 2
+    },
+    {
+      "class": "D",
+      "id": 474,
+      "name": "Hermes",
+      "price": 370000,
+      "replacement": 474,
+      "speed": 83,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 475,
+      "name": "Sabre",
+      "price": 190000,
+      "replacement": 475,
+      "speed": 96,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 476,
+      "name": "Rustler",
+      "price": 2955400,
+      "replacement": 476,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "B",
+      "id": 477,
+      "name": "ZR-350",
+      "price": 2200000,
+      "replacement": 477,
+      "speed": 103,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 478,
+      "name": "Walton",
+      "price": 100000,
+      "replacement": 478,
+      "speed": 65,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 479,
+      "name": "Regina",
+      "price": 110000,
+      "replacement": 479,
+      "speed": 77,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "B",
+      "id": 480,
+      "name": "Comet",
+      "price": 2400000,
+      "replacement": 480,
+      "speed": 102,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 481,
+      "name": "BMX",
+      "price": 2500000,
+      "replacement": 481,
+      "speed": 55,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "A",
+      "id": 482,
+      "name": "Burrito",
+      "price": 5000000,
+      "replacement": 482,
+      "speed": 87,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 483,
+      "name": "Camper",
+      "price": 5000000,
+      "replacement": 483,
+      "speed": 68,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "Водный транспорт",
+      "id": 484,
+      "name": "Marquis",
+      "price": 12000000,
+      "replacement": 484,
+      "speed": 31,
+      "trunk": 0,
+      "type": 2
+    },
+    {
+      "class": "Нет",
+      "id": 485,
+      "name": "Baggage",
+      "price": 0,
+      "replacement": 485,
+      "speed": 55,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Нет",
+      "id": 486,
+      "name": "Dozer",
+      "price": 462700,
+      "replacement": 486,
+      "speed": 35,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 487,
+      "name": "Maverick",
+      "price": 14000000,
+      "replacement": 487,
+      "speed": 126,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 488,
+      "name": "News Maverick",
+      "price": 156968,
+      "replacement": 488,
+      "speed": 120,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "C",
+      "id": 489,
+      "name": "Rancher",
+      "price": 880000,
+      "replacement": 489,
+      "speed": 77,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 490,
+      "name": "FBI Rancher",
+      "price": 5000000,
+      "replacement": 490,
+      "speed": 87,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 491,
+      "name": "Virgo",
+      "price": 800000,
+      "replacement": 491,
+      "speed": 82,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 492,
+      "name": "Greenwood",
+      "price": 140000,
+      "replacement": 492,
+      "speed": 78,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Водный транспорт",
+      "id": 493,
+      "name": "Jetmax",
+      "price": 10000000,
+      "replacement": 493,
+      "speed": 97,
+      "trunk": 0,
+      "type": 2
+    },
+    {
+      "class": "A",
+      "id": 494,
+      "name": "Hotring Racer",
+      "price": 6000000,
+      "replacement": 494,
+      "speed": 119,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 495,
+      "name": "Sandking",
+      "price": 5800000,
+      "replacement": 495,
+      "speed": 98,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 496,
+      "name": "Blista",
+      "price": 800000,
+      "replacement": 496,
+      "speed": 90,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 497,
+      "name": "Police Maverick",
+      "price": 159824,
+      "replacement": 497,
+      "speed": 130,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "Нет",
+      "id": 498,
+      "name": "Boxville",
+      "price": 63343,
+      "replacement": 498,
+      "speed": 60,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 499,
+      "name": "Benson",
+      "price": 109284,
+      "replacement": 499,
+      "speed": 68,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 500,
+      "name": "Mesa",
+      "price": 5000000,
+      "replacement": 500,
+      "speed": 78,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 501,
+      "name": "RC Goblin",
+      "price": 1547700,
+      "replacement": 501,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "A",
+      "id": 502,
+      "name": "Hotring Racer A",
+      "price": 6000000,
+      "replacement": 502,
+      "speed": 119,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 503,
+      "name": "Hotring Racer B",
+      "price": 6000000,
+      "replacement": 503,
+      "speed": 119,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 504,
+      "name": "Bloodring Banger",
+      "price": 5000000,
+      "replacement": 504,
+      "speed": 96,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 505,
+      "name": "Rancher",
+      "price": 880000,
+      "replacement": 505,
+      "speed": 77,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 506,
+      "name": "Super GT",
+      "price": 5100000,
+      "replacement": 506,
+      "speed": 99,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 507,
+      "name": "Elegant",
+      "price": 450000,
+      "replacement": 507,
+      "speed": 92,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Дома на колёсах",
+      "id": 508,
+      "name": "Journey",
+      "price": 8000000,
+      "replacement": 508,
+      "speed": 60,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 509,
+      "name": "Bike",
+      "price": 2500000,
+      "replacement": 509,
+      "speed": 59,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "Нет",
+      "id": 510,
+      "name": "Mountain Bike",
+      "price": 5000000,
+      "replacement": 510,
+      "speed": 74,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 511,
+      "name": "Beagle",
+      "price": 20000000,
+      "replacement": 511,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 512,
+      "name": "Cropduster",
+      "price": 10000000,
+      "replacement": 512,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 513,
+      "name": "Stuntplane",
+      "price": 10000000,
+      "replacement": 513,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "Фуры",
+      "id": 514,
+      "name": "Tanker",
+      "price": 20000000,
+      "replacement": 514,
+      "speed": 67,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "Фуры",
+      "id": 515,
+      "name": "RoadTrain",
+      "price": 34000000,
+      "replacement": 515,
+      "speed": 79,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 516,
+      "name": "Nebula",
+      "price": 140000,
+      "replacement": 516,
+      "speed": 87,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 517,
+      "name": "Majestic",
+      "price": 150000,
+      "replacement": 517,
+      "speed": 87,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 518,
+      "name": "Buccaneer",
+      "price": 170000,
+      "replacement": 518,
+      "speed": 91,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 519,
+      "name": "Shamal",
+      "price": 30000000,
+      "replacement": 519,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 520,
+      "name": "Hydra",
+      "price": 3585400,
+      "replacement": 520,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "B",
+      "id": 521,
+      "name": "FCR-900",
+      "price": 1900000,
+      "replacement": 521,
+      "speed": 89,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "A",
+      "id": 522,
+      "name": "NRG-500",
+      "price": 4600000,
+      "replacement": 522,
+      "speed": 98,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "Нет",
+      "id": 523,
+      "name": "HPV1000",
+      "price": 53200,
+      "replacement": 523,
+      "speed": 84,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "Нет",
+      "id": 524,
+      "name": "Cement",
+      "price": 94080,
+      "replacement": 524,
+      "speed": 72,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 525,
+      "name": "Tow",
+      "price": 245840,
+      "replacement": 525,
+      "speed": 89,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 526,
+      "name": "Fortune",
+      "price": 110000,
+      "replacement": 526,
+      "speed": 87,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 527,
+      "name": "Cadrona",
+      "price": 100000,
+      "replacement": 527,
+      "speed": 83,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 528,
+      "name": "FBI Truck",
+      "price": 5000000,
+      "replacement": 528,
+      "speed": 98,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 529,
+      "name": "Willard",
+      "price": 440000,
+      "replacement": 529,
+      "speed": 82,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 530,
+      "name": "Forklift",
+      "price": 429800,
+      "replacement": 530,
+      "speed": 33,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 531,
+      "name": "Tractor",
+      "price": 72800,
+      "replacement": 531,
+      "speed": 39,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 532,
+      "name": "Combine",
+      "price": 842800,
+      "replacement": 532,
+      "speed": 61,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 533,
+      "name": "Feltzer",
+      "price": 920000,
+      "replacement": 533,
+      "speed": 92,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 534,
+      "name": "Remington",
+      "price": 760000,
+      "replacement": 534,
+      "speed": 93,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "B",
+      "id": 535,
+      "name": "Slamvan",
+      "price": 2000000,
+      "replacement": 535,
+      "speed": 87,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 536,
+      "name": "Blade",
+      "price": 440000,
+      "replacement": 536,
+      "speed": 96,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 537,
+      "name": "Freight",
+      "price": 155400,
+      "replacement": 537,
+      "speed": 96,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Нет",
+      "id": 538,
+      "name": "Streak",
+      "price": 155400,
+      "replacement": 538,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "A",
+      "id": 539,
+      "name": "Vortex",
+      "price": 5000000,
+      "replacement": 539,
+      "speed": 61,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 540,
+      "name": "Vincent",
+      "price": 330000,
+      "replacement": 540,
+      "speed": 83,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 541,
+      "name": "Bullet",
+      "price": 6000000,
+      "replacement": 541,
+      "speed": 112,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 542,
+      "name": "Clover",
+      "price": 120000,
+      "replacement": 542,
+      "speed": 91,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 543,
+      "name": "Sadler",
+      "price": 100000,
+      "replacement": 543,
+      "speed": 84,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 544,
+      "name": "Firetruck",
+      "price": 115080,
+      "replacement": 544,
+      "speed": 82,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "B",
+      "id": 545,
+      "name": "Hustler",
+      "price": 1900000,
+      "replacement": 545,
+      "speed": 81,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 546,
+      "name": "Intruder",
+      "price": 140000,
+      "replacement": 546,
+      "speed": 82,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 547,
+      "name": "Primo",
+      "price": 110000,
+      "replacement": 547,
+      "speed": 79,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 548,
+      "name": "Cargobob",
+      "price": 168147,
+      "replacement": 548,
+      "speed": 115,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "N",
+      "id": 549,
+      "name": "Tampa",
+      "price": 120000,
+      "replacement": 549,
+      "speed": 85,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 550,
+      "name": "Sunrise",
+      "price": 480000,
+      "replacement": 550,
+      "speed": 80,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 551,
+      "name": "Merit",
+      "price": 480000,
+      "replacement": 551,
+      "speed": 87,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 552,
+      "name": "Utility",
+      "price": 0,
+      "replacement": 552,
+      "speed": 67,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 553,
+      "name": "Nevada",
+      "price": 3641400,
+      "replacement": 553,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "C",
+      "id": 554,
+      "name": "Yosemite",
+      "price": 840000,
+      "replacement": 554,
+      "speed": 80,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 555,
+      "name": "Windsor",
+      "price": 940000,
+      "replacement": 555,
+      "speed": 87,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 556,
+      "name": "Monster",
+      "price": 0,
+      "replacement": 556,
+      "speed": 61,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 557,
+      "name": "Monster",
+      "price": 0,
+      "replacement": 557,
+      "speed": 61,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "B",
+      "id": 558,
+      "name": "Uranus",
+      "price": 2100000,
+      "replacement": 558,
+      "speed": 86,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "B",
+      "id": 559,
+      "name": "Jester",
+      "price": 2200000,
+      "replacement": 559,
+      "speed": 98,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "B",
+      "id": 560,
+      "name": "Sultan",
+      "price": 2250000,
+      "replacement": 560,
+      "speed": 94,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 561,
+      "name": "Stratum",
+      "price": 910000,
+      "replacement": 561,
+      "speed": 85,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "B",
+      "id": 562,
+      "name": "Elegy",
+      "price": 2200000,
+      "replacement": 562,
+      "speed": 99,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 563,
+      "name": "Raindance",
+      "price": 1681680,
+      "replacement": 563,
+      "speed": 116,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "Нет",
+      "id": 564,
+      "name": "RC Tiger",
+      "price": 581700,
+      "replacement": 564,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "B",
+      "id": 565,
+      "name": "Flash",
+      "price": 2100000,
+      "replacement": 565,
+      "speed": 91,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 566,
+      "name": "Tahoma",
+      "price": 340000,
+      "replacement": 566,
+      "speed": 89,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "N",
+      "id": 567,
+      "name": "Savanna",
+      "price": 200000,
+      "replacement": 567,
+      "speed": 96,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 568,
+      "name": "Bandito",
+      "price": 5000000,
+      "replacement": 568,
+      "speed": 81,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 569,
+      "name": "Freight",
+      "price": 155400,
+      "replacement": 569,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Нет",
+      "id": 570,
+      "name": "Trailer",
+      "price": 155400,
+      "replacement": 570,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Нет",
+      "id": 571,
+      "name": "Kart",
+      "price": 3000000,
+      "replacement": 571,
+      "speed": 51,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 572,
+      "name": "Mower",
+      "price": 0,
+      "replacement": 572,
+      "speed": 33,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "A",
+      "id": 573,
+      "name": "Duneride",
+      "price": 5000000,
+      "replacement": 573,
+      "speed": 61,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 574,
+      "name": "Sweeper",
+      "price": 429940,
+      "replacement": 574,
+      "speed": 33,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 575,
+      "name": "Broadway",
+      "price": 460000,
+      "replacement": 575,
+      "speed": 87,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 576,
+      "name": "Tornado",
+      "price": 350000,
+      "replacement": 576,
+      "speed": 87,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 577,
+      "name": "AT-400",
+      "price": 3641400,
+      "replacement": 577,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "Нет",
+      "id": 578,
+      "name": "DFT-30",
+      "price": 192080,
+      "replacement": 578,
+      "speed": 72,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 579,
+      "name": "Huntley",
+      "price": 940000,
+      "replacement": 579,
+      "speed": 87,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 580,
+      "name": "Stafford",
+      "price": 1000000,
+      "replacement": 580,
+      "speed": 85,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 581,
+      "name": "BF-400",
+      "price": 1000000,
+      "replacement": 581,
+      "speed": 85,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "Нет",
+      "id": 582,
+      "name": "Newsvan",
+      "price": 40600,
+      "replacement": 582,
+      "speed": 88,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 583,
+      "name": "Tug",
+      "price": 63000,
+      "replacement": 583,
+      "speed": 76,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 584,
+      "name": "Trailer",
+      "price": 197400,
+      "replacement": 584,
+      "speed": 20,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 585,
+      "name": "Emperor",
+      "price": 360000,
+      "replacement": 585,
+      "speed": 85,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 586,
+      "name": "Wayfarer",
+      "price": 800000,
+      "replacement": 586,
+      "speed": 87,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "B",
+      "id": 587,
+      "name": "Euros",
+      "price": 2100000,
+      "replacement": 587,
+      "speed": 87,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 588,
+      "name": "Hotdog",
+      "price": 0,
+      "replacement": 588,
+      "speed": 60,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 589,
+      "name": "Club",
+      "price": 770000,
+      "replacement": 589,
+      "speed": 90,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 590,
+      "name": "Trailer",
+      "price": 155400,
+      "replacement": 590,
+      "speed": 90,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Нет",
+      "id": 591,
+      "name": "Trailer",
+      "price": 155400,
+      "replacement": 591,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 592,
+      "name": "Andromada",
+      "price": 3641400,
+      "replacement": 592,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "Воздушный транспорт",
+      "id": 593,
+      "name": "Dodo",
+      "price": 12000000,
+      "replacement": 593,
+      "speed": 150,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "Нет",
+      "id": 594,
+      "name": "RC Cam",
+      "price": 441700,
+      "replacement": 594,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Водный транспорт",
+      "id": 595,
+      "name": "Launch",
+      "price": 1442700,
+      "replacement": 595,
+      "speed": 57,
+      "trunk": 0,
+      "type": 2
+    },
+    {
+      "class": "Нет",
+      "id": 596,
+      "name": "Police Car (LSPD)",
+      "price": 0,
+      "replacement": 596,
+      "speed": 98,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 597,
+      "name": "Police Car (SFPD)",
+      "price": 0,
+      "replacement": 597,
+      "speed": 98,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 598,
+      "name": "Police Car (LVPD)",
+      "price": 0,
+      "replacement": 598,
+      "speed": 98,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 599,
+      "name": "Police Ranger",
+      "price": 37912,
+      "replacement": 599,
+      "speed": 88,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "D",
+      "id": 600,
+      "name": "Picador",
+      "price": 420000,
+      "replacement": 600,
+      "speed": 88,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 601,
+      "name": "S.W.A.T.",
+      "price": 34146,
+      "replacement": 601,
+      "speed": 84,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "B",
+      "id": 602,
+      "name": "Alpha",
+      "price": 2000000,
+      "replacement": 602,
+      "speed": 94,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "C",
+      "id": 603,
+      "name": "Phoenix",
+      "price": 750000,
+      "replacement": 603,
+      "speed": 95,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 604,
+      "name": "Glendale (Shit)",
+      "price": 2500000,
+      "replacement": 604,
+      "speed": 81,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 605,
+      "name": "Sadler (Shit)",
+      "price": 2500000,
+      "replacement": 605,
+      "speed": 93,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 606,
+      "name": "Luggage",
+      "price": 183400,
+      "replacement": 606,
+      "speed": 95,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Нет",
+      "id": 607,
+      "name": "Luggage",
+      "price": 155400,
+      "replacement": 607,
+      "speed": 87,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Нет",
+      "id": 608,
+      "name": "Stair",
+      "price": 127400,
+      "replacement": 608,
+      "speed": 73,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "Нет",
+      "id": 609,
+      "name": "Boxville",
+      "price": 0,
+      "replacement": 609,
+      "speed": 59,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 610,
+      "name": "Farm",
+      "price": 127400,
+      "replacement": 610,
+      "speed": 20,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 611,
+      "name": "Utility",
+      "price": 127400,
+      "replacement": 611,
+      "speed": 20,
+      "trunk": 0,
+      "type": 7
+    },
+    {
+      "class": "E",
+      "id": 12500,
+      "name": "Skoda Octavia A7",
+      "price": 7874016,
+      "replacement": 421,
+      "speed": 96,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12501,
+      "name": "BMW M5 F90",
+      "price": 47244096,
+      "replacement": 405,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12502,
+      "name": "Lamborghini Aventador",
+      "price": 59055120,
+      "replacement": 451,
+      "speed": 135,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12503,
+      "name": "Mercedes-Benz E63 AMG w212",
+      "price": 20000000,
+      "replacement": 445,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12504,
+      "name": "Mercedes-Benz G63 w464",
+      "price": 39370080,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12505,
+      "name": "Porsche Panamera",
+      "price": 43307088,
+      "replacement": 560,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12506,
+      "name": "Volkswagen Touareg NF",
+      "price": 15748032,
+      "replacement": 400,
+      "speed": 105,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12507,
+      "name": "Audi R8",
+      "price": 31496064,
+      "replacement": 415,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12508,
+      "name": "Bentley Continental GT",
+      "price": 47244096,
+      "replacement": 602,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12509,
+      "name": "Toyota Camry v40",
+      "price": 7874016,
+      "replacement": 551,
+      "speed": 96,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12510,
+      "name": "Kia Stinger",
+      "price": 11811024,
+      "replacement": 585,
+      "speed": 98,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12511,
+      "name": "Lamborghini Urus",
+      "price": 51181104,
+      "replacement": 579,
+      "speed": 120,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12512,
+      "name": "Volkswagen Golf GTI Mk7",
+      "price": 11811024,
+      "replacement": 589,
+      "speed": 100,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12513,
+      "name": "Toyota Supra A80",
+      "price": 11811024,
+      "replacement": 559,
+      "speed": 110,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12514,
+      "name": "Nissan Skyline r34",
+      "price": 19685040,
+      "replacement": 562,
+      "speed": 112,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12515,
+      "name": "Ford GT40",
+      "price": 19685040,
+      "replacement": 541,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12516,
+      "name": "Audi RS6 Avant",
+      "price": 27559056,
+      "replacement": 561,
+      "speed": 120,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12517,
+      "name": "BMW Z4 Roadster",
+      "price": 15748032,
+      "replacement": 555,
+      "speed": 110,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12518,
+      "name": "DeLorean DMC-12",
+      "price": 7874016,
+      "replacement": 527,
+      "speed": 91,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12519,
+      "name": "Lexus IS250",
+      "price": 10236222,
+      "replacement": 507,
+      "speed": 96,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12520,
+      "name": "BMW M3 e30",
+      "price": 7874016,
+      "replacement": 549,
+      "speed": 93,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12521,
+      "name": "Mercedes-Benz G65 w463",
+      "price": 31496064,
+      "replacement": 579,
+      "speed": 112,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12522,
+      "name": "Dodge RAM SRT60",
+      "price": 13385828,
+      "replacement": 554,
+      "speed": 100,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12523,
+      "name": "BMW X5M E70",
+      "price": 31496064,
+      "replacement": 579,
+      "speed": 112,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12524,
+      "name": "Mazda MX5",
+      "price": 6299213,
+      "replacement": 439,
+      "speed": 96,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12525,
+      "name": "Mercedes C63 w204",
+      "price": 15748032,
+      "replacement": 426,
+      "speed": 115,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12526,
+      "name": "Jaguar F-Type SVR",
+      "price": 23622048,
+      "replacement": 506,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Дома на колёсах",
+      "id": 12527,
+      "name": "Ford E350 Alcove",
+      "price": 11811024,
+      "replacement": 508,
+      "speed": 80,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "Фуры",
+      "id": 12528,
+      "name": "Volvo VNL 630",
+      "price": 43500000,
+      "replacement": 515,
+      "speed": 85,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12529,
+      "name": "Dodge Charger LVPD",
+      "price": 0,
+      "replacement": 598,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12530,
+      "name": "Cadillac Escalade",
+      "price": 0,
+      "replacement": 490,
+      "speed": 103,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12531,
+      "name": "Dodge Charger LSPD",
+      "price": 0,
+      "replacement": 596,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12532,
+      "name": "Dodge Charger SFPD",
+      "price": 0,
+      "replacement": 597,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12533,
+      "name": "Hummer H1",
+      "price": 0,
+      "replacement": 470,
+      "speed": 87,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12534,
+      "name": "Mercedes CLS63 AMG w219",
+      "price": 19685040,
+      "replacement": 551,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Дома на колёсах",
+      "id": 12535,
+      "name": "Fiat Ducato Alcove",
+      "price": 9842520,
+      "replacement": 508,
+      "speed": 82,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12536,
+      "name": "Lada Priora Pickup",
+      "price": 19685040,
+      "replacement": 600,
+      "speed": 90,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12537,
+      "name": "Mercedes GTR AMG",
+      "price": 59055120,
+      "replacement": 415,
+      "speed": 135,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12538,
+      "name": "Rolls-Royce Phantom",
+      "price": 62992128,
+      "replacement": 580,
+      "speed": 113,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12539,
+      "name": "BMW M8",
+      "price": 51181104,
+      "replacement": 415,
+      "speed": 132,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12540,
+      "name": "BMW M3 G80",
+      "price": 39370080,
+      "replacement": 560,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12541,
+      "name": "Lexus LX570",
+      "price": 31496064,
+      "replacement": 579,
+      "speed": 100,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12542,
+      "name": "Dodge Charger 1969",
+      "price": 5511811,
+      "replacement": 475,
+      "speed": 100,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12543,
+      "name": "Chevy Impala SS 1964",
+      "price": 5511811,
+      "replacement": 412,
+      "speed": 95,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12544,
+      "name": "BMW X5M F95 Competition",
+      "price": 47244096,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12545,
+      "name": "Audi RS 7",
+      "price": 47244096,
+      "replacement": 585,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12546,
+      "name": "Range Rover Sport SVR",
+      "price": 43307088,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12547,
+      "name": "Ford Crown Victoria Taxi",
+      "price": 0,
+      "replacement": 420,
+      "speed": 81,
+      "trunk": 6,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12548,
+      "name": "BMW S 1000 RR",
+      "price": 25000000,
+      "replacement": 522,
+      "speed": 125,
+      "trunk": 2,
+      "type": 3
+    },
+    {
+      "class": "E",
+      "id": 12549,
+      "name": "Mercedes-Benz S-Class w222",
+      "price": 59055120,
+      "replacement": 421,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12550,
+      "name": "Bugatti Divo",
+      "price": 100000000,
+      "replacement": 415,
+      "speed": 145,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12551,
+      "name": "Jaguar Mk2 (Mark 2)",
+      "price": 0,
+      "replacement": 438,
+      "speed": 92,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12552,
+      "name": "Kia K5",
+      "price": 9000000,
+      "replacement": 421,
+      "speed": 102,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12553,
+      "name": "Ferrari 488 Pista",
+      "price": 47244096,
+      "replacement": 415,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12554,
+      "name": "Porsche Taycan",
+      "price": 39370080,
+      "replacement": 585,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12555,
+      "name": "Aston Martin DB11",
+      "price": 47244096,
+      "replacement": 559,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Фуры",
+      "id": 12556,
+      "name": "Peterbilt 379",
+      "price": 43307088,
+      "replacement": 515,
+      "speed": 83,
+      "trunk": 0,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12557,
+      "name": "ВАЗ 2114",
+      "price": 1000000,
+      "replacement": 529,
+      "speed": 90,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12558,
+      "name": "Mercedes-Benz CLS53 AMG w257",
+      "price": 31496064,
+      "replacement": 421,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12559,
+      "name": "Audi Q7",
+      "price": 31496064,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12560,
+      "name": "Mercedes-Benz GT63S AMG",
+      "price": 59055120,
+      "replacement": 585,
+      "speed": 135,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 12561,
+      "name": "GMC C5500",
+      "price": 0,
+      "replacement": 578,
+      "speed": 72,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12562,
+      "name": "Mazda 3 MPS",
+      "price": 6000000,
+      "replacement": 561,
+      "speed": 100,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12563,
+      "name": "Ducati SuperSport S",
+      "price": 25000000,
+      "replacement": 461,
+      "speed": 125,
+      "trunk": 1,
+      "type": 3
+    },
+    {
+      "class": "E",
+      "id": 12564,
+      "name": "Kia Rio",
+      "price": 6000000,
+      "replacement": 426,
+      "speed": 96,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12565,
+      "name": "ВАЗ 2112",
+      "price": 2000000,
+      "replacement": 426,
+      "speed": 91,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12566,
+      "name": "ВАЗ 2106",
+      "price": 1000000,
+      "replacement": 445,
+      "speed": 85,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12567,
+      "name": "Renault Logan",
+      "price": 1200000,
+      "replacement": 445,
+      "speed": 94,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12568,
+      "name": "Mercedes-Benz S600 w140",
+      "price": 31496064,
+      "replacement": 421,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12569,
+      "name": "BMW M4 G82",
+      "price": 39370080,
+      "replacement": 602,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12570,
+      "name": "Dodge Challenger SRT Hellcat",
+      "price": 19685040,
+      "replacement": 402,
+      "speed": 122,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12571,
+      "name": "Volkswagen Scirroco",
+      "price": 15748032,
+      "replacement": 496,
+      "speed": 110,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12572,
+      "name": "Ford Mustang GT",
+      "price": 19685040,
+      "replacement": 603,
+      "speed": 123,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12573,
+      "name": "Nissan GT-R R35",
+      "price": 31496064,
+      "replacement": 506,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12574,
+      "name": "Bentley Mulliner",
+      "price": 39370080,
+      "replacement": 533,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12575,
+      "name": "Lexus LC500 2021",
+      "price": 39370080,
+      "replacement": 558,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12576,
+      "name": "Land-Rover Defender",
+      "price": 1085827,
+      "replacement": 495,
+      "speed": 77,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12577,
+      "name": "Porsche 911 GT2 RS",
+      "price": 59055120,
+      "replacement": 415,
+      "speed": 136,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12578,
+      "name": "Honda Civic Type R FK7",
+      "price": 19685040,
+      "replacement": 560,
+      "speed": 110,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12579,
+      "name": "Nissan Silvia S15",
+      "price": 31496063,
+      "replacement": 562,
+      "speed": 115,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12580,
+      "name": "BMW 5-Series E34",
+      "price": 31496063,
+      "replacement": 405,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12581,
+      "name": "Jeep Grand Cherokee",
+      "price": 39370079,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12582,
+      "name": "Chevrolet Corvette ZR1",
+      "price": 39370079,
+      "replacement": 603,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12583,
+      "name": "Porsche Cayenne Turbo GT",
+      "price": 39370079,
+      "replacement": 579,
+      "speed": 120,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12584,
+      "name": "Toyota Land Cruiser 200",
+      "price": 31496063,
+      "replacement": 579,
+      "speed": 110,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12585,
+      "name": "Nissan Fairlady Z",
+      "price": 19685040,
+      "replacement": 542,
+      "speed": 95,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12586,
+      "name": "BMW M5 E60",
+      "price": 39370080,
+      "replacement": 405,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12587,
+      "name": "Mercedes-Benz CLS63 AMG w218",
+      "price": 39370080,
+      "replacement": 421,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12588,
+      "name": "Mercedes-Benz E500 w124",
+      "price": 0,
+      "replacement": 580,
+      "speed": 92,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12589,
+      "name": "Jaguar XJ6",
+      "price": 0,
+      "replacement": 445,
+      "speed": 98,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12590,
+      "name": "Audi A4 B8",
+      "price": 11811024,
+      "replacement": 560,
+      "speed": 110,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12591,
+      "name": "Lada 2170 Priora",
+      "price": 11811024,
+      "replacement": 426,
+      "speed": 100,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12592,
+      "name": "Nissan Cedric Y33",
+      "price": 0,
+      "replacement": 507,
+      "speed": 99,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12593,
+      "name": "Toyota Supra A90",
+      "price": 39370080,
+      "replacement": 402,
+      "speed": 124,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12594,
+      "name": "Subaru WRX STI 2015",
+      "price": 19685040,
+      "replacement": 426,
+      "speed": 110,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12595,
+      "name": "Lamborghini Huracan",
+      "price": 59055120,
+      "replacement": 451,
+      "speed": 135,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12596,
+      "name": "Rolls-Royce Cullinan",
+      "price": 62992128,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12597,
+      "name": "Mercedes-Benz AMG-One",
+      "price": 59055119,
+      "replacement": 411,
+      "speed": 135,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12598,
+      "name": "McLaren Speedtail",
+      "price": 59055119,
+      "replacement": 451,
+      "speed": 135,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12599,
+      "name": "BMW M2",
+      "price": 31496063,
+      "replacement": 402,
+      "speed": 123,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12600,
+      "name": "BMW I8",
+      "price": 39370079,
+      "replacement": 506,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12601,
+      "name": "Audi TT RS",
+      "price": 27559056,
+      "replacement": 527,
+      "speed": 110,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12602,
+      "name": "BMW M3 E46",
+      "price": 27559056,
+      "replacement": 526,
+      "speed": 118,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12603,
+      "name": "Nissan 350z",
+      "price": 27559056,
+      "replacement": 587,
+      "speed": 115,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12604,
+      "name": "Mercedes Benz C63s AMG",
+      "price": 31496063,
+      "replacement": 475,
+      "speed": 119,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12605,
+      "name": "Mazda RX7",
+      "price": 27559056,
+      "replacement": 477,
+      "speed": 115,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12606,
+      "name": "BMW X7",
+      "price": 47244095,
+      "replacement": 490,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12607,
+      "name": "Toyota Camry",
+      "price": 31496063,
+      "replacement": 551,
+      "speed": 110,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12608,
+      "name": "Chevrolet Camaro",
+      "price": 39370079,
+      "replacement": 402,
+      "speed": 123,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12609,
+      "name": "Mitsubishi Lancer Evolution 8",
+      "price": 27559056,
+      "replacement": 516,
+      "speed": 115,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12610,
+      "name": "Subaru Impreza WRX STI 2004",
+      "price": 27559056,
+      "replacement": 585,
+      "speed": 115,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12611,
+      "name": "Koenigsegg Jesko",
+      "price": 59055119,
+      "replacement": 451,
+      "speed": 135,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12612,
+      "name": "LiXiang L9",
+      "price": 39370079,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12613,
+      "name": "BMW M3 G81",
+      "price": 47244095,
+      "replacement": 561,
+      "speed": 125,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12614,
+      "name": "Mercedes-Benz E63S W213",
+      "price": 31496063,
+      "replacement": 405,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12615,
+      "name": "Toyota Mark2 JZX100",
+      "price": 31496063,
+      "replacement": 405,
+      "speed": 115,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12616,
+      "name": "Jeep Wrangler",
+      "price": 47244095,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12618,
+      "name": "Porsche 918 Spyder",
+      "price": 47244095,
+      "replacement": 451,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 12619,
+      "name": "Mercedes-Benz SL63 AMG",
+      "price": 39370079,
+      "replacement": 401,
+      "speed": 128,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 12620,
+      "name": "Mercedes GLS",
+      "price": 47244095,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12621,
+      "name": "BMW 7 Long",
+      "price": 59055119,
+      "replacement": 421,
+      "speed": 122,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12622,
+      "name": "Ford F150 Raptor 2 Door",
+      "price": 47244095,
+      "replacement": 554,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12623,
+      "name": "Porsche 911 (964)",
+      "price": 47244095,
+      "replacement": 541,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12624,
+      "name": "Rolls-Royce Wraith",
+      "price": 59055119,
+      "replacement": 602,
+      "speed": 123,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12625,
+      "name": "Infiniti Q60",
+      "price": 39370079,
+      "replacement": 526,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12626,
+      "name": "Volvo XC90 T6",
+      "price": 47244095,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12627,
+      "name": "Ford Focus 3",
+      "price": 27559056,
+      "replacement": 405,
+      "speed": 110,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12628,
+      "name": "Alfa Romeo Giulia",
+      "price": 39370079,
+      "replacement": 405,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12629,
+      "name": "Mercedes-Benz EQS",
+      "price": 39370079,
+      "replacement": 421,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12630,
+      "name": "BMW M5 G90",
+      "price": 78740158,
+      "replacement": 405,
+      "speed": 135,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12631,
+      "name": "Ferrari California",
+      "price": 39370079,
+      "replacement": 506,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12632,
+      "name": "Audi Q8",
+      "price": 31496063,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12633,
+      "name": "Tesla Model S",
+      "price": 39370079,
+      "replacement": 406,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12634,
+      "name": "Volkswagen Polo",
+      "price": 7874016,
+      "replacement": 445,
+      "speed": 110,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12635,
+      "name": "Xpeng P7",
+      "price": 39370079,
+      "replacement": 405,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12636,
+      "name": "Cadillac Escalade 5",
+      "price": 47244095,
+      "replacement": 579,
+      "speed": 105,
+      "trunk": 24,
+      "type": 0
+    }
+  ],
+  "version": 1
+}

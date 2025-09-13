@@ -1,0 +1,1769 @@
+{
+  "dataset": [
+    {
+      "command": "/headmove",
+      "description": "Включает / выключает поворот головы скина по направлению камеры"
+    },
+    {
+      "command": "/timestamp",
+      "description": "Включает / выключает показ времени в чате"
+    },
+    {
+      "command": "/pagesize",
+      "description": "Устанавливает кол-во строк в чате",
+      "params": "[ 10 - 50 ]"
+    },
+    {
+      "command": "/fontsize",
+      "description": "Устанавливает размер шрифта в чате",
+      "params": "[ -3 - 5 ]"
+    },
+    {
+      "command": "/quit",
+      "description": "Выйти из игры"
+    },
+    {
+      "command": "/q",
+      "description": "Выйти из игры"
+    },
+    {
+      "command": "/save",
+      "description": "Сохраняет ваши координаты на карте в файл savedposition.txt"
+    },
+    {
+      "command": "/rs",
+      "description": "Сохраняет ваши координаты на карте в файл rawpositions.txt"
+    },
+    {
+      "command": "/fpslimit",
+      "description": "Устанавливает максимальное кол-во FPS",
+      "params": "[ 25 - 1000 ]"
+    },
+    {
+      "command": "/dl",
+      "description": "Включает / выключает информацию о ближайшей машине"
+    },
+    {
+      "command": "/interior",
+      "description": "Выводит в чат ваш текущий интерьер"
+    },
+    {
+      "command": "/mem",
+      "description": "Отображает сколько использует памяти SA-MP"
+    },
+    {
+      "command": "/st",
+      "description": "Изменяет локально игровое время",
+      "params": "[ 0 - 23 ]"
+    },
+    {
+      "command": "/sw",
+      "description": "Изменяяет локально игровую погоду",
+      "params": "[ 0 - 45 ]"
+    },
+    {
+      "command": "/reconnect",
+      "description": "Перезайти в игру без её непосредственного закрытия",
+      "params": "[ Nick_Name / Секунды ]"
+    },
+    {
+      "command": "/rec",
+      "description": "Перезайти в игру без её непосредственного закрытия",
+      "params": "[ Nick_Name / Секунды ]"
+    },
+    {
+      "command": "/inventory",
+      "description": "Инвентарь",
+      "params": "[ ID (опционально) ]"
+    },
+    {
+      "command": "/inv",
+      "description": "Инвентарь",
+      "params": "[ ID (опционально) ]"
+    },
+    {
+      "command": "/items",
+      "description": "Инвентарь аксессуаров и одежды"
+    },
+    {
+      "command": "/trade",
+      "description": "Предложить / Принять предложение по обмену личными вещами",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/time",
+      "description": "Текущее серверное время",
+      "params": "[ Тип (опционально) ]"
+    },
+    {
+      "command": "/id",
+      "description": "Информация об игроке",
+      "params": "[ ID / Ник ]"
+    },
+    {
+      "command": "/ids",
+      "description": "Информация об игроке",
+      "params": "[ ID / Ник ]"
+    },
+    {
+      "command": "/stats",
+      "description": "Статистика персонажа"
+    },
+    {
+      "command": "/rating",
+      "description": "Показать / Просмотреть рейтинг",
+      "params": "[ ID (опционально) ]"
+    },
+    {
+      "command": "/spawnchange",
+      "description": "Изменить место возрождения"
+    },
+    {
+      "command": "/changespawn",
+      "description": "Изменить место возрождения"
+    },
+    {
+      "command": "/setspawn",
+      "description": "Изменить место возрождения"
+    },
+    {
+      "command": "/mypromo",
+      "description": "Статистика своего промокода [ доступно только владельцу промокода ]"
+    },
+    {
+      "command": "/toppromo",
+      "description": "ТОП-30 промокодов сервера и их статистика"
+    },
+    {
+      "command": "/promo",
+      "description": "Активация временного промокода",
+      "params": "[ Промокод ]"
+    },
+    {
+      "command": "/tpromo",
+      "description": "Активация бонусного промокода"
+    },
+    {
+      "command": "/tpromoact",
+      "description": "Список активированных бонусных промокодов"
+    },
+    {
+      "command": "/quest",
+      "description": "Меню квестов"
+    },
+    {
+      "command": "/pquest",
+      "description": "Меню гражданских квестов"
+    },
+    {
+      "command": "/dquest",
+      "description": "Меню ежедневных квестов"
+    },
+    {
+      "command": "/fquest",
+      "description": "Меню фракционных квестов"
+    },
+    {
+      "command": "/iznas",
+      "description": "Шлёпнуть игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/piss",
+      "description": "Помочиться на игрока",
+      "params": "[ ID (опционально) ]"
+    },
+    {
+      "command": "/pee",
+      "description": "Помочиться на игрока",
+      "params": "[ ID (опционально) ]"
+    },
+    {
+      "command": "/hi",
+      "description": "Пожать руку игроку",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/gps",
+      "description": "Навигация по штату",
+      "params": "[ Категория (опционально) ] [ Точка (опционально) ]"
+    },
+    {
+      "command": "/pdd",
+      "description": "Правила дорожного движения"
+    },
+    {
+      "command": "/help",
+      "description": "Помощь по игре"
+    },
+    {
+      "command": "/animlist",
+      "description": "Список анимаций",
+      "params": "[ Категория (опционально) ] [ Анимация (опционально) ]"
+    },
+    {
+      "command": "/anim",
+      "description": "Список анимаций",
+      "params": "[ Категория (опционально) ] [ Анимация (опционально) ]"
+    },
+    {
+      "command": "/get fuel",
+      "description": "Быстрая покупка канистры на АЗС"
+    },
+    {
+      "command": "/get rem",
+      "description": "Быстрая покупка рем. комплекта на АЗС"
+    },
+    {
+      "command": "/satiety",
+      "description": "Сытость персонажа"
+    },
+    {
+      "command": "/cancel",
+      "description": "Отменить действие"
+    },
+    {
+      "command": "/myskill",
+      "description": "Просмотреть / Показать навыки владения",
+      "params": "[ ID (опционально) ]"
+    },
+    {
+      "command": "/licenses",
+      "description": "Список лицензий"
+    },
+    {
+      "command": "/showlicenses",
+      "description": "Показать список лицензий игроку",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/play",
+      "description": "Онлайн-радио"
+    },
+    {
+      "command": "/radio",
+      "description": "Выбор внутриигровой радиостанции",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/ratingnews",
+      "description": "Рейтинг слушателей внутриигровых радиостанций"
+    },
+    {
+      "command": "/instructors",
+      "description": "Список инструкторов онлайн"
+    },
+    {
+      "command": "/guarantor",
+      "description": "Заключить сделку с гарантом",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/guarantors",
+      "description": "Список гарантов онлайн"
+    },
+    {
+      "command": "/pay",
+      "description": "Передать игроку денежные средства",
+      "params": "[ ID ] [ Сумма ]"
+    },
+    {
+      "command": "/propose",
+      "description": "Пожениться с игроком",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/divorce",
+      "description": "Развестись с игроком"
+    },
+    {
+      "command": "/us",
+      "description": "Принять наркотики",
+      "params": "[ Тип ] [ Количество ]"
+    },
+    {
+      "command": "/usedrugs",
+      "description": "Принять наркотики",
+      "params": "[ Тип ] [ Количество ]"
+    },
+    {
+      "command": "/boostinfo",
+      "description": "Информация о дествующих акциях на сервере"
+    },
+    {
+      "command": "/donate",
+      "description": "Донат-меню"
+    },
+    {
+      "command": "/code",
+      "description": "Ввести код с платной рулетки"
+    },
+    {
+      "command": "/supports",
+      "description": "Список игровых помощников"
+    },
+    {
+      "command": "/ask",
+      "description": "Задать вопрос игровым помощникам"
+    },
+    {
+      "command": "/question",
+      "description": "Задать вопрос игровым помощникам"
+    },
+    {
+      "command": "/aq",
+      "description": "Задать вопрос администрации"
+    },
+    {
+      "command": "/aquestion",
+      "description": "Задать вопрос администрации"
+    },
+    {
+      "command": "/report",
+      "description": "Пожаловаться на игрока администрации",
+      "params": "[ ID ] [ Причина ]"
+    },
+    {
+      "command": "/escape",
+      "description": "Выйти из тюрьмы, используя ключ"
+    },
+    {
+      "command": "/mask",
+      "description": "Надеть маску (доступно при надетом аксессуаре «Маска»), в случае с аксессуаром «Балаклава» скрывается ваш ник"
+    },
+    {
+      "command": "/getekey",
+      "description": "Количество имеющихся ключей"
+    },
+    {
+      "command": "/sellgrib",
+      "description": "Продать грибы в закусочную"
+    },
+    {
+      "command": "/clist",
+      "description": "Изменить цвет ника",
+      "params": "[ Цвет (опционально) ]"
+    },
+    {
+      "command": "/showpass",
+      "description": "Показать игроку паспорт",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/votelist",
+      "description": "Информация о кандидатах на выборах"
+    },
+    {
+      "command": "/giveroses",
+      "description": "Подарить игроку розы",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/seasonevent",
+      "description": "Главное меню боевого пропуска"
+    },
+    {
+      "command": "/sevent",
+      "description": "Главное меню боевого пропуска"
+    },
+    {
+      "command": "/eventprize",
+      "description": "Хранилище предметов"
+    },
+    {
+      "command": "/mystorage",
+      "description": "Хранилище предметов"
+    },
+    {
+      "command": "/anesthetic",
+      "description": "Употребить сильнодействующее обезболивающее"
+    },
+    {
+      "command": "/anst",
+      "description": "Употребить сильнодействующее обезболивающее"
+    },
+    {
+      "command": "/drugssupply",
+      "description": "Установить закладку"
+    },
+    {
+      "command": "/dsupply",
+      "description": "Установить закладку"
+    },
+    {
+      "command": "/mfish",
+      "description": "Меню рыбалки"
+    },
+    {
+      "command": "/eat",
+      "description": "Съесть закуску, рыбу",
+      "params": "[ Тип ]"
+    },
+    {
+      "command": "/admins",
+      "description": "Список администрации онлайн (для обладателей SILVER VIP и выше)"
+    },
+    {
+      "command": "/vipuninvite",
+      "description": "Покинуть организацию (для обладателей GOLD VIP и выше)"
+    },
+    {
+      "command": "/warhistory",
+      "description": "История войн между фракциями за сутки"
+    },
+    {
+      "command": "/exhaust",
+      "description": "Изменить шанс выстрела отстрелов",
+      "params": "[ Шанс ]"
+    },
+    {
+      "command": "/punishlog",
+      "description": "Узнать историю наказаний"
+    },
+    {
+      "command": "/bpass",
+      "description": "Меню боевого пропуска"
+    },
+    {
+      "command": "/b",
+      "description": "ООС (NonRP) чат",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/s",
+      "description": "Кричать",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/w",
+      "description": "Шептать",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/me",
+      "description": "Действие [ Nick_Name взглянул на небо ]",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/try",
+      "description": "Вероятность [ Nick_Name попытался вскрыть замок [Удачно] [Неудачно] ]",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/do",
+      "description": "Обстановка [ (( Nick_Name )) На столе стоит бутылка воды ]",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/todo",
+      "description": "Сказать, одновременно с выполнением действия [ Привет! - сказал Nick_Name, помахав рукой ]",
+      "params": "[ Текст*Действие ]"
+    },
+    {
+      "command": "/j",
+      "description": "Рация в рабочем транспорте",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/ooc",
+      "description": "Общесерверный чат",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/ad",
+      "description": "Подать объявление",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/gov",
+      "description": "Государственные новости",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/f",
+      "description": "IC чат организации",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/r",
+      "description": "IC чат организации",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/rb",
+      "description": "OOC чат организации",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/fb",
+      "description": "OOC чат организации",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/d",
+      "description": "Департамент государственных организаций",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/number",
+      "description": "Узнать номер телефона игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/call",
+      "description": "Позвонить игроку / Вызвать службу",
+      "params": "[ Номер (опционально) ]"
+    },
+    {
+      "command": "/c",
+      "description": "Позвонить игроку / Вызвать службу",
+      "params": "[ Номер (опционально) ]"
+    },
+    {
+      "command": "/sms",
+      "description": "Отправить SMS сообщение игроку",
+      "params": "[ ID / Номер ] [ Текст ]"
+    },
+    {
+      "command": "/p",
+      "description": "Ответить на звонок"
+    },
+    {
+      "command": "/h",
+      "description": "Завершить телефонный разговор"
+    },
+    {
+      "command": "/dir",
+      "description": "Телефонный справочник"
+    },
+    {
+      "command": "/togphone",
+      "description": "Выключить телефон (для обладателей BRONZE VIP и выше)"
+    },
+    {
+      "command": "/fc",
+      "description": "IC Чат семьи",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/fcb",
+      "description": "OOC Чат семьи",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/fmembers",
+      "description": "Состав семьи"
+    },
+    {
+      "command": "/offfmembers",
+      "description": "Состав семьи оффлайн"
+    },
+    {
+      "command": "/finvite",
+      "description": "Принять игрока в семью",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/funinvite",
+      "description": "Выгнать игрока из семьи",
+      "params": "[ ID ] [причина]"
+    },
+    {
+      "command": "/offfuninvite",
+      "description": "Уволить игрока оффлайн",
+      "params": "[ Nick_Name ]"
+    },
+    {
+      "command": "/fbl",
+      "description": "Черный список семьи"
+    },
+    {
+      "command": "/fblacklist",
+      "description": "Черный список семьи"
+    },
+    {
+      "command": "/fgiverank",
+      "description": "Изменить степень родства члену семьи",
+      "params": "[ ID ] [ Ранг ]"
+    },
+    {
+      "command": "/offfgiverank",
+      "description": "Изменить степень родства члену семьи оффлайн",
+      "params": "[ Nick_Name ] [ Ранг ]"
+    },
+    {
+      "command": "/fpanel",
+      "description": "Панель управления семьёй"
+    },
+    {
+      "command": "/fsafe",
+      "description": "Склад семьи"
+    },
+    {
+      "command": "/fambank",
+      "description": "Банк семьи"
+    },
+    {
+      "command": "/fsellcar",
+      "description": "Продать семейный транспорт"
+    },
+    {
+      "command": "/fstats",
+      "description": "Еженедельная статистика участия в жизни семьи"
+    },
+    {
+      "command": "/loadfamily",
+      "description": "Начать загрузку семейного транспорта"
+    },
+    {
+      "command": "/en",
+      "description": "Меню транспорта"
+    },
+    {
+      "command": "/trunk",
+      "description": "Меню взаимодействия с багажником"
+    },
+    {
+      "command": "/eject",
+      "description": "Выкинуть игрока из транспорта",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/v",
+      "description": "Транспортный чат (для транспорта с интерьером)",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/sellcar",
+      "description": "Продать транспорт государству (за 50% от гос. стоимости)"
+    },
+    {
+      "command": "/changecar",
+      "description": "Продать / Обменять транспорт игроку",
+      "params": "[ ID ] [ Цена ]"
+    },
+    {
+      "command": "/fill",
+      "description": "Заправить транспорт на АЗС / топливном складе фракции"
+    },
+    {
+      "command": "/fillcar",
+      "description": "Заправить транспорт канистрой на 10 литров"
+    },
+    {
+      "command": "/carpass",
+      "description": "Посмотреть документы на транспорт",
+      "params": "[ ID (опционально) ]"
+    },
+    {
+      "command": "/lock",
+      "description": "Заблокировать двери"
+    },
+    {
+      "command": "/givelock",
+      "description": "Передать ключи от транспорта",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/rem",
+      "description": "Отремонтировать транспорт"
+    },
+    {
+      "command": "/fixcar",
+      "description": "Вернуть автомобиль на парковку (в гараж)"
+    },
+    {
+      "command": "/home",
+      "description": "Поставить GPS метку на имущество"
+    },
+    {
+      "command": "/open",
+      "description": "Открыть дверной замок"
+    },
+    {
+      "command": "/hmenu",
+      "description": "Меню управления домом"
+    },
+    {
+      "command": "/buyapartment",
+      "description": "Купить интерьер для дома"
+    },
+    {
+      "command": "/safe",
+      "description": "Домашний сейф / Быстрое взятие из сейфа",
+      "params": "[ Параметр ] [ Количество ]"
+    },
+    {
+      "command": "/sellhouse",
+      "description": "Продать дом государству (за 80% от гос. стоимости)"
+    },
+    {
+      "command": "/buyhouse",
+      "description": "Купить дом у государства"
+    },
+    {
+      "command": "/changehouse",
+      "description": "Продать / Обменяться домами с игроком",
+      "params": "[ ID ] [ Цена ]"
+    },
+    {
+      "command": "/renthouse",
+      "description": "Сдать комнату игроку",
+      "params": "[ ID ] [ Дни ] [ Цена ]"
+    },
+    {
+      "command": "/hbuyinterior",
+      "description": "Купить интерьер [ для дома на колёсах ]"
+    },
+    {
+      "command": "/ffixcar",
+      "description": "Заспавнить неиспользуемый членами организации транспорт"
+    },
+    {
+      "command": "/fmute",
+      "description": "Отобрать рацию у члена организации",
+      "params": "[ ID ] [ Минуты ] [ Причина ]"
+    },
+    {
+      "command": "/giverank",
+      "description": "Изменить ранг игрока",
+      "params": "[ ID ] [ Ранг ]"
+    },
+    {
+      "command": "/invite",
+      "description": "Принять игрока в организацию",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/uninvite",
+      "description": "Выгнать игрока из организации",
+      "params": "[ ID ] [ Причина ]"
+    },
+    {
+      "command": "/offuninvite",
+      "description": "Выгнать игрока из организации в оффлайне",
+      "params": "[ Ник ] [ Причина ]"
+    },
+    {
+      "command": "/members",
+      "description": "Члены организации в онлайне"
+    },
+    {
+      "command": "/offmembers",
+      "description": "Члены организации в оффлайне"
+    },
+    {
+      "command": "/warehouse",
+      "description": "Количество материалов и продовольствия на складе организации"
+    },
+    {
+      "command": "/offgiverank",
+      "description": "Изменить ранг игрока в оффлайне",
+      "params": "[ Ник ] [ Ранг ]"
+    },
+    {
+      "command": "/blacklist",
+      "description": "Чёрный список организации"
+    },
+    {
+      "command": "/bl",
+      "description": "Чёрный список организации"
+    },
+    {
+      "command": "/leadermenu",
+      "description": "Главное меню лидера"
+    },
+    {
+      "command": "/fbank",
+      "description": "Управление денежным счётом организации"
+    },
+    {
+      "command": "/fbook",
+      "description": "История фракций игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/timecapture",
+      "description": "Время следующей войны за территорию / бизнес"
+    },
+    {
+      "command": "/crimestats",
+      "description": "Криминальная статистика",
+      "params": "[ ID ] [ ghetto / mafia / bikers ] (опционально)"
+    },
+    {
+      "command": "/crstats",
+      "description": "Криминальная статистика",
+      "params": "[ ID ] [ ghetto / mafia / bikers ] (опционально)"
+    },
+    {
+      "command": "/crimestats top",
+      "description": "ТОП по криминальному прогрессу"
+    },
+    {
+      "command": "/crstats top",
+      "description": "ТОП по криминальному прогрессу"
+    },
+    {
+      "command": "/ksearch",
+      "description": "Поиск жертвы системного заказного убийства"
+    },
+    {
+      "command": "/uval",
+      "description": "Покинуть организацию"
+    },
+    {
+      "command": "/thefskill",
+      "description": "Опыт автоугонщика"
+    },
+    {
+      "command": "/captstats",
+      "description": "Статистика войны"
+    },
+    {
+      "command": "/warstats",
+      "description": "Статистика войны"
+    },
+    {
+      "command": "/warelock",
+      "description": "Открыть / Закрыть склад материалов"
+    },
+    {
+      "command": "/materials info",
+      "description": "Просмотреть логи трат материалов со склада организации"
+    },
+    {
+      "command": "/mats info",
+      "description": "Просмотреть логи трат материалов со склада организации"
+    },
+    {
+      "command": "/materials resetinfo",
+      "description": "Очистить логи трат материалов со склада организации"
+    },
+    {
+      "command": "/mats resetinfo",
+      "description": "Очистить логи трат материалов со склада организации"
+    },
+    {
+      "command": "/materials sell",
+      "description": "Продать материалы из фургона"
+    },
+    {
+      "command": "/mats sell",
+      "description": "Продать материалы из фургона"
+    },
+    {
+      "command": "/materials load",
+      "description": "Загрузить в фургон материалы"
+    },
+    {
+      "command": "/mats load",
+      "description": "Загрузить в фургон материалы"
+    },
+    {
+      "command": "/materials get",
+      "description": "Поднять ящик с материалами"
+    },
+    {
+      "command": "/mats get",
+      "description": "Поднять ящик с материалами"
+    },
+    {
+      "command": "/materials put",
+      "description": "Положить в фургон ящик с материалами"
+    },
+    {
+      "command": "/mats put",
+      "description": "Положить в фургон ящик с материалами"
+    },
+    {
+      "command": "/get medkit",
+      "description": "Купить аптечки для организации",
+      "params": "[ Количество ]"
+    },
+    {
+      "command": "/robbank",
+      "description": "Меню ограбления банка"
+    },
+    {
+      "command": "/capture",
+      "description": "Начать войну за территорию"
+    },
+    {
+      "command": "/getgun",
+      "description": "Взять / Передать оружие со склада организации",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/brshow",
+      "description": "Включить / выключить таймер ограбления"
+    },
+    {
+      "command": "/takewarehouse",
+      "description": "Склад предметов для ограбления"
+    },
+    {
+      "command": "/labstate",
+      "description": "Состояние нарколабораторий"
+    },
+    {
+      "command": "/gasmask",
+      "description": "Надеть противогаз"
+    },
+    {
+      "command": "/carm",
+      "description": "Загрузить / Разгрузить грузовик"
+    },
+    {
+      "command": "/healme",
+      "description": "Использовать аптечку"
+    },
+    {
+      "command": "/tie",
+      "description": "Завязать руки игроку",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/untie",
+      "description": "Развязать руки игроку",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/wc",
+      "description": "Общий чат команды во время битвы за порт",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/demote",
+      "description": "Уволить игрока из гос. организации",
+      "params": "[ ID ] [ Причина ]"
+    },
+    {
+      "command": "/ram",
+      "description": "Взломать дверь в дом"
+    },
+    {
+      "command": "/follow",
+      "description": "Взять игрока под конвой",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/m",
+      "description": "Мегафон в патрульном транспорте",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/addvacancy",
+      "description": "Запланировать собеседование в организацию"
+    },
+    {
+      "command": "/gowar",
+      "description": "Телепортироваться на битву организаций"
+    },
+    {
+      "command": "/war_invite",
+      "description": "Пригласить игрока на битву организаций",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/war_exit",
+      "description": "Выйти с битвы организаций"
+    },
+    {
+      "command": "/ffreeze",
+      "description": "Состояния нейтралов (возможности начинать войну за территорию, бизнес) организаций"
+    },
+    {
+      "command": "/inviteon",
+      "description": "Состояния трансферов (возможности принимать во время стрелы, капта) организаций"
+    },
+    {
+      "command": "/ivent",
+      "description": "Телепортироваться на серверное мероприятие от администрации"
+    },
+    {
+      "command": "/offmask",
+      "description": "Стянуть маску с игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/take",
+      "description": "Обыскать игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/frisk",
+      "description": "Обыскать игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/checkplaten",
+      "description": "Пробив номера по ID транспорта",
+      "params": "[ ID транспорта ]"
+    },
+    {
+      "command": "/clear",
+      "description": "Снять с игрока розыск",
+      "params": "[ ID ] [ Причина ]"
+    },
+    {
+      "command": "/mdc",
+      "description": "Пробить игрока по базе данных",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/wanted",
+      "description": "База преступников"
+    },
+    {
+      "command": "/showudost",
+      "description": "Показать удостоверение игроку",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/su",
+      "description": "Выдать игроку розыск",
+      "params": "[ ID ] [ Уровень ] [ Причина ]"
+    },
+    {
+      "command": "/iinvite",
+      "description": "Перевести игрока в организацию",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/patrul",
+      "description": "Начать патрулирование"
+    },
+    {
+      "command": "/tazer",
+      "description": "Перевести оружие в режим дистанционного электрошокера"
+    },
+    {
+      "command": "/copcard",
+      "description": "Выдать / Забрать ключи от участка",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/takekeys",
+      "description": "Взять ключи от камеры",
+      "params": "[ Основание ]"
+    },
+    {
+      "command": "/sellkey",
+      "description": "Продать ключи от камеры",
+      "params": "[ ID ] [ Цена ]"
+    },
+    {
+      "command": "/checkevidence",
+      "description": "Провести экспертизу улик"
+    },
+    {
+      "command": "/chev",
+      "description": "Провести экспертизу улик"
+    },
+    {
+      "command": "/cobject",
+      "description": "Установить объект"
+    },
+    {
+      "command": "/startpatrul",
+      "description": "Начать патрулирование детектива"
+    },
+    {
+      "command": "/skillfind",
+      "description": "Скилл детектива"
+    },
+    {
+      "command": "/deject",
+      "description": "Вытащить игрока из транспорта",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/bh",
+      "description": "Проверить трезвость игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/cuff",
+      "description": "Надеть наручники на игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/uncuff",
+      "description": "Снять наручники на игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/cput",
+      "description": "Затолкать игрока в патрульный транспорт",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/ceject",
+      "description": "Высадить игрока из транспорта и затолкать в участок",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/arrest",
+      "description": "Посадить игрока в тюрьму",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/munmute",
+      "description": "Вытащить кляп изо рта игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/offbag",
+      "description": "Снять мешок с головы игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/find",
+      "description": "Найти игрока, находящегося в розыске",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/gloves",
+      "description": "Надеть резиновые перчатки"
+    },
+    {
+      "command": "/checkplate",
+      "description": "Пробив номера по номерному знаку",
+      "params": "[ Номер ]"
+    },
+    {
+      "command": "/ticket",
+      "description": "Выписать штраф игроку",
+      "params": "[ ID ] [ Сумма ] [ Причина ]"
+    },
+    {
+      "command": "/plate",
+      "description": "Взаимодействие с номерами транспорта",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/accept police",
+      "description": "Принять вызов полиции от игрока"
+    },
+    {
+      "command": "/ac police",
+      "description": "Принять вызов полиции от игрока"
+    },
+    {
+      "command": "/putgas",
+      "description": "Установить баллон с газом"
+    },
+    {
+      "command": "/evacuation",
+      "description": "Эвакуировать транспорт"
+    },
+    {
+      "command": "/ev",
+      "description": "Эвакуировать транспорт"
+    },
+    {
+      "command": "/evacuation_cancel",
+      "description": "Убрать транспорт со штрафстоянки",
+      "params": "[ Ник / Семья ]"
+    },
+    {
+      "command": "/evc",
+      "description": "Убрать транспорт со штрафстоянки",
+      "params": "[ Ник / Семья ]"
+    },
+    {
+      "command": "/taketheft",
+      "description": "Принять вызов на угон",
+      "params": "[ ID транспорта ]"
+    },
+    {
+      "command": "/findcar",
+      "description": "Найти угоняемый транспорт",
+      "params": "[ ID транспорта ]"
+    },
+    {
+      "command": "/ftazer",
+      "description": "Оглушить рядом стоящих игроков",
+      "params": "[ 1 / 2 / 3 ]"
+    },
+    {
+      "command": "/spy",
+      "description": "Внедрить игрока из внедрения"
+    },
+    {
+      "command": "/spyoff",
+      "description": "Вывести игрока из внедрения"
+    },
+    {
+      "command": "/tipster",
+      "description": "Установить прослушку",
+      "params": "[ Действие ]"
+    },
+    {
+      "command": "/addtracker",
+      "description": "Установить трекер на транспорт"
+    },
+    {
+      "command": "/deltracker",
+      "description": "Снять трекер с транспорта"
+    },
+    {
+      "command": "/trackerlist",
+      "description": "Список установленных трекеров"
+    },
+    {
+      "command": "/addsensor",
+      "description": "Установить датчик движения"
+    },
+    {
+      "command": "/delsensor",
+      "description": "Убрать датчик движения",
+      "params": "[ Номер ]"
+    },
+    {
+      "command": "/sensorlist",
+      "description": "Список установленных датчиков движения"
+    },
+    {
+      "command": "/sfind",
+      "description": "Найти датчик движения по номеру",
+      "params": "[ Номер ]"
+    },
+    {
+      "command": "/gwa",
+      "description": "Состояние складов государственных организаций"
+    },
+    {
+      "command": "/whorders",
+      "description": "Заказы на пополнение гос. складов"
+    },
+    {
+      "command": "/whcontract",
+      "description": "Заключить контракт на развозку продуктов",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/takeproduct",
+      "description": "Заказать продукты на гос. склад у бизнеса"
+    },
+    {
+      "command": "/bmonitor",
+      "description": "Мониторинг готовых продуктов бизнесов"
+    },
+    {
+      "command": "/cname",
+      "description": "Принять заявку на смену никнейма в Мэрии",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/kickout",
+      "description": "Выгнать игрока из Мэрии",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/free",
+      "description": "Выпустить игрока из тюрьмы",
+      "params": "[ ID ] [ Способ оплаты ]"
+    },
+    {
+      "command": "/gettax",
+      "description": "Баланс казны"
+    },
+    {
+      "command": "/prisoners",
+      "description": "Количество заключенных в КПЗ"
+    },
+    {
+      "command": "/givelawlic",
+      "description": "Выдача лицензии адвокату",
+      "params": "[ ID ] [ Цена ]"
+    },
+    {
+      "command": "/transaction",
+      "description": "Подтвердить сделку игроков"
+    },
+    {
+      "command": "/givelicense",
+      "description": "Продать лицензию / страховку игроку",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/gosbalance",
+      "description": "Распределение баллов среди государственных фракций"
+    },
+    {
+      "command": "/rr",
+      "description": "IC чат участка",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/rrb",
+      "description": "OOC чат участка",
+      "params": "[ Текст ]"
+    },
+    {
+      "command": "/heal",
+      "description": "Вылечить, отрезвить, снять ломку игроку",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/healaddict",
+      "description": "Провести лечение наркозависимости (-500 за 1 сеанс)",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/checkheal",
+      "description": "Проверить состояние здоровья игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/setmemleader",
+      "description": "Назначить лидером участка",
+      "params": "[ ID ] [ Подразделение ] (1 - LS, 2 - SF, 3 - LV, 4 - FC)"
+    },
+    {
+      "command": "/setmemgroup",
+      "description": "Перевести на участок",
+      "params": "[ ID ] [ Подразделение ] (1 - LS, 2 - SF, 3 - LV, 4 - FC)"
+    },
+    {
+      "command": "/sethealcost",
+      "description": "Назначить цену за лечение (за 1 HP)",
+      "params": "[ Cумма ]"
+    },
+    {
+      "command": "/startmedpatrul",
+      "description": "Начать медицинский патруль"
+    },
+    {
+      "command": "/smp",
+      "description": "Начать медицинский патруль"
+    },
+    {
+      "command": "/smplist",
+      "description": "Активные вызовы медицинского патруля"
+    },
+    {
+      "command": "/ac mp",
+      "description": "Принять вызов медицинского патруля",
+      "params": "[ Вызов ]"
+    },
+    {
+      "command": "/selldrugs",
+      "description": "Продать игроку наркотики",
+      "params": "[ ID ] [ Количество ] [ Цена ]"
+    },
+    {
+      "command": "/get guns",
+      "description": "Взять материалы со склада банды",
+      "params": "[ Количество ]"
+    },
+    {
+      "command": "/unloading",
+      "description": "Выгрузить материалы из военной фуры"
+    },
+    {
+      "command": "/switchskin",
+      "description": "Надеть военную форму"
+    },
+    {
+      "command": "/gunlist",
+      "description": "Список оружия и материалов для крафта"
+    },
+    {
+      "command": "/sellgun",
+      "description": "Сделать оружие из материалов",
+      "params": "[ Оружие ] [ Патроны ] [ Цена ] [ ID ]"
+    },
+    {
+      "command": "/sellzone",
+      "description": "Продать территорию",
+      "params": "[ ID ] [ Цена ]"
+    },
+    {
+      "command": "/rgiveprem",
+      "description": "Выдать премию членам организации в радиусе",
+      "params": "[ Сумма ]"
+    },
+    {
+      "command": "/gmap",
+      "description": "Количество территорий и граффити под контролем банд"
+    },
+    {
+      "command": "/robskill",
+      "description": "Опыт взломщика"
+    },
+    {
+      "command": "/rskill",
+      "description": "Опыт райтера"
+    },
+    {
+      "command": "/runload",
+      "description": "Разгрузка награбленных средств"
+    },
+    {
+      "command": "/get drugs",
+      "description": "Взять раст. наркотики со склада банды / в притоне",
+      "params": "[ Количество ]"
+    },
+    {
+      "command": "/get synt",
+      "description": "Взять синт. наркотики со склада банды",
+      "params": "[ Количество ]"
+    },
+    {
+      "command": "/grefill",
+      "description": "Воспользоваться запасом материалов"
+    },
+    {
+      "command": "/gupgrades",
+      "description": "Улучшения банды"
+    },
+    {
+      "command": "/createbomb",
+      "description": "Создать бомбу из материалов"
+    },
+    {
+      "command": "/checktipster",
+      "description": "Проверка трекера на транспорте"
+    },
+    {
+      "command": "/dalarm",
+      "description": "Отключить сигнализацию на угоняемом транспорте",
+      "params": "[ ID транспорта ]"
+    },
+    {
+      "command": "/disable_alarm",
+      "description": "Отключить сигнализацию на угоняемом транспорте",
+      "params": "[ ID транспорта ]"
+    },
+    {
+      "command": "/bizlist",
+      "description": "Список подконтрольных бизнесов"
+    },
+    {
+      "command": "/mmap",
+      "description": "Количество бизнесов под контролем мафий"
+    },
+    {
+      "command": "/mafiawar",
+      "description": "Начать войну за бизнес",
+      "params": "[ ID стрелы ]"
+    },
+    {
+      "command": "/hackbase",
+      "description": "Попытка снятия розыска в патрульной машине",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/rtake",
+      "description": "Забрать рацию у игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/tphone",
+      "description": "Забрать телефон у игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/mfollow",
+      "description": "Вести игрока за собой",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/mmute",
+      "description": "Вставить / Вытащить кляп игроку",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/mput",
+      "description": "Затолкать игрока в машину",
+      "params": "[ ID ] [ Место ]"
+    },
+    {
+      "command": "/meject",
+      "description": "Вытолкать игрока из машины",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/onbag",
+      "description": "Натянуть мешок на голову игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/offbag",
+      "description": "Стянуть мешок с головы игрока",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/cinfo",
+      "description": "Информация о владельце казино"
+    },
+    {
+      "command": "/materials buy",
+      "description": "Покупка материалов"
+    },
+    {
+      "command": "/mats buy",
+      "description": "Покупка материалов"
+    },
+    {
+      "command": "/mupgrades",
+      "description": "Улучшения мафии"
+    },
+    {
+      "command": "/empty",
+      "description": "Начать ограбление бизнеса"
+    },
+    {
+      "command": "/bput",
+      "description": "Погрузить продукты в фургон"
+    },
+    {
+      "command": "/bunload",
+      "description": "Разгрузить фургон на склад организации"
+    },
+    {
+      "command": "/n",
+      "description": "Меню новостей (эфирная комната / автомобиль)"
+    },
+    {
+      "command": "/live",
+      "description": "Провести интервью с игроком",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/yes",
+      "description": "Принять звонок в эфир",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/off",
+      "description": "Прервать звонок в эфир",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/newscard",
+      "description": "Выдать / Забрать пропуск в офис",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/nskill",
+      "description": "Навык папарацци"
+    },
+    {
+      "command": "/showads",
+      "description": "Статистика сотрудников"
+    },
+    {
+      "command": "/norder",
+      "description": "Отображение активной цели в заказе на фотографирование"
+    },
+    {
+      "command": "/sendcall",
+      "description": "Принять вызов",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/taxiskill",
+      "description": "Навык владения профессией такси"
+    },
+    {
+      "command": "/taxigps",
+      "description": "Навигатор для таксистов"
+    },
+    {
+      "command": "/hcontract",
+      "description": "Заключить контракт с закусочной"
+    },
+    {
+      "command": "/selleat",
+      "description": "Продать еду игроку",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/mcontract",
+      "description": "Заключить контракт с АЗС"
+    },
+    {
+      "command": "/accept mechanic",
+      "description": "Принять вызов механика от игрока"
+    },
+    {
+      "command": "/ac mechanic",
+      "description": "Принять вызов механика от игрока"
+    },
+    {
+      "command": "/refill",
+      "description": "Заправить автомобиль игрока",
+      "params": "[ ID ] [ Литры (опционально) ]"
+    },
+    {
+      "command": "/repair",
+      "description": "Отремонтировать автомобиль игрока",
+      "params": "[ ID ] [ Цена ]"
+    },
+    {
+      "command": "/prodmenu",
+      "description": "Меню покупки / продажи"
+    },
+    {
+      "command": "/sellprodsone",
+      "description": "Разгрузить продукты в Клуб / Бар"
+    },
+    {
+      "command": "/sellprodstwo",
+      "description": "Разгрузить продукты в Закусочную"
+    },
+    {
+      "command": "/sellprodsthree",
+      "description": "Разгрузить продукты в Магазин 24 / 7"
+    },
+    {
+      "command": "/sellprodsfour",
+      "description": "Разгрузить топливо на АЗС"
+    },
+    {
+      "command": "/pskill",
+      "description": "Навык владения профессией Развозчика"
+    },
+    {
+      "command": "/realtorskill",
+      "description": "Узнать уровень и опыт риелтора"
+    },
+    {
+      "command": "/tmenu",
+      "description": "Меню дальнобойщика"
+    },
+    {
+      "command": "/showtabel",
+      "description": "Показать документы на груз",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/tload",
+      "description": "Загрузить груз"
+    },
+    {
+      "command": "/tunload",
+      "description": "Разгрузить груз"
+    },
+    {
+      "command": "/findt",
+      "description": "Найти груз в случае потери"
+    },
+    {
+      "command": "/tskill",
+      "description": "Информация"
+    },
+    {
+      "command": "/tmembers",
+      "description": "Список дальнобойщиков"
+    },
+    {
+      "command": "/tbooster",
+      "description": "Меню бустеров"
+    },
+    {
+      "command": "/bank",
+      "description": "Мониторинг банкоматов и их текущее состояние"
+    },
+    {
+      "command": "/get atm",
+      "description": "Взять инструмент для обслуживания из багажного отсека"
+    },
+    {
+      "command": "/rmembers",
+      "description": "Список ремонтных служащих онлайн"
+    },
+    {
+      "command": "/get cash",
+      "description": "Взять деньги из багажного отсека"
+    },
+    {
+      "command": "/imembers",
+      "description": "Список инкассаторов онлайн"
+    },
+    {
+      "command": "/cleaning",
+      "description": "Исключить напарника из рабочей бригады (для бригадира)"
+    },
+    {
+      "command": "/poker_change",
+      "description": "Установить размер малого блайнда",
+      "params": "[ Сумма ]"
+    },
+    {
+      "command": "/getbizstats",
+      "description": "Просмотреть статистику бизнеса",
+      "params": "[ Бизнес (опционально) ]"
+    },
+    {
+      "command": "/bmenu",
+      "description": "Панель управления обычным бизнесом"
+    },
+    {
+      "command": "/sellbiz",
+      "description": "Продать бизнес государству"
+    },
+    {
+      "command": "/bizlock",
+      "description": "Закрыть / Открыть бизнес"
+    },
+    {
+      "command": "/bizstats",
+      "description": "Статистика бизнеса для владельца"
+    },
+    {
+      "command": "/bizwithdraw",
+      "description": "Снять деньги с бизнеса",
+      "params": "[ Сумма ]"
+    },
+    {
+      "command": "/bizbank",
+      "description": "Перевести на счёт или оплатить электроэнергию",
+      "params": "[ Сумма ] [ Тип (1 - счёт, 2 - электроэнергия) ]"
+    },
+    {
+      "command": "/bizenterc",
+      "description": "Установить цену входа (только клубам / барам / ресторанам)",
+      "params": "[ Сумма ]"
+    },
+    {
+      "command": "/bizmafia",
+      "description": "Установить крышу",
+      "params": "[ Мафия (0 - Yakuza, 1 - RM, 2 - LCN) ]"
+    },
+    {
+      "command": "/adcontract",
+      "description": "Заключить рекламный контракт"
+    },
+    {
+      "command": "/tinv",
+      "description": "Загнать машину для ремонта / модификации",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/tupdate",
+      "description": "Меню ремонта / модификации авто"
+    },
+    {
+      "command": "/farmpanel",
+      "description": "Меню управления фермой"
+    },
+    {
+      "command": "/farminfo",
+      "description": "Информация о ферме"
+    },
+    {
+      "command": "/farmunload",
+      "description": "Разгрузить урожай на ферму"
+    },
+    {
+      "command": "/sellfarm",
+      "description": "Продать ферму государству"
+    }
+  ],
+  "version": 1
+}

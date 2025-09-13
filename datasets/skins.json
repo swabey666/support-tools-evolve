@@ -1,0 +1,2949 @@
+{
+  "dataset": [
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 1,
+      "name": "The Truth",
+      "price": 10000000,
+      "replacement": 1
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 2,
+      "name": "Maccer",
+      "price": 50000,
+      "replacement": 2
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 3,
+      "name": "Andre",
+      "price": 4000000,
+      "replacement": 3
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 4,
+      "name": "Barry Big Bear Thorne [Thin]",
+      "price": 700000,
+      "replacement": 4
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 5,
+      "name": "Barry Big Bear Thorne [Big]",
+      "price": 500000,
+      "replacement": 5
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 6,
+      "name": "Emmet",
+      "price": 700000,
+      "replacement": 6
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 7,
+      "name": "Taxi Driver",
+      "price": 300000,
+      "replacement": 7
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 8,
+      "name": "Janitor",
+      "price": 700000,
+      "replacement": 8
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 9,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 9
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 10,
+      "name": "Old Woman",
+      "price": 10000000,
+      "replacement": 10
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 11,
+      "name": "Casino croupier",
+      "price": 10000000,
+      "replacement": 11
+    },
+    {
+      "fraction": "LCN",
+      "gender": "Женский",
+      "id": 12,
+      "name": "Rich Woman",
+      "price": 5000000,
+      "replacement": 12
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13,
+      "name": "Street Girl",
+      "price": 0,
+      "replacement": 13
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 14,
+      "name": "Normal Ped",
+      "price": 50000,
+      "replacement": 14
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 15,
+      "name": "Mr.Whittaker",
+      "price": 1000,
+      "replacement": 15
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 16,
+      "name": "Airport Ground",
+      "price": 10000000,
+      "replacement": 16
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 17,
+      "name": "Businessman",
+      "price": 1000000,
+      "replacement": 17
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 18,
+      "name": "Beach Visitor",
+      "price": 1500000,
+      "replacement": 18
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 19,
+      "name": "DJ",
+      "price": 1500000,
+      "replacement": 19
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 20,
+      "name": "Rich Guy",
+      "price": 10000000,
+      "replacement": 20
+    },
+    {
+      "fraction": "Ballas",
+      "gender": "Мужской",
+      "id": 21,
+      "name": "Normal Ped",
+      "price": 700000,
+      "replacement": 21
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 22,
+      "name": "Normal Ped",
+      "price": 700000,
+      "replacement": 22
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 23,
+      "name": "BMXer",
+      "price": 300000,
+      "replacement": 23
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 24,
+      "name": "Madd Dogg Bodyguard",
+      "price": 50000,
+      "replacement": 24
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 25,
+      "name": "Madd Dogg Bodyguard",
+      "price": 0,
+      "replacement": 25
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 26,
+      "name": "Backpacker",
+      "price": 0,
+      "replacement": 26
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 27,
+      "name": "Construction Worker",
+      "price": 10000000,
+      "replacement": 27
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 28,
+      "name": "Drug Dealer",
+      "price": 1200000,
+      "replacement": 28
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 29,
+      "name": "Drug Dealer",
+      "price": 1200000,
+      "replacement": 29
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 30,
+      "name": "Drug Dealer",
+      "price": 700000,
+      "replacement": 30
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 31,
+      "name": "Farm-Town inhabitant",
+      "price": 10000000,
+      "replacement": 31
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 32,
+      "name": "Farm-Town inhabitant",
+      "price": 10000000,
+      "replacement": 32
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 33,
+      "name": "Farm-Town inhabitant",
+      "price": 300000,
+      "replacement": 33
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 34,
+      "name": "Farm-Town inhabitant",
+      "price": 10000000,
+      "replacement": 34
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 35,
+      "name": "Gardener",
+      "price": 10000000,
+      "replacement": 35
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 36,
+      "name": "Golfer",
+      "price": 1000,
+      "replacement": 36
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 37,
+      "name": "Golfer",
+      "price": 10000000,
+      "replacement": 37
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 38,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 38
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 39,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 39
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 40,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 40
+    },
+    {
+      "fraction": "Aztec, Vagos",
+      "gender": "Женский",
+      "id": 41,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 41
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 42,
+      "name": "Jethro",
+      "price": 700000,
+      "replacement": 42
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 43,
+      "name": "Normal Ped",
+      "price": 1500000,
+      "replacement": 43
+    },
+    {
+      "fraction": "Aztec",
+      "gender": "Мужской",
+      "id": 44,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 44
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 45,
+      "name": "Beach Visitor",
+      "price": 1000000,
+      "replacement": 45
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 46,
+      "name": "Normal Ped",
+      "price": 5000000,
+      "replacement": 46
+    },
+    {
+      "fraction": "Vagos",
+      "gender": "Мужской",
+      "id": 47,
+      "name": "Normal Ped",
+      "price": 1500000,
+      "replacement": 47
+    },
+    {
+      "fraction": "Aztec",
+      "gender": "Мужской",
+      "id": 48,
+      "name": "Normal Ped",
+      "price": 1500000,
+      "replacement": 48
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 49,
+      "name": "Snakehead (Da Nang)",
+      "price": 500000,
+      "replacement": 49
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 50,
+      "name": "Mechanic",
+      "price": 1000,
+      "replacement": 50
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 51,
+      "name": "Mountain Biker",
+      "price": 10000000,
+      "replacement": 51
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 52,
+      "name": "Mountain Biker",
+      "price": 10000000,
+      "replacement": 52
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 53,
+      "name": "Unknown",
+      "price": 10000000,
+      "replacement": 53
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 54,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 54
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 55,
+      "name": "Normal Ped",
+      "price": 0,
+      "replacement": 55
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Женский",
+      "id": 56,
+      "name": "Normal Ped",
+      "price": 0,
+      "replacement": 56
+    },
+    {
+      "fraction": "Government",
+      "gender": "Мужской",
+      "id": 57,
+      "name": "Oriental Ped",
+      "price": 10000000,
+      "replacement": 57
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 58,
+      "name": "Oriental Ped",
+      "price": 100000,
+      "replacement": 58
+    },
+    {
+      "fraction": "Government",
+      "gender": "Мужской",
+      "id": 59,
+      "name": "Normal Ped",
+      "price": 1500000,
+      "replacement": 59
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 60,
+      "name": "Normal Ped",
+      "price": 500000,
+      "replacement": 60
+    },
+    {
+      "fraction": "Army",
+      "gender": "Мужской",
+      "id": 61,
+      "name": "Pilot",
+      "price": 2000000,
+      "replacement": 61
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 62,
+      "name": "Colonel Fuhrberger",
+      "price": 10000000,
+      "replacement": 62
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 63,
+      "name": "Prostitute",
+      "price": 10000000,
+      "replacement": 63
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Женский",
+      "id": 64,
+      "name": "Prostitute",
+      "price": 10000000,
+      "replacement": 64
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 65,
+      "name": "Kendl Johnson",
+      "price": 1000,
+      "replacement": 65
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 66,
+      "name": "Pool Player",
+      "price": 1000,
+      "replacement": 66
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 67,
+      "name": "Pool Player",
+      "price": 500000,
+      "replacement": 67
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 68,
+      "name": "PriestPreacher",
+      "price": 1500000,
+      "replacement": 68
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 69,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 69
+    },
+    {
+      "fraction": "Hospital",
+      "gender": "Мужской",
+      "id": 70,
+      "name": "Scientist",
+      "price": 10000000,
+      "replacement": 70
+    },
+    {
+      "fraction": "Government",
+      "gender": "Мужской",
+      "id": 71,
+      "name": "Security Guard",
+      "price": 10000000,
+      "replacement": 71
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 72,
+      "name": "Hippy",
+      "price": 10000000,
+      "replacement": 72
+    },
+    {
+      "fraction": "Army",
+      "gender": "Мужской",
+      "id": 73,
+      "name": "Hippy",
+      "price": 500000,
+      "replacement": 73
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 74,
+      "name": "Carl CJ Johnson",
+      "price": 0,
+      "replacement": 74
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 75,
+      "name": "Prostitute",
+      "price": 0,
+      "replacement": 75
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 76,
+      "name": "Normal Ped",
+      "price": 5000000,
+      "replacement": 76
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 77,
+      "name": "Homeless",
+      "price": 10000000,
+      "replacement": 77
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 78,
+      "name": "Homeless",
+      "price": 0,
+      "replacement": 78
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 79,
+      "name": "Homeless",
+      "price": 0,
+      "replacement": 79
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 80,
+      "name": "Boxer",
+      "price": 10000000,
+      "replacement": 80
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 81,
+      "name": "Boxer",
+      "price": 10000000,
+      "replacement": 81
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 82,
+      "name": "Black Elvis",
+      "price": 1000000,
+      "replacement": 82
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 83,
+      "name": "White Elvis",
+      "price": 1000000,
+      "replacement": 83
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 84,
+      "name": "Blue Elvis",
+      "price": 10000000,
+      "replacement": 84
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Женский",
+      "id": 85,
+      "name": "Prostitute",
+      "price": 10000000,
+      "replacement": 85
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Мужской",
+      "id": 86,
+      "name": "Ryder with robbery mask",
+      "price": 10000000,
+      "replacement": 86
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 87,
+      "name": "Stripper",
+      "price": 10000000,
+      "replacement": 87
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 88,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 88
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 89,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 89
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 90,
+      "name": "Jogger",
+      "price": 0,
+      "replacement": 90
+    },
+    {
+      "fraction": "LCN",
+      "gender": "Женский",
+      "id": 91,
+      "name": "Rich Woman",
+      "price": 3500000,
+      "replacement": 91
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 92,
+      "name": "Rollerskater",
+      "price": 10000000,
+      "replacement": 92
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 93,
+      "name": "Normal Ped",
+      "price": 2000000,
+      "replacement": 93
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 94,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 94
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 95,
+      "name": "Normal Ped",
+      "price": 1000,
+      "replacement": 95
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 96,
+      "name": "Jogger",
+      "price": 1000,
+      "replacement": 96
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 97,
+      "name": "Lifeguard",
+      "price": 10000000,
+      "replacement": 97
+    },
+    {
+      "fraction": "Government",
+      "gender": "Мужской",
+      "id": 98,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 98
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 99,
+      "name": "Rollerskater",
+      "price": 10000000,
+      "replacement": 99
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Мужской",
+      "id": 100,
+      "name": "Biker",
+      "price": 10000000,
+      "replacement": 100
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 101,
+      "name": "Normal Ped",
+      "price": 1500000,
+      "replacement": 101
+    },
+    {
+      "fraction": "Ballas",
+      "gender": "Мужской",
+      "id": 102,
+      "name": "Ballas",
+      "price": 3000000,
+      "replacement": 102
+    },
+    {
+      "fraction": "Ballas",
+      "gender": "Мужской",
+      "id": 103,
+      "name": "Ballas",
+      "price": 10000000,
+      "replacement": 103
+    },
+    {
+      "fraction": "Ballas",
+      "gender": "Мужской",
+      "id": 104,
+      "name": "Ballas",
+      "price": 2500000,
+      "replacement": 104
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Мужской",
+      "id": 105,
+      "name": "Grove Street Families",
+      "price": 10000000,
+      "replacement": 105
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Мужской",
+      "id": 106,
+      "name": "Grove Street Families",
+      "price": 10000000,
+      "replacement": 106
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Мужской",
+      "id": 107,
+      "name": "Grove Street Families",
+      "price": 10000000,
+      "replacement": 107
+    },
+    {
+      "fraction": "Vagos",
+      "gender": "Мужской",
+      "id": 108,
+      "name": "Los Santos Vagos",
+      "price": 10000000,
+      "replacement": 108
+    },
+    {
+      "fraction": "Vagos",
+      "gender": "Мужской",
+      "id": 109,
+      "name": "Los Santos Vagos",
+      "price": 10000000,
+      "replacement": 109
+    },
+    {
+      "fraction": "Vagos",
+      "gender": "Мужской",
+      "id": 110,
+      "name": "Los Santos Vagos",
+      "price": 2500000,
+      "replacement": 110
+    },
+    {
+      "fraction": "RM",
+      "gender": "Мужской",
+      "id": 111,
+      "name": "The Russian Mafia",
+      "price": 3000000,
+      "replacement": 111
+    },
+    {
+      "fraction": "RM",
+      "gender": "Мужской",
+      "id": 112,
+      "name": "The Russian Mafia",
+      "price": 10000000,
+      "replacement": 112
+    },
+    {
+      "fraction": "LCN",
+      "gender": "Мужской",
+      "id": 113,
+      "name": "The Russian Mafia",
+      "price": 10000000,
+      "replacement": 113
+    },
+    {
+      "fraction": "Aztec",
+      "gender": "Мужской",
+      "id": 114,
+      "name": "Varios Los Aztecas",
+      "price": 10000000,
+      "replacement": 114
+    },
+    {
+      "fraction": "Aztec",
+      "gender": "Мужской",
+      "id": 115,
+      "name": "Varios Los Aztecas",
+      "price": 3500000,
+      "replacement": 115
+    },
+    {
+      "fraction": "Aztec",
+      "gender": "Мужской",
+      "id": 116,
+      "name": "Varios Los Aztecas",
+      "price": 3000000,
+      "replacement": 116
+    },
+    {
+      "fraction": "Yakuza",
+      "gender": "Мужской",
+      "id": 117,
+      "name": "Triad",
+      "price": 3500000,
+      "replacement": 117
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 118,
+      "name": "Triad",
+      "price": 3500000,
+      "replacement": 118
+    },
+    {
+      "fraction": "Rifa",
+      "gender": "Мужской",
+      "id": 119,
+      "name": "Johhny Sindacco",
+      "price": 4000000,
+      "replacement": 119
+    },
+    {
+      "fraction": "Yakuza",
+      "gender": "Мужской",
+      "id": 120,
+      "name": "Triad Boss",
+      "price": 3000000,
+      "replacement": 120
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 121,
+      "name": "Da Nang Boy",
+      "price": 2000000,
+      "replacement": 121
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 122,
+      "name": "Da Nang Boy",
+      "price": 2500000,
+      "replacement": 122
+    },
+    {
+      "fraction": "Yakuza",
+      "gender": "Мужской",
+      "id": 123,
+      "name": "Da Nang Boy",
+      "price": 10000000,
+      "replacement": 123
+    },
+    {
+      "fraction": "LCN",
+      "gender": "Мужской",
+      "id": 124,
+      "name": "The Mafia",
+      "price": 10000000,
+      "replacement": 124
+    },
+    {
+      "fraction": "RM",
+      "gender": "Мужской",
+      "id": 125,
+      "name": "The Mafia",
+      "price": 3000000,
+      "replacement": 125
+    },
+    {
+      "fraction": "RM",
+      "gender": "Мужской",
+      "id": 126,
+      "name": "The Mafia",
+      "price": 4000000,
+      "replacement": 126
+    },
+    {
+      "fraction": "LCN",
+      "gender": "Мужской",
+      "id": 127,
+      "name": "The Mafia",
+      "price": 4000000,
+      "replacement": 127
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 128,
+      "name": "Farm Inhabitant",
+      "price": 10000000,
+      "replacement": 128
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 129,
+      "name": "Farm Inhabitant",
+      "price": 10000000,
+      "replacement": 129
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 130,
+      "name": "Farm Inhabitant",
+      "price": 10000000,
+      "replacement": 130
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 131,
+      "name": "Farm Inhabitant",
+      "price": 10000000,
+      "replacement": 131
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 132,
+      "name": "Farm Inhabitant",
+      "price": 10000000,
+      "replacement": 132
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 133,
+      "name": "Farm Inhabitant",
+      "price": 10000000,
+      "replacement": 133
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 134,
+      "name": "Homeless",
+      "price": 0,
+      "replacement": 134
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 135,
+      "name": "Homeless",
+      "price": 0,
+      "replacement": 135
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 136,
+      "name": "Normal Ped",
+      "price": 1000,
+      "replacement": 136
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 137,
+      "name": "Homeless",
+      "price": 0,
+      "replacement": 137
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 138,
+      "name": "Beach Visitor",
+      "price": 10000000,
+      "replacement": 138
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 139,
+      "name": "Beach Visitor",
+      "price": 10000000,
+      "replacement": 139
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 140,
+      "name": "Beach Visitor",
+      "price": 10000000,
+      "replacement": 140
+    },
+    {
+      "fraction": "FBI",
+      "gender": "Женский",
+      "id": 141,
+      "name": "Businesswoman",
+      "price": 5000000,
+      "replacement": 141
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 142,
+      "name": "Taxi Driver",
+      "price": 1500000,
+      "replacement": 142
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 143,
+      "name": "Crack Maker",
+      "price": 1000,
+      "replacement": 143
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 144,
+      "name": "Crack Maker",
+      "price": 10000000,
+      "replacement": 144
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 145,
+      "name": "Crack Maker",
+      "price": 10000000,
+      "replacement": 145
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 146,
+      "name": "Crack Maker",
+      "price": 10000000,
+      "replacement": 146
+    },
+    {
+      "fraction": "Government",
+      "gender": "Мужской",
+      "id": 147,
+      "name": "Businessman",
+      "price": 10000000,
+      "replacement": 147
+    },
+    {
+      "fraction": "Hospital",
+      "gender": "Женский",
+      "id": 148,
+      "name": "Businesswoman",
+      "price": 3000000,
+      "replacement": 148
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Мужской",
+      "id": 149,
+      "name": "Big Smoke Armored",
+      "price": 10000000,
+      "replacement": 149
+    },
+    {
+      "fraction": "Government",
+      "gender": "Женский",
+      "id": 150,
+      "name": "Businesswoman",
+      "price": 5000000,
+      "replacement": 150
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 151,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 151
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 152,
+      "name": "Prostitute",
+      "price": 10000000,
+      "replacement": 152
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 153,
+      "name": "Construction Worker",
+      "price": 10000000,
+      "replacement": 153
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 154,
+      "name": "Beach Visitor",
+      "price": 10000000,
+      "replacement": 154
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 155,
+      "name": "Well Stacked Pizza Worker",
+      "price": 1000,
+      "replacement": 155
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 156,
+      "name": "Barber",
+      "price": 10000000,
+      "replacement": 156
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 157,
+      "name": "Hillbilly",
+      "price": 10000000,
+      "replacement": 157
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 158,
+      "name": "Farmer",
+      "price": 10000000,
+      "replacement": 158
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 159,
+      "name": "Hillbilly",
+      "price": 10000000,
+      "replacement": 159
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 160,
+      "name": "Hillbilly",
+      "price": 0,
+      "replacement": 160
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 161,
+      "name": "Farmer",
+      "price": 10000000,
+      "replacement": 161
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 162,
+      "name": "Hillbilly",
+      "price": 10000000,
+      "replacement": 162
+    },
+    {
+      "fraction": "FBI",
+      "gender": "Мужской",
+      "id": 163,
+      "name": "Black Bouncer",
+      "price": 0,
+      "replacement": 163
+    },
+    {
+      "fraction": "FBI",
+      "gender": "Мужской",
+      "id": 164,
+      "name": "White Bouncer",
+      "price": 10000000,
+      "replacement": 164
+    },
+    {
+      "fraction": "FBI",
+      "gender": "Мужской",
+      "id": 165,
+      "name": "White MIB agent",
+      "price": 10000000,
+      "replacement": 165
+    },
+    {
+      "fraction": "FBI",
+      "gender": "Мужской",
+      "id": 166,
+      "name": "Black MIB agent",
+      "price": 10000000,
+      "replacement": 166
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 167,
+      "name": "Cluckin' Bell Worker",
+      "price": 1000000,
+      "replacement": 167
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 168,
+      "name": "HotdogChilli Dog Vendor",
+      "price": 10000000,
+      "replacement": 168
+    },
+    {
+      "fraction": "Yakuza",
+      "gender": "Женский",
+      "id": 169,
+      "name": "Normal Ped",
+      "price": 4000000,
+      "replacement": 169
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 170,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 170
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 171,
+      "name": "Blackjack Dealer",
+      "price": 10000000,
+      "replacement": 171
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 172,
+      "name": "Casino croupier",
+      "price": 10000000,
+      "replacement": 172
+    },
+    {
+      "fraction": "Rifa",
+      "gender": "Мужской",
+      "id": 173,
+      "name": "San Fierro Rifa",
+      "price": 3000000,
+      "replacement": 173
+    },
+    {
+      "fraction": "Rifa",
+      "gender": "Мужской",
+      "id": 174,
+      "name": "San Fierro Rifa",
+      "price": 10000000,
+      "replacement": 174
+    },
+    {
+      "fraction": "Rifa",
+      "gender": "Мужской",
+      "id": 175,
+      "name": "San Fierro Rifa",
+      "price": 10000000,
+      "replacement": 175
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 176,
+      "name": "Barber",
+      "price": 10000000,
+      "replacement": 176
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 177,
+      "name": "Barber",
+      "price": 10000000,
+      "replacement": 177
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 178,
+      "name": "Whore",
+      "price": 10000000,
+      "replacement": 178
+    },
+    {
+      "fraction": "Army",
+      "gender": "Мужской",
+      "id": 179,
+      "name": "Ammunation Salesman",
+      "price": 10000000,
+      "replacement": 179
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 180,
+      "name": "Tattoo Artist",
+      "price": 10000000,
+      "replacement": 180
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Мужской",
+      "id": 181,
+      "name": "Punk",
+      "price": 10000000,
+      "replacement": 181
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 182,
+      "name": "Cab Driver",
+      "price": 10000000,
+      "replacement": 182
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 183,
+      "name": "Normal Ped",
+      "price": 700000,
+      "replacement": 183
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 184,
+      "name": "Normal Ped",
+      "price": 500000,
+      "replacement": 184
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 185,
+      "name": "Normal Ped",
+      "price": 1000000,
+      "replacement": 185
+    },
+    {
+      "fraction": "Yakuza",
+      "gender": "Мужской",
+      "id": 186,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 186
+    },
+    {
+      "fraction": "Government",
+      "gender": "Мужской",
+      "id": 187,
+      "name": "Businessman",
+      "price": 10000000,
+      "replacement": 187
+    },
+    {
+      "fraction": "News",
+      "gender": "Мужской",
+      "id": 188,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 188
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 189,
+      "name": "Valet",
+      "price": 10000000,
+      "replacement": 189
+    },
+    {
+      "fraction": "Aztec, Vagos",
+      "gender": "Женский",
+      "id": 190,
+      "name": "Barbara Schternvart",
+      "price": 0,
+      "replacement": 190
+    },
+    {
+      "fraction": "Army",
+      "gender": "Женский",
+      "id": 191,
+      "name": "Helena Wankstein",
+      "price": 10000000,
+      "replacement": 191
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 192,
+      "name": "Michelle Cannes",
+      "price": 10000,
+      "replacement": 192
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 193,
+      "name": "Katie Zhan",
+      "price": 0,
+      "replacement": 193
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 194,
+      "name": "Millie Perkins",
+      "price": 1500000,
+      "replacement": 194
+    },
+    {
+      "fraction": "Ballas",
+      "gender": "Женский",
+      "id": 195,
+      "name": "Denise Robinson",
+      "price": 10000000,
+      "replacement": 195
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 196,
+      "name": "Farm-Town inhabitant",
+      "price": 10000000,
+      "replacement": 196
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 197,
+      "name": "Hillbilly",
+      "price": 10000000,
+      "replacement": 197
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 198,
+      "name": "Farm-Town inhabitant",
+      "price": 10000000,
+      "replacement": 198
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 199,
+      "name": "Farm-Town inhabitant",
+      "price": 10000000,
+      "replacement": 199
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 200,
+      "name": "Hillbilly",
+      "price": 0,
+      "replacement": 200
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Женский",
+      "id": 201,
+      "name": "Farmer",
+      "price": 10000000,
+      "replacement": 201
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 202,
+      "name": "Farmer",
+      "price": 10000000,
+      "replacement": 202
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 203,
+      "name": "Karate Teacher",
+      "price": 10000000,
+      "replacement": 203
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 204,
+      "name": "Karate Teacher",
+      "price": 10000000,
+      "replacement": 204
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 205,
+      "name": "Burger Shot Cashier",
+      "price": 10000000,
+      "replacement": 205
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 206,
+      "name": "Cab Driver",
+      "price": 10000000,
+      "replacement": 206
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 207,
+      "name": "Prostitute",
+      "price": 10000000,
+      "replacement": 207
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 208,
+      "name": "Su Xi Mu (Suzie)",
+      "price": 4000000,
+      "replacement": 208
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 209,
+      "name": "Oriental Noodle stand vendor",
+      "price": 10000000,
+      "replacement": 209
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 210,
+      "name": "Oriental Boating School Instructor",
+      "price": 10000000,
+      "replacement": 210
+    },
+    {
+      "fraction": "News",
+      "gender": "Женский",
+      "id": 211,
+      "name": "Clothes shop staff",
+      "price": 2000000,
+      "replacement": 211
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 212,
+      "name": "Homeless",
+      "price": 0,
+      "replacement": 212
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 213,
+      "name": "Weird old man",
+      "price": 0,
+      "replacement": 213
+    },
+    {
+      "fraction": "RM",
+      "gender": "Женский",
+      "id": 214,
+      "name": "Waitress (Maria Latore)",
+      "price": 5000000,
+      "replacement": 214
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 215,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 215
+    },
+    {
+      "fraction": "RM, Government",
+      "gender": "Женский",
+      "id": 216,
+      "name": "Normal Ped",
+      "price": 0,
+      "replacement": 216
+    },
+    {
+      "fraction": "News",
+      "gender": "Мужской",
+      "id": 217,
+      "name": "Clothes shop staff",
+      "price": 10000000,
+      "replacement": 217
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 218,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 218
+    },
+    {
+      "fraction": "Hospital",
+      "gender": "Женский",
+      "id": 219,
+      "name": "Rich Woman",
+      "price": 1000000,
+      "replacement": 219
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 220,
+      "name": "Cab Driver",
+      "price": 10000000,
+      "replacement": 220
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 221,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 221
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 222,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 222
+    },
+    {
+      "fraction": "LCN",
+      "gender": "Мужской",
+      "id": 223,
+      "name": "Normal Ped",
+      "price": 2500000,
+      "replacement": 223
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 224,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 224
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 225,
+      "name": "Normal Ped",
+      "price": 0,
+      "replacement": 225
+    },
+    {
+      "fraction": "Rifa",
+      "gender": "Женский",
+      "id": 226,
+      "name": "Normal Ped",
+      "price": 0,
+      "replacement": 226
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 227,
+      "name": "Oriental Businessman",
+      "price": 2000000,
+      "replacement": 227
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 228,
+      "name": "Oriental Ped",
+      "price": 2000000,
+      "replacement": 228
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 229,
+      "name": "Oriental Ped",
+      "price": 10000000,
+      "replacement": 229
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 230,
+      "name": "Homeless",
+      "price": 0,
+      "replacement": 230
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 231,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 231
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 232,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 232
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 233,
+      "name": "Normal Ped",
+      "price": 2000000,
+      "replacement": 233
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 234,
+      "name": "Cab Driver",
+      "price": 10000000,
+      "replacement": 234
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 235,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 235
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 236,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 236
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 237,
+      "name": "Prostitute",
+      "price": 10000000,
+      "replacement": 237
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 238,
+      "name": "Prostitute",
+      "price": 10000000,
+      "replacement": 238
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 239,
+      "name": "Homeless",
+      "price": 0,
+      "replacement": 239
+    },
+    {
+      "fraction": "Government",
+      "gender": "Мужской",
+      "id": 240,
+      "name": "The D.A",
+      "price": 10000000,
+      "replacement": 240
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 241,
+      "name": "Afro-American",
+      "price": 500000,
+      "replacement": 241
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 242,
+      "name": "Mexican",
+      "price": 500000,
+      "replacement": 242
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 243,
+      "name": "Prostitute",
+      "price": 10000000,
+      "replacement": 243
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 244,
+      "name": "Stripper",
+      "price": 10000000,
+      "replacement": 244
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 245,
+      "name": "Prostitute",
+      "price": 10000000,
+      "replacement": 245
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Женский",
+      "id": 246,
+      "name": "Stripper",
+      "price": 10000000,
+      "replacement": 246
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Мужской",
+      "id": 247,
+      "name": "Biker",
+      "price": 1200000,
+      "replacement": 247
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Мужской",
+      "id": 248,
+      "name": "Biker",
+      "price": 1200000,
+      "replacement": 248
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 249,
+      "name": "Pimp",
+      "price": 1200000,
+      "replacement": 249
+    },
+    {
+      "fraction": "News",
+      "gender": "Мужской",
+      "id": 250,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 250
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 251,
+      "name": "Lifeguard",
+      "price": 10000000,
+      "replacement": 251
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 252,
+      "name": "Naked Valet",
+      "price": 10000000,
+      "replacement": 252
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 253,
+      "name": "Bus Driver",
+      "price": 10000000,
+      "replacement": 253
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 254,
+      "name": "Biker Drug Dealer",
+      "price": 1200000,
+      "replacement": 254
+    },
+    {
+      "fraction": "Army",
+      "gender": "Мужской",
+      "id": 255,
+      "name": "Chauffeur (Limo Driver)",
+      "price": 700000,
+      "replacement": 255
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 256,
+      "name": "Stripper",
+      "price": 10000000,
+      "replacement": 256
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 257,
+      "name": "Stripper",
+      "price": 10000000,
+      "replacement": 257
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 258,
+      "name": "Heckler",
+      "price": 10000000,
+      "replacement": 258
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 259,
+      "name": "Heckler",
+      "price": 10000000,
+      "replacement": 259
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 260,
+      "name": "Construction Worker",
+      "price": 10000000,
+      "replacement": 260
+    },
+    {
+      "fraction": "News",
+      "gender": "Мужской",
+      "id": 261,
+      "name": "Cab driver",
+      "price": 10000000,
+      "replacement": 261
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 262,
+      "name": "Cab driver",
+      "price": 10000000,
+      "replacement": 262
+    },
+    {
+      "fraction": "Yakuza",
+      "gender": "Женский",
+      "id": 263,
+      "name": "Normal Ped",
+      "price": 10000000,
+      "replacement": 263
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 264,
+      "name": "Clown (Ice-cream Van Driver)",
+      "price": 10000000,
+      "replacement": 264
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 265,
+      "name": "Officer Frank Tenpenny (Corrupt Cop)",
+      "price": 10000000,
+      "replacement": 265
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 266,
+      "name": "Officer Eddie Pulaski (Corrupt Cop)",
+      "price": 10000000,
+      "replacement": 266
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 267,
+      "name": "Officer Jimmy Hernandez",
+      "price": 10000000,
+      "replacement": 267
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 268,
+      "name": "DwaineDwayne",
+      "price": 10000000,
+      "replacement": 268
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Мужской",
+      "id": 269,
+      "name": "Melvin Big Smoke Harris (Mission)",
+      "price": 10000000,
+      "replacement": 269
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Мужской",
+      "id": 270,
+      "name": "Sean 'Sweet' Johnson",
+      "price": 10000000,
+      "replacement": 270
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Мужской",
+      "id": 271,
+      "name": "Lance 'Ryder' Wilson",
+      "price": 2500000,
+      "replacement": 271
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 272,
+      "name": "Mafia Boss",
+      "price": 10000000,
+      "replacement": 272
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 273,
+      "name": "T-Bone Mendez",
+      "price": 700000,
+      "replacement": 273
+    },
+    {
+      "fraction": "Hospital",
+      "gender": "Мужской",
+      "id": 274,
+      "name": "Paramedic (Emergency Medical Technician)",
+      "price": 10000000,
+      "replacement": 274
+    },
+    {
+      "fraction": "Hospital",
+      "gender": "Мужской",
+      "id": 275,
+      "name": "Paramedic (Emergency Medical Technician)",
+      "price": 10000000,
+      "replacement": 275
+    },
+    {
+      "fraction": "Hospital",
+      "gender": "Мужской",
+      "id": 276,
+      "name": "Paramedic (Emergency Medical Technician)",
+      "price": 10000000,
+      "replacement": 276
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 277,
+      "name": "Firefighter",
+      "price": 10000000,
+      "replacement": 277
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 278,
+      "name": "Firefighter",
+      "price": 10000000,
+      "replacement": 278
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 279,
+      "name": "Firefighter",
+      "price": 10000000,
+      "replacement": 279
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 280,
+      "name": "Los Santos Police Officer",
+      "price": 10000000,
+      "replacement": 280
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 281,
+      "name": "San Fierro Police Officer",
+      "price": 10000000,
+      "replacement": 281
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 282,
+      "name": "Las Venturas Police Officer",
+      "price": 10000000,
+      "replacement": 282
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 283,
+      "name": "County Sheriff",
+      "price": 10000000,
+      "replacement": 283
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 284,
+      "name": "LSPD Motorbike Cop",
+      "price": 10000000,
+      "replacement": 284
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 285,
+      "name": "S.W.A.T Special Forces",
+      "price": 10000000,
+      "replacement": 285
+    },
+    {
+      "fraction": "FBI",
+      "gender": "Мужской",
+      "id": 286,
+      "name": "Federal Agent",
+      "price": 10000000,
+      "replacement": 286
+    },
+    {
+      "fraction": "Army",
+      "gender": "Мужской",
+      "id": 287,
+      "name": "San Andreas Army",
+      "price": 10000000,
+      "replacement": 287
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 288,
+      "name": "Desert Sheriff",
+      "price": 10000000,
+      "replacement": 288
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 289,
+      "name": "Zero",
+      "price": 1500000,
+      "replacement": 289
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 290,
+      "name": "Ken Rosenberg",
+      "price": 1000000,
+      "replacement": 290
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 291,
+      "name": "Kent Paul",
+      "price": 1000000,
+      "replacement": 291
+    },
+    {
+      "fraction": "Aztec",
+      "gender": "Мужской",
+      "id": 292,
+      "name": "Cesar Vialpando",
+      "price": 2000000,
+      "replacement": 292
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 293,
+      "name": "Jeffery OG Loc MartinCross",
+      "price": 2000000,
+      "replacement": 293
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 294,
+      "name": "Wu Zi Mu (Woozie)",
+      "price": 5000000,
+      "replacement": 294
+    },
+    {
+      "fraction": "Government",
+      "gender": "Мужской",
+      "id": 295,
+      "name": "Michael Toreno",
+      "price": 4500000,
+      "replacement": 295
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 296,
+      "name": "Jizzy B.",
+      "price": 4000000,
+      "replacement": 296
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Мужской",
+      "id": 297,
+      "name": "Madd Dogg",
+      "price": 2000000,
+      "replacement": 297
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Женский",
+      "id": 298,
+      "name": "Catalina",
+      "price": 0,
+      "replacement": 298
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 299,
+      "name": "Claude Speed",
+      "price": 1500000,
+      "replacement": 299
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 300,
+      "name": "Los Santos Police Officer (Without gun holster)",
+      "price": 10000000,
+      "replacement": 300
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 301,
+      "name": "San Fierro Police Officer (Without gun holster)",
+      "price": 10000000,
+      "replacement": 301
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 302,
+      "name": "Las Venturas Police Officer (Without gun holster)",
+      "price": 10000000,
+      "replacement": 302
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 303,
+      "name": "Los Santos Police Officer (Without uniform)",
+      "price": 10000000,
+      "replacement": 303
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 304,
+      "name": "Los Santos Police Officer (Without uniform)",
+      "price": 10000000,
+      "replacement": 304
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 305,
+      "name": "Las Venturas Police Officer (Without uniform)",
+      "price": 10000000,
+      "replacement": 305
+    },
+    {
+      "fraction": "Police",
+      "gender": "Женский",
+      "id": 306,
+      "name": "Los Santos Police Officer",
+      "price": 10000000,
+      "replacement": 306
+    },
+    {
+      "fraction": "Police",
+      "gender": "Женский",
+      "id": 307,
+      "name": "San Fierro Police Officer",
+      "price": 10000000,
+      "replacement": 307
+    },
+    {
+      "fraction": "Hospital",
+      "gender": "Женский",
+      "id": 308,
+      "name": "San Fierro Paramedic (Emergency Medical Technician)",
+      "price": 10000000,
+      "replacement": 308
+    },
+    {
+      "fraction": "Police",
+      "gender": "Женский",
+      "id": 309,
+      "name": "Las Venturas Police Officer",
+      "price": 10000000,
+      "replacement": 309
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 310,
+      "name": "Country Sheriff (Without hat)",
+      "price": 10000000,
+      "replacement": 310
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 311,
+      "name": "Desert Sheriff (Without hat)",
+      "price": 10000000,
+      "replacement": 311
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13900,
+      "name": "Fisherman",
+      "price": 19685040,
+      "replacement": 2
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13901,
+      "name": "Catherine",
+      "price": 19685040,
+      "replacement": 91
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13902,
+      "name": "Sheikh",
+      "price": 19685040,
+      "replacement": 46
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 13903,
+      "name": "Police Cadet",
+      "price": 19685040,
+      "replacement": 266
+    },
+    {
+      "fraction": "Police",
+      "gender": "Женский",
+      "id": 13904,
+      "name": "Policewoman",
+      "price": 19685040,
+      "replacement": 309
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13905,
+      "name": "Frankly",
+      "price": 19685040,
+      "replacement": 21
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13906,
+      "name": "Girl model",
+      "price": 19685040,
+      "replacement": 91
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 13907,
+      "name": "Policeman",
+      "price": 19685040,
+      "replacement": 253
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 13908,
+      "name": "Police Sheriff",
+      "price": 19685040,
+      "replacement": 283
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13909,
+      "name": "Сlaude",
+      "price": 19685040,
+      "replacement": 299
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13910,
+      "name": "Elizabeth",
+      "price": 19685040,
+      "replacement": 216
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 13911,
+      "name": "Policeman Ronald",
+      "price": 19685040,
+      "replacement": 253
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13912,
+      "name": "Jacob",
+      "price": 19685040,
+      "replacement": 7
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 13913,
+      "name": "Policeman Jon",
+      "price": 19685040,
+      "replacement": 280
+    },
+    {
+      "fraction": "Police",
+      "gender": "Женский",
+      "id": 13914,
+      "name": "Policewoman Britney",
+      "price": 19685040,
+      "replacement": 306
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 13915,
+      "name": "SWAT Police",
+      "price": 19685040,
+      "replacement": 285
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 13916,
+      "name": "Sheriff Mickey",
+      "price": 19685040,
+      "replacement": 310
+    },
+    {
+      "fraction": "Government",
+      "gender": "Женский",
+      "id": 13917,
+      "name": "Girl Emily",
+      "price": 19685040,
+      "replacement": 216
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 13918,
+      "name": "Sheriff Daniel",
+      "price": 19685040,
+      "replacement": 283
+    },
+    {
+      "fraction": "Police",
+      "gender": "Женский",
+      "id": 13919,
+      "name": "Policewoman Tiffany",
+      "price": 19685040,
+      "replacement": 309
+    },
+    {
+      "fraction": "Government",
+      "gender": "Мужской",
+      "id": 13920,
+      "name": "Mayor",
+      "price": 19685040,
+      "replacement": 147
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 13921,
+      "name": "Policeman Brian",
+      "price": 19685040,
+      "replacement": 280
+    },
+    {
+      "fraction": "Police",
+      "gender": "Мужской",
+      "id": 13922,
+      "name": "Policeman Kevin",
+      "price": 19685040,
+      "replacement": 282
+    },
+    {
+      "fraction": "FBI",
+      "gender": "Мужской",
+      "id": 13923,
+      "name": "Agent James",
+      "price": 19685040,
+      "replacement": 286
+    },
+    {
+      "fraction": "FBI",
+      "gender": "Мужской",
+      "id": 13924,
+      "name": "Agent French",
+      "price": 19685040,
+      "replacement": 164
+    },
+    {
+      "fraction": "Army",
+      "gender": "Мужской",
+      "id": 13925,
+      "name": "Military",
+      "price": 19685040,
+      "replacement": 287
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13926,
+      "name": "City Hall employee",
+      "price": 19685040,
+      "replacement": 98
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13927,
+      "name": "Agent Alana",
+      "price": 19685040,
+      "replacement": 141
+    },
+    {
+      "fraction": "Army",
+      "gender": "Женский",
+      "id": 13928,
+      "name": "Military girl",
+      "price": 19685040,
+      "replacement": 191
+    },
+    {
+      "fraction": "Army",
+      "gender": "Мужской",
+      "id": 13929,
+      "name": "Military Mason",
+      "price": 19685040,
+      "replacement": 287
+    },
+    {
+      "fraction": "Hospital",
+      "gender": "Женский",
+      "id": 13930,
+      "name": "Nurse",
+      "price": 19685040,
+      "replacement": 308
+    },
+    {
+      "fraction": "Army",
+      "gender": "Мужской",
+      "id": 13931,
+      "name": "General Army LV",
+      "price": 19685040,
+      "replacement": 255
+    },
+    {
+      "fraction": "Government",
+      "gender": "Мужской",
+      "id": 13932,
+      "name": "Lawyer Jon",
+      "price": 19685040,
+      "replacement": 187
+    },
+    {
+      "fraction": "Army",
+      "gender": "Мужской",
+      "id": 13940,
+      "name": "Admiral Kenny",
+      "price": 19685040,
+      "replacement": 61
+    },
+    {
+      "fraction": "Hospital",
+      "gender": "Мужской",
+      "id": 13941,
+      "name": "Dr. Strong",
+      "price": 19685040,
+      "replacement": 70
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13942,
+      "name": "Ethan",
+      "price": 19685040,
+      "replacement": 47
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13943,
+      "name": "2PAC",
+      "price": 19685040,
+      "replacement": 293
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13944,
+      "name": "Snoop Dogg",
+      "price": 19685040,
+      "replacement": 47
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Мужской",
+      "id": 13945,
+      "name": "Biker Sony Berger",
+      "price": 19685040,
+      "replacement": 100
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Мужской",
+      "id": 13946,
+      "name": "Biker Neil Peart",
+      "price": 19685040,
+      "replacement": 100
+    },
+    {
+      "fraction": "Bikers",
+      "gender": "Мужской",
+      "id": 13947,
+      "name": "Biker Keith Flint",
+      "price": 19685040,
+      "replacement": 100
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13948,
+      "name": "Ryan Gosling",
+      "price": 19685040,
+      "replacement": 46
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13949,
+      "name": "Ariana Grande",
+      "price": 19685040,
+      "replacement": 93
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13950,
+      "name": "Black Jack Johnson",
+      "price": 19685040,
+      "replacement": 22
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13951,
+      "name": "Girl Ellie",
+      "price": 19685040,
+      "replacement": 93
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13952,
+      "name": "Leah",
+      "price": 19685040,
+      "replacement": 216
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13953,
+      "name": "Tieco",
+      "price": 19685040,
+      "replacement": 23
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13954,
+      "name": "Aurora",
+      "price": 19685040,
+      "replacement": 193
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13955,
+      "name": "Evelyn",
+      "price": 19685040,
+      "replacement": 90
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13956,
+      "name": "Kevin Lorenz",
+      "price": 19685040,
+      "replacement": 294
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13957,
+      "name": "Olivia",
+      "price": 19685040,
+      "replacement": 152
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13958,
+      "name": "Harley Quinn",
+      "price": 19685040,
+      "replacement": 152
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13959,
+      "name": "Dwayne",
+      "price": 19685040,
+      "replacement": 228
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13960,
+      "name": "Amari",
+      "price": 19685040,
+      "replacement": 22
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13961,
+      "name": "Notorious Big",
+      "price": 19685040,
+      "replacement": 5
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13962,
+      "name": "Vito Scaletta",
+      "price": 19685040,
+      "replacement": 113
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13963,
+      "name": "Joe Barbaro",
+      "price": 19685040,
+      "replacement": 127
+    }
+  ],
+  "version": 1
+}

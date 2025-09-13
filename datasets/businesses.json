@@ -1,0 +1,491 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "location": "Idlewood, Los Santos",
+      "name": "Alhambra",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "location": "Idlewood, Los Santos",
+      "name": "PigPen",
+      "type": 0
+    },
+    {
+      "id": 3,
+      "location": "Garcia, San Fierro",
+      "name": "Misty Club",
+      "type": 0
+    },
+    {
+      "id": 4,
+      "location": "Temple, Los Santos",
+      "name": "Casino Chinatown",
+      "type": 0
+    },
+    {
+      "id": 5,
+      "location": "Ganton, Los Santos",
+      "name": "Grove Street Bar",
+      "type": 0
+    },
+    {
+      "id": 6,
+      "location": "Palomino Creek, Los Santos",
+      "name": "Sobrino de Botin",
+      "type": 1
+    },
+    {
+      "id": 7,
+      "location": "Temple, Los Santos",
+      "name": "Vinewood Burger",
+      "type": 1
+    },
+    {
+      "id": 8,
+      "location": "Marina, Los Santos",
+      "name": "Marina Burger",
+      "type": 1
+    },
+    {
+      "id": 9,
+      "location": "Idlewood, Los Santos",
+      "name": "Idlewood Pizza",
+      "type": 7
+    },
+    {
+      "id": 10,
+      "location": "Downtown, Los Santos",
+      "name": "Downtown Cluc",
+      "type": 1
+    },
+    {
+      "id": 11,
+      "location": "Market, Los Santos",
+      "name": "Marina Cluc",
+      "type": 1
+    },
+    {
+      "id": 12,
+      "location": "Idlewood, Los Santos",
+      "name": "Idelwood 24/7",
+      "type": 2
+    },
+    {
+      "id": 13,
+      "location": "Flint County, Los Santos",
+      "name": "Flint 24/7",
+      "type": 2
+    },
+    {
+      "id": 14,
+      "location": "Easter Basin, San Fierro",
+      "name": "Easter 24/7",
+      "type": 2
+    },
+    {
+      "id": 15,
+      "location": "Mulholland, Los Santos",
+      "name": "Mullholand 24/7",
+      "type": 2
+    },
+    {
+      "id": 16,
+      "location": "Battery Point, San Fierro",
+      "name": "Jizzy",
+      "type": 0
+    },
+    {
+      "id": 17,
+      "location": "Redsands West, Las Venturas",
+      "name": "Redsands West 24/7",
+      "type": 2
+    },
+    {
+      "id": 18,
+      "location": "Las Venturas, Las Venturas",
+      "name": "Julious 24/7",
+      "type": 2
+    },
+    {
+      "id": 19,
+      "location": "Lil' Probe Inn, Las Venturas",
+      "name": "Lil\"Probe\"inn",
+      "type": 0
+    },
+    {
+      "id": 20,
+      "location": "Idlewood, Los Santos",
+      "name": "Idelwood Gas",
+      "type": 3
+    },
+    {
+      "id": 21,
+      "location": "Mulholland, Los Santos",
+      "name": "Mullholand Gas",
+      "type": 3
+    },
+    {
+      "id": 22,
+      "location": "Whetstone, Los Santos",
+      "name": "Whetstone 24/7",
+      "type": 2
+    },
+    {
+      "id": 23,
+      "location": "Idlewood, Los Santos",
+      "name": "East Cluc",
+      "type": 0
+    },
+    {
+      "id": 24,
+      "location": "Willowfield, Los Santos",
+      "name": "WillowField Cluc",
+      "type": 1
+    },
+    {
+      "id": 25,
+      "location": "Ocean Flats, San Fierro",
+      "name": "Flats Cluc",
+      "type": 1
+    },
+    {
+      "id": 26,
+      "location": "Financial, San Fierro",
+      "name": "Financial Pizza",
+      "type": 7
+    },
+    {
+      "id": 27,
+      "location": "Las Venturas, Las Venturas",
+      "name": "Come-A-Lot Gas",
+      "type": 3
+    },
+    {
+      "id": 28,
+      "location": "Fort Carson, Las Venturas",
+      "name": "FortCarson Gas",
+      "type": 3
+    },
+    {
+      "id": 29,
+      "location": "Bone County, Las Venturas",
+      "name": "BoneCountry Gas",
+      "type": 3
+    },
+    {
+      "id": 30,
+      "location": "Las Venturas, Las Venturas",
+      "name": "Julius Gas",
+      "type": 3
+    },
+    {
+      "id": 31,
+      "location": "Spinybed, Las Venturas",
+      "name": "PricklePine Gas",
+      "type": 3
+    },
+    {
+      "id": 32,
+      "location": "Flint County, Los Santos",
+      "name": "Flint Gas",
+      "type": 3
+    },
+    {
+      "id": 33,
+      "location": "Easter Basin, San Fierro",
+      "name": "Easter Gas",
+      "type": 3
+    },
+    {
+      "id": 34,
+      "location": "Doherty, San Fierro",
+      "name": "Doherty Gas",
+      "type": 3
+    },
+    {
+      "id": 35,
+      "location": "Juniper Hollow, San Fierro",
+      "name": "Juniper 24/7",
+      "type": 2
+    },
+    {
+      "id": 36,
+      "location": "Juniper Hollow, San Fierro",
+      "name": "Juniper Gas",
+      "type": 3
+    },
+    {
+      "id": 37,
+      "location": "The Emerald Isle, Las Venturas",
+      "name": "Emerald Isle 24/7",
+      "type": 2
+    },
+    {
+      "id": 38,
+      "location": "The Emerald Isle, Las Venturas",
+      "name": "Emerald Isle Gas",
+      "type": 3
+    },
+    {
+      "id": 39,
+      "location": "Redsands West, Las Venturas",
+      "name": "Redsands-West Gas",
+      "type": 3
+    },
+    {
+      "id": 40,
+      "location": "Tierra Robada, San Fierro",
+      "name": "ElGuebrabos Gas",
+      "type": 3
+    },
+    {
+      "id": 41,
+      "location": "Tierra Robada, San Fierro",
+      "name": "TierraRobada Gas",
+      "type": 3
+    },
+    {
+      "id": 42,
+      "location": "Angel Pine, San Fierro",
+      "name": "AngelPine Gas",
+      "type": 3
+    },
+    {
+      "id": 43,
+      "location": "Whetstone, San Fierro",
+      "name": "Whestone Gas",
+      "type": 3
+    },
+    {
+      "id": 44,
+      "location": "Dillimore, Los Santos",
+      "name": "Dilimore Gas",
+      "type": 3
+    },
+    {
+      "id": 45,
+      "location": "Montgomery, Los Santos",
+      "name": "Montgomery Gas",
+      "type": 3
+    },
+    {
+      "id": 46,
+      "location": "Commerce, Los Santos",
+      "name": "Central 24/7",
+      "type": 2
+    },
+    {
+      "id": 47,
+      "location": "The Four Dragons Casino, Las Venturas",
+      "name": "Four Dragons Bar",
+      "type": 0
+    },
+    {
+      "id": 48,
+      "location": "Caligula's Palace, Las Venturas",
+      "name": "Caligula Bar",
+      "type": 0
+    },
+    {
+      "id": 49,
+      "location": "Bone County, Las Venturas",
+      "name": "FortCarson Cluc",
+      "type": 1
+    },
+    {
+      "id": 50,
+      "location": "Ganton, Los Santos",
+      "name": "GYM",
+      "type": 4
+    },
+    {
+      "id": 51,
+      "location": "Redsands East, Las Venturas",
+      "name": "CROCK",
+      "type": 4
+    },
+    {
+      "id": 52,
+      "location": "Garcia, San Fierro",
+      "name": "KUNG-FOO",
+      "type": 4
+    },
+    {
+      "id": 53,
+      "location": "Pirates in Men's Pants, Las Venturas",
+      "name": "AlCapone Bar",
+      "type": 0
+    },
+    {
+      "id": 54,
+      "location": "Whitewood Estates, Las Venturas",
+      "name": "West Burger",
+      "type": 1
+    },
+    {
+      "id": 55,
+      "location": "Redsands East, Las Venturas",
+      "name": "East Burger",
+      "type": 1
+    },
+    {
+      "id": 56,
+      "location": "Spinybed, Las Venturas",
+      "name": "Spinybed Burger",
+      "type": 1
+    },
+    {
+      "id": 57,
+      "location": "Redsands East, Las Venturas",
+      "name": "Comedy Club",
+      "type": 0
+    },
+    {
+      "id": 58,
+      "location": "The Camel's Toe, Las Venturas",
+      "name": "Amnesia",
+      "type": 0
+    },
+    {
+      "id": 59,
+      "location": "Bone County, Las Venturas",
+      "name": "Spead Ranch",
+      "type": 0
+    },
+    {
+      "id": 60,
+      "location": "The Emerald Isle, Las Venturas",
+      "name": "Strip pizza",
+      "type": 7
+    },
+    {
+      "id": 61,
+      "location": "Esplanade North, San Fierro",
+      "name": "Esplanade pizza",
+      "type": 7
+    },
+    {
+      "id": 62,
+      "location": "Blueberry, Los Santos",
+      "name": "Blueberry pizza",
+      "type": 7
+    },
+    {
+      "id": 63,
+      "location": "Old Venturas Strip, Las Venturas",
+      "name": "Cluckin Bell",
+      "type": 1
+    },
+    {
+      "id": 64,
+      "location": "Creek, Las Venturas",
+      "name": "Creek 24/7",
+      "type": 2
+    },
+    {
+      "id": 65,
+      "location": "Playa del Seville, Los Santos",
+      "name": "Sugar 24/7",
+      "type": 2
+    },
+    {
+      "id": 66,
+      "location": "San Andreas, San Fierro",
+      "name": "Espo 24/7",
+      "type": 2
+    },
+    {
+      "id": 67,
+      "location": "Red County, Las Venturas",
+      "name": "Shell 24/7",
+      "type": 2
+    },
+    {
+      "id": 68,
+      "location": "Playa del Seville, Los Santos",
+      "name": "Sugar Gas",
+      "type": 3
+    },
+    {
+      "id": 69,
+      "location": "San Andreas, San Fierro",
+      "name": "Espo Gas",
+      "type": 3
+    },
+    {
+      "id": 70,
+      "location": "Red County, Las Venturas",
+      "name": "Shell Gas",
+      "type": 3
+    },
+    {
+      "id": 71,
+      "location": "San Andreas, Los Santos",
+      "name": "Island Gas",
+      "type": 3
+    },
+    {
+      "id": 72,
+      "location": "San Andreas, Los Santos",
+      "name": "Island 24/7",
+      "type": 2
+    },
+    {
+      "id": 73,
+      "location": "San Andreas, Los Santos",
+      "name": "Island Cluckin Bell",
+      "type": 1
+    },
+    {
+      "id": 74,
+      "location": "East Los Santos, Los Santos",
+      "name": "Lolita's 24/7",
+      "type": 2
+    },
+    {
+      "id": 75,
+      "location": "Santa Maria Beach, Los Santos",
+      "name": "Carsharing Los Santos",
+      "type": 5
+    },
+    {
+      "id": 76,
+      "location": "King's, San Fierro",
+      "name": "Carsharing San Fierro",
+      "type": 5
+    },
+    {
+      "id": 77,
+      "location": "Las Venturas, Las Venturas",
+      "name": "Carsharing Las Venturas",
+      "type": 5
+    },
+    {
+      "id": 78,
+      "location": "Santa Maria Beach, Los Santos",
+      "name": "Malibu Club",
+      "type": 6
+    },
+    {
+      "id": 79,
+      "location": "Market, Los Santos",
+      "name": "Cleaning Company Los Santos",
+      "type": 8
+    },
+    {
+      "id": 80,
+      "location": "Esplanade North, San Fierro",
+      "name": "Cleaning Company San Fierro",
+      "type": 8
+    },
+    {
+      "id": 81,
+      "location": "Redsands West, Las Venturas",
+      "name": "Cleaning Company Las Venturas",
+      "type": 8
+    }
+  ],
+  "version": 1
+}
