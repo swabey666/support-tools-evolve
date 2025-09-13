@@ -1,4 +1,19 @@
 {
   "script_version": "1.0",
-  "script_version_number": 1
+  "script_version_number": 1,
+  "datasets": {
+    "accessories": 1,
+    "businesses": 1,
+    "commands": 1,
+    "costumes": 1,
+    "fraction_quests": 1,
+    "fractions": 1,
+    "gps": 1,
+    "houses": 1,
+    "items": 1,
+    "jobs": 1,
+    "skins": 1,
+    "vehicles": 1,
+    "weapons": 1
+  }
 }
