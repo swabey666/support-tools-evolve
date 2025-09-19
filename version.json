@@ -1,6 +1,6 @@
 {
-  "script_version": "1.2",
-  "script_version_number": 3,
+  "script_version": "1.3",
+  "script_version_number": 4,
   "datasets": {
     "accessories": 1,
     "businesses": 1,
@@ -14,6 +14,7 @@
     "jobs": 1,
     "skins": 1,
     "vehicles": 1,
-    "weapons": 1
+    "weapons": 1,
+    "mm": 1
   }
 }
