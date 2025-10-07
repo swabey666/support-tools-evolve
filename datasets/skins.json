@@ -2943,7 +2943,23 @@
       "name": "Joe Barbaro",
       "price": 19685040,
       "replacement": 127
+    },
+    {
+      "fraction": "News",
+      "gender": "Мужской",
+      "id": 13964,
+      "name": "Henry Watterson",
+      "price": 19685040,
+      "replacement": 188
+    },
+    {
+      "fraction": "News",
+      "gender": "Женский",
+      "id": 13965,
+      "name": "Barbara Walters",
+      "price": 19685040,
+      "replacement": 211
     }
   ],
-  "version": 1
+  "version": 2
 }
