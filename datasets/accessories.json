@@ -1458,6 +1458,13 @@
     },
     {
       "bone": 0,
+      "id": 11959,
+      "name": "New Years Olaf",
+      "price": 2000000,
+      "ru_name": "Игрушка на плечо Olaf"
+    },
+    {
+      "bone": 0,
       "id": 11960,
       "name": "New Years Santa",
       "price": 2000000,
@@ -3270,6 +3277,622 @@
       "ru_name": "Меч Баланс хранителя клинка"
     },
     {
+      "bone": 1,
+      "id": 12235,
+      "name": "A box onhead of a Tough g",
+      "price": 1574803,
+      "ru_name": "Коробка на голову Крутыш"
+    },
+    {
+      "bone": 1,
+      "id": 12236,
+      "name": "The box is filled with an",
+      "price": 1574803,
+      "ru_name": "Коробка на голову Злость"
+    },
+    {
+      "bone": 1,
+      "id": 12237,
+      "name": "Samurai Eye Patch",
+      "price": 360000,
+      "ru_name": "Повязка самурая на глаз"
+    },
+    {
+      "bone": 1,
+      "id": 12238,
+      "name": "Krip the clown",
+      "price": 3937008,
+      "ru_name": "Крип Клоун"
+    },
+    {
+      "bone": 1,
+      "id": 12239,
+      "name": "Purple Krip",
+      "price": 3937008,
+      "ru_name": "Фиолетовый крип"
+    },
+    {
+      "bone": 1,
+      "id": 12240,
+      "name": "White Krip",
+      "price": 3937008,
+      "ru_name": "Белый Крип"
+    },
+    {
+      "bone": 1,
+      "id": 12241,
+      "name": "Yellow Krip",
+      "price": 3937008,
+      "ru_name": "Желтый Крип"
+    },
+    {
+      "bone": 0,
+      "id": 12242,
+      "name": "Gas burner",
+      "price": 7874016,
+      "ru_name": "Газовая горелка"
+    },
+    {
+      "bone": 5,
+      "id": 12243,
+      "name": "Doomguys Saw-Shield",
+      "price": 15748032,
+      "ru_name": "Щит-пила Думгая"
+    },
+    {
+      "bone": 1,
+      "id": 12244,
+      "name": "Lico Hat",
+      "price": 1574803,
+      "ru_name": "Шапка Lico"
+    },
+    {
+      "bone": 1,
+      "id": 12245,
+      "name": "Red Astronaut Helmet",
+      "price": 2362205,
+      "ru_name": "Красный шлем космонавта"
+    },
+    {
+      "bone": 0,
+      "id": 12246,
+      "name": "Warhummer Axe",
+      "price": 11811024,
+      "ru_name": "Боевой топор Хуммера"
+    },
+    {
+      "bone": 5,
+      "id": 12247,
+      "name": "Azzinoth shard",
+      "price": 11811024,
+      "ru_name": "Осколок Аззинота"
+    },
+    {
+      "bone": 0,
+      "id": 12248,
+      "name": "A shoulder toy Satoru Goj",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо Сатору Годзе"
+    },
+    {
+      "bone": 1,
+      "id": 12249,
+      "name": "Naruto Hade Wig",
+      "price": 3937008,
+      "ru_name": "Парик Наруто Аида"
+    },
+    {
+      "bone": 0,
+      "id": 12250,
+      "name": "Kubon Shoulder Toy",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо Кубон"
+    },
+    {
+      "bone": 5,
+      "id": 12251,
+      "name": "Furina Sword",
+      "price": 787402,
+      "ru_name": "Меч Фурины"
+    },
+    {
+      "bone": 0,
+      "id": 12252,
+      "name": "A Gengar Shoulder Toy",
+      "price": 787402,
+      "ru_name": "Игрушка на плечо Генгар"
+    },
+    {
+      "bone": 0,
+      "id": 12253,
+      "name": "A Bidoof Shoulder Toy",
+      "price": 0,
+      "ru_name": "Игрушка на плечо Бидуф"
+    },
+    {
+      "bone": 0,
+      "id": 12254,
+      "name": "A Pikachu Shoulder toy",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо Пикачу"
+    },
+    {
+      "bone": 0,
+      "id": 12255,
+      "name": "A Saitama Shoulder toy",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо Сайтама"
+    },
+    {
+      "bone": 0,
+      "id": 12256,
+      "name": "A Batman Shoulder toy",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо Бэтмэн"
+    },
+    {
+      "bone": 0,
+      "id": 12257,
+      "name": "A Joker Shoulder toy",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо Джокер"
+    },
+    {
+      "bone": 0,
+      "id": 12258,
+      "name": "A Naruto Shoulder toy",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо Наруто"
+    },
+    {
+      "bone": 0,
+      "id": 12259,
+      "name": "Teddy Bear Backpack",
+      "price": 2362205,
+      "ru_name": "Рюкзак Мишка"
+    },
+    {
+      "bone": 1,
+      "id": 12260,
+      "name": "Mask Night Blights",
+      "price": 2362205,
+      "ru_name": "Маска Ночные кошмары"
+    },
+    {
+      "bone": 1,
+      "id": 12261,
+      "name": "Viking Mask",
+      "price": 2362205,
+      "ru_name": "Маска Викинга"
+    },
+    {
+      "bone": 1,
+      "id": 12262,
+      "name": "Cap Trick Treat",
+      "price": 0,
+      "ru_name": "Кепка Вкусное угощение"
+    },
+    {
+      "bone": 1,
+      "id": 12263,
+      "name": "Halloween Outfit Cap",
+      "price": 0,
+      "ru_name": "Кепка Хеллоуинский наряд"
+    },
+    {
+      "bone": 0,
+      "id": 12264,
+      "name": "Backpack Pumpkin",
+      "price": 0,
+      "ru_name": "Рюкзак из тыквы"
+    },
+    {
+      "bone": 1,
+      "id": 12265,
+      "name": "Pumpkin Mask",
+      "price": 0,
+      "ru_name": "Маска тыквы"
+    },
+    {
+      "bone": 5,
+      "id": 12266,
+      "name": "Warhammer Sword",
+      "price": 7874016,
+      "ru_name": "Цепной меч вархаммер"
+    },
+    {
+      "bone": 1,
+      "id": 12267,
+      "name": "Mask Jeison",
+      "price": 1574803,
+      "ru_name": "Маска Джейсона"
+    },
+    {
+      "bone": 1,
+      "id": 12268,
+      "name": "Hat Pare Black",
+      "price": 2362205,
+      "ru_name": "Шапка PARE черная"
+    },
+    {
+      "bone": 1,
+      "id": 12269,
+      "name": "Hat Pare Green",
+      "price": 2362205,
+      "ru_name": "Шапка PARE зеленая"
+    },
+    {
+      "bone": 1,
+      "id": 12270,
+      "name": "Hat Pare Red",
+      "price": 2362205,
+      "ru_name": "Шапка PARE красная"
+    },
+    {
+      "bone": 1,
+      "id": 12271,
+      "name": "Hat Pare Yellow",
+      "price": 2362205,
+      "ru_name": "Шапка PARE желтая"
+    },
+    {
+      "bone": 1,
+      "id": 12272,
+      "name": "Black hat with skulls",
+      "price": 0,
+      "ru_name": "Черная шляпа с черепами"
+    },
+    {
+      "bone": 1,
+      "id": 12273,
+      "name": "Frankenstein mask",
+      "price": 2362205,
+      "ru_name": "Маска Франкенштейна"
+    },
+    {
+      "bone": 0,
+      "id": 12274,
+      "name": "A toy on shoulder of a Sk",
+      "price": 0,
+      "ru_name": "Игрушка на плечо Черепа"
+    },
+    {
+      "bone": 0,
+      "id": 12275,
+      "name": "Pumpkin Shoulder Toy",
+      "price": 0,
+      "ru_name": "Игрушка на плечо Тыква"
+    },
+    {
+      "bone": 1,
+      "id": 12276,
+      "name": "Red Halloween Hat",
+      "price": 0,
+      "ru_name": "Красная хэллоуинская шляпа"
+    },
+    {
+      "bone": 1,
+      "id": 12277,
+      "name": "Dark Halloween Hat",
+      "price": 0,
+      "ru_name": "Темная  хэллоуинская шляпа"
+    },
+    {
+      "bone": 1,
+      "id": 12278,
+      "name": "The Witch Hat",
+      "price": 0,
+      "ru_name": "Шляпа ведьмы"
+    },
+    {
+      "bone": 0,
+      "id": 12279,
+      "name": "The Demon Yellow Backpack",
+      "price": 0,
+      "ru_name": "Желтый рюкзак демона"
+    },
+    {
+      "bone": 1,
+      "id": 12280,
+      "name": "Carnival Hat",
+      "price": 0,
+      "ru_name": "Карнавальная шляпа"
+    },
+    {
+      "bone": 1,
+      "id": 12281,
+      "name": "Lico Hat green",
+      "price": 787402,
+      "ru_name": "Шапка Lico зеленая"
+    },
+    {
+      "bone": 1,
+      "id": 12282,
+      "name": "Pink cap with ears",
+      "price": 1574803,
+      "ru_name": "Розовая кепка с ушками"
+    },
+    {
+      "bone": 1,
+      "id": 12283,
+      "name": "Black hat with horns",
+      "price": 3937008,
+      "ru_name": "Черная шапка с рогами"
+    },
+    {
+      "bone": 1,
+      "id": 12284,
+      "name": "Black cap of paint",
+      "price": 787402,
+      "ru_name": "Черная шапка краски"
+    },
+    {
+      "bone": 0,
+      "id": 12285,
+      "name": "Samurai Cat Shoulder Toy",
+      "price": 3937008,
+      "ru_name": "Игрушка на плечо Кот Самурай"
+    },
+    {
+      "bone": 1,
+      "id": 12286,
+      "name": "The rusty helmet",
+      "price": 2362205,
+      "ru_name": "Ржавый шлем"
+    },
+    {
+      "bone": 1,
+      "id": 12287,
+      "name": "The snowman head",
+      "price": 0,
+      "ru_name": "Голова снеговика"
+    },
+    {
+      "bone": 1,
+      "id": 12288,
+      "name": "Mask Bunny",
+      "price": 1574803,
+      "ru_name": "Маска кролика"
+    },
+    {
+      "bone": 1,
+      "id": 12289,
+      "name": "The Black Mask X",
+      "price": 787402,
+      "ru_name": "Черная Маска Икс"
+    },
+    {
+      "bone": 1,
+      "id": 12290,
+      "name": "Alien Mask",
+      "price": 1574803,
+      "ru_name": "Маска Чужого"
+    },
+    {
+      "bone": 1,
+      "id": 12291,
+      "name": "Teddy Bear Balaclava",
+      "price": 2362205,
+      "ru_name": "Балаклава Мишки"
+    },
+    {
+      "bone": 1,
+      "id": 12292,
+      "name": "The Arab Hijab",
+      "price": 2362205,
+      "ru_name": "Арабский Хиджаб"
+    },
+    {
+      "bone": 1,
+      "id": 12293,
+      "name": "The Monster Mask",
+      "price": 3937008,
+      "ru_name": "Маска Монстрика"
+    },
+    {
+      "bone": 1,
+      "id": 12294,
+      "name": "Push button helmet",
+      "price": 3937008,
+      "ru_name": "Кнопочный шлем"
+    },
+    {
+      "bone": 0,
+      "id": 12295,
+      "name": "Axesaw",
+      "price": 7874016,
+      "ru_name": "Топор Пила"
+    },
+    {
+      "bone": 1,
+      "id": 12296,
+      "name": "The Mask of the Skeleton",
+      "price": 7874016,
+      "ru_name": "Маска Короля Скелетов"
+    },
+    {
+      "bone": 1,
+      "id": 12297,
+      "name": "The Pichman Mask",
+      "price": 2362205,
+      "ru_name": "Маска пичмана"
+    },
+    {
+      "bone": 1,
+      "id": 12298,
+      "name": "Pink Bolognese Balaclava",
+      "price": 1574803,
+      "ru_name": "Розовая болоньевая балаклава"
+    },
+    {
+      "bone": 1,
+      "id": 12299,
+      "name": "The mask of the evil pump",
+      "price": 0,
+      "ru_name": "Маска злой тыквы"
+    },
+    {
+      "bone": 1,
+      "id": 12300,
+      "name": "The helmet of the red rob",
+      "price": 1574803,
+      "ru_name": "Шлем красного робота"
+    },
+    {
+      "bone": 1,
+      "id": 12301,
+      "name": "White Rabbit Balaclava",
+      "price": 1574803,
+      "ru_name": "Белая балаклава кролика"
+    },
+    {
+      "bone": 1,
+      "id": 12302,
+      "name": "Lambs White Balaclava",
+      "price": 1574803,
+      "ru_name": "Белая балаклава барашка"
+    },
+    {
+      "bone": 0,
+      "id": 12303,
+      "name": "The Gas Axe",
+      "price": 11811024,
+      "ru_name": "Газовый топор"
+    },
+    {
+      "bone": 1,
+      "id": 12304,
+      "name": "The Neon X Mask",
+      "price": 3937008,
+      "ru_name": "Маска Неоновый Икс"
+    },
+    {
+      "bone": 1,
+      "id": 12305,
+      "name": "Respiratory mask",
+      "price": 1574803,
+      "ru_name": "Респираторная маска"
+    },
+    {
+      "bone": 1,
+      "id": 12306,
+      "name": "Watermelon on the head",
+      "price": 787402,
+      "ru_name": "Арбуз на голову"
+    },
+    {
+      "bone": 1,
+      "id": 12307,
+      "name": "Black Robot Helmet",
+      "price": 2362205,
+      "ru_name": "Черный шлем робота"
+    },
+    {
+      "bone": 1,
+      "id": 12308,
+      "name": "Golden Robot Helmet",
+      "price": 2362205,
+      "ru_name": "Золотой шлем робота"
+    },
+    {
+      "bone": 1,
+      "id": 12309,
+      "name": "The orange robot helmet",
+      "price": 2362205,
+      "ru_name": "Оранжевый шлем робота"
+    },
+    {
+      "bone": 1,
+      "id": 12310,
+      "name": "King Red Skull",
+      "price": 2362205,
+      "ru_name": "Король Красного Черепа"
+    },
+    {
+      "bone": 1,
+      "id": 12311,
+      "name": "King Blue Skull",
+      "price": 2362205,
+      "ru_name": "Король Синего Черепа"
+    },
+    {
+      "bone": 0,
+      "id": 12312,
+      "name": "Halloween Backpack",
+      "price": 3937008,
+      "ru_name": "Хэллоуинский рюкзак"
+    },
+    {
+      "bone": 5,
+      "id": 12313,
+      "name": "Carnival Sword",
+      "price": 0,
+      "ru_name": "Карнавальный меч"
+    },
+    {
+      "bone": 0,
+      "id": 12314,
+      "name": "Ice Wings",
+      "price": 11811024,
+      "ru_name": "Ледяные крылья"
+    },
+    {
+      "bone": 0,
+      "id": 12315,
+      "name": "Wing butterfly",
+      "price": 3937008,
+      "ru_name": "Крылья бабочки"
+    },
+    {
+      "bone": 0,
+      "id": 12316,
+      "name": "Wing Cupid",
+      "price": 3937008,
+      "ru_name": "Крылья Купидона"
+    },
+    {
+      "bone": 0,
+      "id": 12317,
+      "name": "Wing Golden",
+      "price": 7874016,
+      "ru_name": "Золотые крылья"
+    },
+    {
+      "bone": 0,
+      "id": 12318,
+      "name": "Mechanical wings",
+      "price": 3937008,
+      "ru_name": "Механические крылья"
+    },
+    {
+      "bone": 0,
+      "id": 12319,
+      "name": "Chain Lock",
+      "price": 2362205,
+      "ru_name": "Цепь с замком на шею"
+    },
+    {
+      "bone": 0,
+      "id": 12320,
+      "name": "Cat chain",
+      "price": 3937008,
+      "ru_name": "Цепь с котенком на шею"
+    },
+    {
+      "bone": 0,
+      "id": 12321,
+      "name": "The Golden Chain",
+      "price": 3937008,
+      "ru_name": "Золотая цепочка"
+    },
+    {
+      "bone": 0,
+      "id": 12322,
+      "name": "A chain with a cross",
+      "price": 1182000,
+      "ru_name": "Цепочка с крестом"
+    },
+    {
       "bone": 0,
       "id": 14553,
       "name": "RC Airplane",
@@ -4719,5 +5342,5 @@
       "ru_name": "Рация"
     }
   ],
-  "version": 1
+  "version": 2
 }
