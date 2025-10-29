@@ -3292,6 +3292,16 @@
     },
     {
       "class": "E",
+      "id": 12617,
+      "name": "Mercedes-Benz Vito w447",
+      "price": 47244095,
+      "replacement": 418,
+      "speed": 110,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "E",
       "id": 12618,
       "name": "Porsche 918 Spyder",
       "price": 47244095,
@@ -3479,7 +3489,147 @@
       "speed": 105,
       "trunk": 24,
       "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12637,
+      "name": "Tesla Cybertruck",
+      "price": 59055119,
+      "replacement": 470,
+      "speed": 115,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12638,
+      "name": "Ford E250 Ambulance",
+      "price": 0,
+      "replacement": 416,
+      "speed": 91,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12639,
+      "name": "Chevrolet Express",
+      "price": 0,
+      "replacement": 582,
+      "speed": 88,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12640,
+      "name": "Ferrari LaFerrari",
+      "price": 59055119,
+      "replacement": 582,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12641,
+      "name": "Burrito New",
+      "price": 7874016,
+      "replacement": 482,
+      "speed": 87,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12642,
+      "name": "BMW X6 M Competition",
+      "price": 47244095,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12643,
+      "name": "Audi RS Q8",
+      "price": 47244095,
+      "replacement": 579,
+      "speed": 120,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12644,
+      "name": "Audi RS 6 Ñ8",
+      "price": 59055119,
+      "replacement": 561,
+      "speed": 130,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12645,
+      "name": "FBI Audi RS 6 Ñ8",
+      "price": 0,
+      "replacement": 561,
+      "speed": 130,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12646,
+      "name": "Ford F150 Raptor",
+      "price": 31496063,
+      "replacement": 554,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12646,
+      "name": "Ford F150 Raptor",
+      "price": 31496063,
+      "replacement": 554,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12647,
+      "name": "Mitsubishi Lancer Evolution X",
+      "price": 31496063,
+      "replacement": 560,
+      "speed": 120,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12648,
+      "name": "Dodge Viper ACR",
+      "price": 39370079,
+      "replacement": 415,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12649,
+      "name": "BMW M5 F10",
+      "price": 59055119,
+      "replacement": 405,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
     }
   ],
-  "version": 1
+  "version": 2
 }
