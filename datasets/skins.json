@@ -2959,7 +2959,47 @@
       "name": "Barbara Walters",
       "price": 19685040,
       "replacement": 211
+    },
+    {
+      "fraction": "Vagos",
+      "gender": "Мужской",
+      "id": 13966,
+      "name": "Jesus Ortiz",
+      "price": 19685040,
+      "replacement": 109
+    },
+    {
+      "fraction": "Ballas",
+      "gender": "Мужской",
+      "id": 13967,
+      "name": "Kelon Rice",
+      "price": 19685040,
+      "replacement": 102
+    },
+    {
+      "fraction": "Aztec",
+      "gender": "Мужской",
+      "id": 13968,
+      "name": "Hector Lopez",
+      "price": 19685040,
+      "replacement": 116
+    },
+    {
+      "fraction": "Grove",
+      "gender": "Мужской",
+      "id": 13969,
+      "name": "Leroy Green",
+      "price": 19685040,
+      "replacement": 107
+    },
+    {
+      "fraction": "Rifa",
+      "gender": "Мужской",
+      "id": 13970,
+      "name": "Raul Morales",
+      "price": 19685040,
+      "replacement": 173
     }
   ],
-  "version": 2
+  "version": 3
 }
