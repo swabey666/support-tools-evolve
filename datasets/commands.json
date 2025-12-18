@@ -135,7 +135,7 @@
       "description": "ТОП-30 промокодов сервера и их статистика"
     },
     {
-      "command": "/promo",
+      "command": "/promocode",
       "description": "Активация временного промокода",
       "params": "[ Промокод ]"
     },
@@ -357,18 +357,6 @@
       "command": "/giveroses",
       "description": "Подарить игроку розы",
       "params": "[ ID ]"
-    },
-    {
-      "command": "/seasonevent",
-      "description": "Главное меню боевого пропуска"
-    },
-    {
-      "command": "/sevent",
-      "description": "Главное меню боевого пропуска"
-    },
-    {
-      "command": "/eventprize",
-      "description": "Хранилище предметов"
     },
     {
       "command": "/mystorage",
@@ -1763,7 +1751,16 @@
     {
       "command": "/sellfarm",
       "description": "Продать ферму государству"
+    },
+    {
+      "command": "/admute",
+      "description": "Запретить игроку отправку объявлений в редакцию",
+      "params": "[ ID ] [ Минуты ] [ Причина ]"
+    },
+    {
+      "command": "/backpack",
+      "description": "Интерфейс рюкзака"
     }
   ],
-  "version": 1
+  "version": 2
 }
