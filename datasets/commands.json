@@ -383,6 +383,11 @@
       "description": "Меню рыбалки"
     },
     {
+      "command": "/sellfish",
+      "description": "Продать готовую рыбу",
+      "params": "[ ID ] [ Количество ] [ Цена ]"
+    },
+    {
       "command": "/eat",
       "description": "Съесть закуску, рыбу",
       "params": "[ Тип ]"
@@ -943,6 +948,10 @@
       "command": "/m",
       "description": "Мегафон в патрульном транспорте",
       "params": "[ Текст ]"
+    },
+    {
+      "command": "/vacancy",
+      "description": "Список наборов в организации"
     },
     {
       "command": "/addvacancy",
@@ -1558,6 +1567,20 @@
       "params": "[ ID ]"
     },
     {
+      "command": "/gskill",
+      "description": "Навык грузчика"
+    },
+    {
+      "command": "/givecontract",
+      "description": "Заключить контракт с грузчиком",
+      "params": "[ ID ]"
+    },
+    {
+      "command": "/gcontract",
+      "description": "Заключить контракт с грузчиком",
+      "params": "[ ID ]"
+    },
+    {
       "command": "/taxiskill",
       "description": "Навык владения профессией такси"
     },
@@ -1766,5 +1789,5 @@
       "description": "Интерфейс рюкзака"
     }
   ],
-  "version": 3
+  "version": 4
 }
