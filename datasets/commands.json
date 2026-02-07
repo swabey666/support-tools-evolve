@@ -878,6 +878,10 @@
       "description": "Начать войну за территорию"
     },
     {
+      "command": "/captlist",
+      "description": "Посмотреть список подконтрольных деревень"
+    },
+    {
       "command": "/getgun",
       "description": "Взять / Передать оружие со склада организации",
       "params": "[ ID ]"
@@ -1762,5 +1766,5 @@
       "description": "Интерфейс рюкзака"
     }
   ],
-  "version": 2
+  "version": 3
 }
