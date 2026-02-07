@@ -4282,7 +4282,7 @@
       "class": "S",
       "id": 612,
       "location": "Arco del Oeste, Las Venturas",
-      "price": 1
+      "price": 0
     },
     {
       "angar": false,
@@ -5367,7 +5367,7 @@
       "class": "S",
       "id": 767,
       "location": "Idlewood, Los Santos",
-      "price": 1
+      "price": 0
     },
     {
       "angar": false,
@@ -5448,10 +5448,10 @@
     },
     {
       "angar": false,
-      "class": "C",
+      "class": "B",
       "id": 779,
-      "location": "Verdant Bluffs, Los Santos",
-      "price": 1
+      "location": "Palomino Creek, Las Venturas",
+      "price": 0
     },
     {
       "angar": false,
@@ -6378,11 +6378,11 @@
       "price": 500000
     },
     {
-      "angar": true,
+      "angar": false,
       "class": "S",
       "id": 912,
-      "location": "Arco del Oeste, Las Venturas",
-      "price": 1
+      "location": "Jefferson, Los Santos",
+      "price": 0
     },
     {
       "angar": false,
@@ -6644,5 +6644,5 @@
       "price": 500000
     }
   ],
-  "version": 1
+  "version": 2
 }
