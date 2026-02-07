@@ -74,7 +74,12 @@
       "comment":"/gps » Важные места » Government",
       "min_lvl":8,
       "name":"Дальнобойщик"
+    },
+    {
+      "comment":"/gps » По работе » Нефтяник: Нефтевышка №1, 2, 3",
+      "min_lvl":5,
+      "name":"Нефтяник"
     }
   ],
-  "version":1
+  "version":2
 }
