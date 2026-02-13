@@ -609,6 +609,11 @@
       "description": "Начать загрузку семейного транспорта"
     },
     {
+      "command": "/ffmute",
+      "description": "Ограничить доступ к семейному чату",
+      "params": "[ ID ] [ Минуты ] [ Причина ]"
+    },
+    {
       "command": "/en",
       "description": "Меню транспорта"
     },
@@ -707,6 +712,11 @@
     {
       "command": "/hbuyinterior",
       "description": "Купить интерьер [ для дома на колёсах ]"
+    },
+    {
+      "command": "/findhouse",
+      "description": "Поставить GPS метку на указанный дом",
+      "params": "[ ID ]"
     },
     {
       "command": "/ffixcar",
@@ -1440,6 +1450,14 @@
       "params": "[ ID транспорта ]"
     },
     {
+      "command": "/leavemap",
+      "description": "Покинуть локацию, находясь в общем режиме ОГ"
+    },
+    {
+      "command": "/changemap",
+      "description": "Сменить локацию, находясь в общем режиме ОГ"
+    },
+    {
       "command": "/bizlist",
       "description": "Список подконтрольных бизнесов"
     },
@@ -1789,5 +1807,5 @@
       "description": "Интерфейс рюкзака"
     }
   ],
-  "version": 4
+  "version": 5
 }
