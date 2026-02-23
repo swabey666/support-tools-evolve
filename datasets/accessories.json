@@ -3893,6 +3893,132 @@
       "ru_name": "Цепочка с крестом"
     },
     {
+      "bone": 3,
+      "id": 12345,
+      "name": "A Knight Shoulder Toy",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо «Рыцарь»"
+    },
+    {
+      "bone": 3,
+      "id": 12346,
+      "name": "Kim Jong un",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо «Ким Чен Ын»"
+    },
+    {
+      "bone": 1,
+      "id": 12350,
+      "name": "Skull mask in a hat",
+      "price": 2362205,
+      "ru_name": "Маска череп в шапке"
+    },
+    {
+      "bone": 17,
+      "id": 12355,
+      "name": "Smoking Pipe",
+      "price": 236400,
+      "ru_name": "Курительная трубка"
+    },
+    {
+      "bone": 1,
+      "id": 12356,
+      "name": "Thug Glasses",
+      "price": 1574803,
+      "ru_name": "Бандитские очки"
+    },
+    {
+      "bone": 5,
+      "id": 12360,
+      "name": "Cyberpunk Pan",
+      "price": 787402,
+      "ru_name": "Киберпанк сковородка"
+    },
+    {
+      "bone": 0,
+      "id": 12364,
+      "name": "Labuba backpack",
+      "price": 7874016,
+      "ru_name": "Рюкзак лабубу"
+    },
+    {
+      "bone": 0,
+      "id": 12366,
+      "name": "The Arondite Sword",
+      "price": 787402,
+      "ru_name": "Меч Арондит"
+    },
+    {
+      "bone": 3,
+      "id": 12367,
+      "name": "Master Shifu",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо «Мастер Шифу»"
+    },
+    {
+      "bone": 0,
+      "id": 12369,
+      "name": "Zireael sword",
+      "price": 787402,
+      "ru_name": "Меч Зираэль"
+    },
+    {
+      "bone": 3,
+      "id": 12370,
+      "name": "Baby Yoda",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо «Малыш Йода»"
+    },
+    {
+      "bone": 0,
+      "id": 12372,
+      "name": "Red gift box",
+      "price": 394000,
+      "ru_name": "Красная коробка с подарком"
+    },
+    {
+      "bone": 0,
+      "id": 12373,
+      "name": "White gift box",
+      "price": 394000,
+      "ru_name": "Белая коробка с подарком"
+    },
+    {
+      "bone": 0,
+      "id": 12375,
+      "name": "Evolve Vest",
+      "price": 7874016,
+      "ru_name": "Бронежилет Эвольв"
+    },
+    {
+      "bone": 1,
+      "id": 12379,
+      "name": "Corey Taylor Mask",
+      "price": 2362205,
+      "ru_name": "Маска Кори Тейлора"
+    },
+    {
+      "bone": 1,
+      "id": 12388,
+      "name": "Hat Shark",
+      "price": 2362205,
+      "ru_name": "Шапка Акула"
+    },
+    {
+      "bone": 0,
+      "id": 12390,
+      "name": "Armor War",
+      "price": 2362205,
+      "ru_name": "Военный бронежилет"
+    },
+    {
+      "bone": 1,
+      "id": 12393,
+      "name": "Balaclava Cat",
+      "price": 3937008,
+      "ru_name": "Балаклава Кошка"
+    },
+    {
       "bone": 0,
       "id": 14553,
       "name": "RC Airplane",
@@ -5342,5 +5468,5 @@
       "ru_name": "Рация"
     }
   ],
-  "version": 2
+  "version": 3
 }

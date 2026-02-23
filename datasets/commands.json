@@ -1693,7 +1693,7 @@
     },
     {
       "command": "/tskill",
-      "description": "Информация"
+      "description": "Навык дальнобойщика"
     },
     {
       "command": "/tmembers",
@@ -1812,5 +1812,5 @@
       "description": "Интерфейс рюкзака"
     }
   ],
-  "version": 6
+  "version": 7
 }

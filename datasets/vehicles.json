@@ -2343,7 +2343,7 @@
     {
       "class": "E",
       "id": 12522,
-      "name": "Dodge RAM SRT60",
+      "name": "Dodge RAM SRT-10",
       "price": 13385828,
       "replacement": 554,
       "speed": 100,
@@ -3629,7 +3629,17 @@
       "speed": 130,
       "trunk": 12,
       "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12651,
+      "name": "BMW M4 GT3 G82",
+      "price": 59055119,
+      "replacement": 562,
+      "speed": 135,
+      "trunk": 12,
+      "type": 0
     }
   ],
-  "version": 2
+  "version": 3
 }
