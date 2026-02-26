@@ -2999,7 +2999,79 @@
       "name": "Raul Morales",
       "price": 19685040,
       "replacement": 173
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13971,
+      "name": "Julianna Rose",
+      "price": 19685040,
+      "replacement": 93
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13972,
+      "name": "Luna Reynolds",
+      "price": 19685040,
+      "replacement": 193
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13973,
+      "name": "Hailey Summers",
+      "price": 19685040,
+      "replacement": 76
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13974,
+      "name": "Carter Reed",
+      "price": 19685040,
+      "replacement": 299
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13975,
+      "name": "Mason Flores",
+      "price": 19685040,
+      "replacement": 293
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13976,
+      "name": "Madison Blake",
+      "price": 19685040,
+      "replacement": 40
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13977,
+      "name": "Abigail West",
+      "price": 19685040,
+      "replacement": 152
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13978,
+      "name": "Lily White",
+      "price": 19685040,
+      "replacement": 91
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13979,
+      "name": "Till Lindemann",
+      "price": 19685040,
+      "replacement": 28
     }
   ],
-  "version": 3
+  "version": 4
 }
