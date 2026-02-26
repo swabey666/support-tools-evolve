@@ -3632,6 +3632,16 @@
     },
     {
       "class": "E",
+      "id": 12650,
+      "name": "BMW XM G09",
+      "price": 47244095,
+      "replacement": 579,
+      "speed": 120,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
       "id": 12651,
       "name": "BMW M4 GT3 G82",
       "price": 59055119,
@@ -3639,7 +3649,47 @@
       "speed": 135,
       "trunk": 12,
       "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12652,
+      "name": "Honda NSX",
+      "price": 47244095,
+      "replacement": 415,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12653,
+      "name": "Mini Cooper JCW GP",
+      "price": 31496063,
+      "replacement": 565,
+      "speed": 120,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12654,
+      "name": "Mercedes-Benz GLS X167",
+      "price": 47244095,
+      "replacement": 579,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12655,
+      "name": "Toyota Land Cruiser Prado J150",
+      "price": 31496063,
+      "replacement": 579,
+      "speed": 112,
+      "trunk": 24,
+      "type": 0
     }
   ],
-  "version": 3
+  "version": 4
 }
