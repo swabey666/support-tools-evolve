@@ -1,0 +1,61 @@
+{
+    "version": 1,
+    "dataset": [
+        {
+            "name": "Главная страница",
+            "url": "https://evolve-rp.ru"
+        },
+        {
+            "name": "Скачать лаунчер",
+            "url": "https://evolve-rp.ru/#playgame"
+        },
+        {
+            "name": "Вход в личный кабинет",
+            "url": "https://evolve-rp.ru/signin"
+        },
+        {
+            "name": "Личный кабинет",
+            "url": "https://evolve-rp.ru/dashboard"
+        },
+        {
+            "name": "Кейсы",
+            "url": "https://evolve-rp.ru/case"
+        },
+        {
+            "name": "Бонусный кейс",
+            "url": "https://evolve-rp.ru/case/bonus"
+        },
+        {
+            "name": "Донат",
+            "url": "https://evolve-rp.ru/donate"
+        },
+        {
+            "name": "Обмен на Gold Coins",
+            "url": "https://evolve-rp.ru/dashboard#exchange"
+        },
+        {
+            "name": "Хранилище",
+            "url": "https://evolve-rp.ru/dashboard/storage"
+        },
+        {
+            "name": "Мониторинг",
+            "url": "https://evolve-rp.ru/dashboard/monitoring"
+        },
+        {
+            "name": "История",
+            "url": "https://evolve-rp.ru/dashboard/history"
+        },
+        {
+            "name": "Сражения",
+            "url": "https://evolve-rp.ru/case-battle"
+        },
+        {
+            "name": "Кейс апгрейд",
+            "url": "https://evolve-rp.ru/case-upgrade"
+        },
+        {
+            "name": "Покупака форумного премиума",
+            "url": "https://evolve-rp.ru/dashboard#crown"
+        }
+    ]
+}
