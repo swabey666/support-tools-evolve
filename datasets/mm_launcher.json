@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "dataset": [
         {
             "name": "Статистика аккаунта"
@@ -49,6 +49,7 @@
                     "name": "Обезопасить свой аккаунт",
                     "elements": [
                         { "name": "ВКонтакте" },
+                        { "name": "Telegram" },
                         { "name": "Google Auth" },
                         { "name": "E-Mail" },
                         { "name": "PIN Auth" },
