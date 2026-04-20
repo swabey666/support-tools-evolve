@@ -435,6 +435,7 @@
       "ru_name": "Игрушка на плечо «Уэнсдэй»"
     },
     {
+      "backpack_lvl": 3,
       "bone": 0,
       "id": 11813,
       "name": "Backpack Louis Vuitton 1",
@@ -442,6 +443,7 @@
       "ru_name": "Рюкзак «Louis Vuitton» 1"
     },
     {
+      "backpack_lvl": 3,
       "bone": 0,
       "id": 11814,
       "name": "Ninja backpack",
@@ -701,6 +703,7 @@
       "ru_name": "Хвост лисы"
     },
     {
+      "backpack_lvl": 3,
       "bone": 0,
       "id": 11851,
       "name": "Amiri backpack",
@@ -764,6 +767,7 @@
       "ru_name": "Маска «Мудрая»"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 11860,
       "name": "Bape backpack",
@@ -806,6 +810,7 @@
       "ru_name": "Кобура (правая)"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 11866,
       "name": "Backpack Louis Vuitton 2",
@@ -813,6 +818,7 @@
       "ru_name": "Рюкзак «Louis Vuitton» 2"
     },
     {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 11867,
       "name": "Child war backpack",
@@ -1072,6 +1078,7 @@
       "ru_name": "Маска «Укун»"
     },
     {
+      "backpack_lvl": 3,
       "bone": 0,
       "id": 11904,
       "name": "Backpack Louis Vuitton 3",
@@ -1086,6 +1093,7 @@
       "ru_name": "Жёсткий шлем"
     },
     {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 11906,
       "name": "Backpack Squid game",
@@ -1429,6 +1437,7 @@
       "ru_name": "Полицейский жилет 4"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 11955,
       "name": "BackPack Police",
@@ -1436,6 +1445,7 @@
       "ru_name": "Полицейский рюкзак"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 11956,
       "name": "BackPack Army",
@@ -1484,7 +1494,13 @@
       "price": 2800000,
       "ru_name": "Новогодняя шапка «Ноги»"
     },
-    { "bone": 1, "id": 11963, "name": "New Year's hat with ballo", "price": 2800000, "ru_name": "Новогодняя шапка с шариками" },
+    {
+      "bone": 1,
+      "id": 11963,
+      "name": "New Year's hat with ballo",
+      "price": 2800000,
+      "ru_name": "Новогодняя шапка с шариками"
+    },
     {
       "bone": 5,
       "id": 11964,
@@ -1513,8 +1529,20 @@
       "price": 2800000,
       "ru_name": "Игрушка на плечо «Новогодний Эльф»"
     },
-    { "bone": 5, "id": 11969, "name": "A snowman on a stick R", "price": 1000000, "ru_name": "Снеговик на палочке R" },
-    { "bone": 4, "id": 11970, "name": "The Snow Maidens wand L", "price": 1000000, "ru_name": "Волшебная палочка Снегурочки L" },
+    {
+      "bone": 5,
+      "id": 11969,
+      "name": "A snowman on a stick R",
+      "price": 1000000,
+      "ru_name": "Снеговик на палочке R"
+    },
+    {
+      "bone": 4,
+      "id": 11970,
+      "name": "The Snow Maidens wand L",
+      "price": 1000000,
+      "ru_name": "Волшебная палочка Снегурочки L"
+    },
     {
       "bone": 1,
       "id": 11972,
@@ -1572,6 +1600,7 @@
       "ru_name": "Роботизированные крылья"
     },
     {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 11980,
       "name": "Backpack Butterfly",
@@ -1593,6 +1622,7 @@
       "ru_name": "Катана L"
     },
     {
+      "backpack_lvl": 3,
       "bone": 0,
       "id": 11983,
       "name": "Backpack with katanas",
@@ -1760,7 +1790,13 @@
       "price": 787401,
       "ru_name": "Панама «Adidas» 2"
     },
-    { "bone": 1, "id": 12007, "name": "Cap Guilty", "price": 3937008, "ru_name": "Кепка Guilty" },
+    {
+      "bone": 1,
+      "id": 12007,
+      "name": "Cap Guilty",
+      "price": 3937008,
+      "ru_name": "Кепка Guilty"
+    },
     {
       "bone": 1,
       "id": 12008,
@@ -1768,7 +1804,13 @@
       "price": 787401,
       "ru_name": "Панама с рисунками"
     },
-    { "bone": 1, "id": 12009, "name": "Pink hat with ears", "price": 787402, "ru_name": "Розовая шапка с ушами" },
+    {
+      "bone": 1,
+      "id": 12009,
+      "name": "Pink hat with ears",
+      "price": 787402,
+      "ru_name": "Розовая шапка с ушами"
+    },
     {
       "bone": 1,
       "id": 12010,
@@ -2028,8 +2070,20 @@
       "price": 2362205,
       "ru_name": "Кислородный Балон"
     },
-    { "bone": 8, "id": 12047, "name": "Mountain Ski L", "price": 0, "ru_name": "Горная лыжа L" },
-    { "bone": 9, "id": 12048, "name": "Mountain Ski R", "price": 0, "ru_name": "Горная лыжа R" },
+    {
+      "bone": 8,
+      "id": 12047,
+      "name": "Mountain Ski L",
+      "price": 0,
+      "ru_name": "Горная лыжа L"
+    },
+    {
+      "bone": 9,
+      "id": 12048,
+      "name": "Mountain Ski R",
+      "price": 0,
+      "ru_name": "Горная лыжа R"
+    },
     {
       "bone": 1,
       "id": 12049,
@@ -2065,8 +2119,15 @@
       "price": 787401,
       "ru_name": "Бандана «Скелет 2»"
     },
-    { "bone": 0, "id": 12054, "name": "Bow Shopot", "price": 23622047, "ru_name": "Лук Шопот" },
     {
+      "bone": 0,
+      "id": 12054,
+      "name": "Bow Shopot",
+      "price": 23622047,
+      "ru_name": "Лук Шопот"
+    },
+    {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 12055,
       "name": "Backpack Gucci 2",
@@ -2074,6 +2135,7 @@
       "ru_name": "Рюкзак Gucci"
     },
     {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 12056,
       "name": "Backpack with Tigers",
@@ -2102,6 +2164,7 @@
       "ru_name": "Розовые уши"
     },
     {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 12060,
       "name": "Black Backpack",
@@ -2193,6 +2256,7 @@
       "ru_name": "Черная сумка сердечко"
     },
     {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 12073,
       "name": "Backpack with a cat",
@@ -2207,6 +2271,7 @@
       "ru_name": "Белая сумка сердечко"
     },
     {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 12075,
       "name": "A backpack with a bat",
@@ -2242,6 +2307,7 @@
       "ru_name": "Маска Безумного Макса"
     },
     {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 12080,
       "name": "The Alchemist Backpack",
@@ -2263,6 +2329,7 @@
       "ru_name": "Когти росомахи L"
     },
     {
+      "backpack_lvl": 3,
       "bone": 0,
       "id": 12083,
       "name": "Kitty backpack",
@@ -2291,6 +2358,7 @@
       "ru_name": "Тактический военный шлем"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 12087,
       "name": "Pink Mesh Backpack",
@@ -2528,12 +2596,48 @@
       "price": 1574803,
       "ru_name": "Киберпанк маска"
     },
-    { "bone": 3, "id": 12121, "name": "A Smurf Shoulder Toy", "price": 1574803, "ru_name": "Игрушка на плечо «Смурфик»" },
-    { "bone": 3, "id": 12122, "name": "Simba Shoulder Toy", "price": 1574803, "ru_name": "Игрушка на плечо «Симба»" },
-    { "bone": 3, "id": 12123, "name": "A toy on Nemo's shoulder", "price": 1574803, "ru_name": "Игрушка на плечо «Немо»" },
-    { "bone": 3, "id": 12124, "name": "A Penguin Prapor shoulder", "price": 1574803, "ru_name": "Игрушка на плечо «Пингвин Прапор»" },
-    { "bone": 3, "id": 12125, "name": "A toy on Smurfet's should", "price": 1574803, "ru_name": "Игрушка на плечо «Смурфета»" },
-    { "bone": 3, "id": 12126, "name": "A Zipper McQueenShoulder", "price": 1574803, "ru_name": "Игрушка на плечо «Молния Маквин»" },
+    {
+      "bone": 3,
+      "id": 12121,
+      "name": "A Smurf Shoulder Toy",
+      "price": 1574803,
+      "ru_name": "Игрушка на плечо «Смурфик»"
+    },
+    {
+      "bone": 3,
+      "id": 12122,
+      "name": "Simba Shoulder Toy",
+      "price": 1574803,
+      "ru_name": "Игрушка на плечо «Симба»"
+    },
+    {
+      "bone": 3,
+      "id": 12123,
+      "name": "A toy on Nemo's shoulder",
+      "price": 1574803,
+      "ru_name": "Игрушка на плечо «Немо»"
+    },
+    {
+      "bone": 3,
+      "id": 12124,
+      "name": "A Penguin Prapor shoulder",
+      "price": 1574803,
+      "ru_name": "Игрушка на плечо «Пингвин Прапор»"
+    },
+    {
+      "bone": 3,
+      "id": 12125,
+      "name": "A toy on Smurfet's should",
+      "price": 1574803,
+      "ru_name": "Игрушка на плечо «Смурфета»"
+    },
+    {
+      "bone": 3,
+      "id": 12126,
+      "name": "A Zipper McQueenShoulder",
+      "price": 1574803,
+      "ru_name": "Игрушка на плечо «Молния Маквин»"
+    },
     {
       "bone": 1,
       "id": 12127,
@@ -2590,7 +2694,13 @@
       "price": 787402,
       "ru_name": "Удочка"
     },
-    { "bone": 3, "id": 12135, "name": "A toy on Hatsune Mikus sh", "price": 2362205, "ru_name": "Игрушка на плечо «Хатсуне Мику»" },
+    {
+      "bone": 3,
+      "id": 12135,
+      "name": "A toy on Hatsune Mikus sh",
+      "price": 2362205,
+      "ru_name": "Игрушка на плечо «Хатсуне Мику»"
+    },
     {
       "bone": 0,
       "id": 12136,
@@ -2612,7 +2722,13 @@
       "price": 3937008,
       "ru_name": "Лезвие слез R"
     },
-    { "bone": 1, "id": 12139, "name": "The Hares Hat", "price": 1574803, "ru_name": "Заячья шапка" },
+    {
+      "bone": 1,
+      "id": 12139,
+      "name": "The Hares Hat",
+      "price": 1574803,
+      "ru_name": "Заячья шапка"
+    },
     {
       "bone": 13,
       "id": 12140,
@@ -2691,6 +2807,7 @@
       "ru_name": "Маска Монахиня"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 12151,
       "name": "Urban Backpack",
@@ -2789,6 +2906,7 @@
       "ru_name": "Тактический жилет"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 12165,
       "name": "Pizza Delivery Guy Backpa",
@@ -2859,6 +2977,7 @@
       "ru_name": "Частичная маска убийцы"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 12175,
       "name": "Round Backpack",
@@ -2964,6 +3083,7 @@
       "ru_name": "Красная маска с очками"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 12190,
       "name": "Rabbit Plush Backpack",
@@ -3202,6 +3322,7 @@
       "ru_name": "Маска Джокера"
     },
     {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 12224,
       "name": "Gucci backpack",
@@ -3447,6 +3568,7 @@
       "ru_name": "Игрушка на плечо Наруто"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 12259,
       "name": "Teddy Bear Backpack",
@@ -3482,6 +3604,7 @@
       "ru_name": "Кепка Хеллоуинский наряд"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 12264,
       "name": "Backpack Pumpkin",
@@ -3587,6 +3710,7 @@
       "ru_name": "Шляпа ведьмы"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 12279,
       "name": "The Demon Yellow Backpack",
@@ -3818,6 +3942,7 @@
       "ru_name": "Король Синего Черепа"
     },
     {
+      "backpack_lvl": 1,
       "bone": 0,
       "id": 12312,
       "name": "Halloween Backpack",
@@ -3894,28 +4019,160 @@
       "price": 1182000,
       "ru_name": "Цепочка с крестом"
     },
-    { "bone": 16, "id": 12323, "name": "Сhain Сards", "price": 3937008, "ru_name": "Цепь с колодой карт" },
-    { "bone": 16, "id": 12324, "name": "Chain Gang", "price": 3937008, "ru_name": "Цепь гангсты" },
-    { "bone": 16, "id": 12325, "name": "Chaint Heart", "price": 3937008, "ru_name": "Цепь с сердцем" },
-    { "bone": 16, "id": 12326, "name": "Chain PlayBoy", "price": 3937008, "ru_name": "Цепь плейбой" },
-    { "bone": 16, "id": 12327, "name": "Chain Silver Surfer", "price": 3937008, "ru_name": "Цепь серебрянный серфер" },
-    { "bone": 0, "id": 12328, "name": "The Golden gear", "price": 2362205, "ru_name": "Золотая шестеренка" },
-    { "bone": 0, "id": 12329, "name": "The blue gear", "price": 2362205, "ru_name": "Синяя шестеренка" },
-    { "bone": 0, "id": 12330, "name": "The purple gear", "price": 2362205, "ru_name": "Фиолетовая шестеренка" },
-    { "bone": 0, "id": 12331, "name": "The Magic Kosa", "price": 15748032, "ru_name": "Магическая коса" },
-    { "bone": 0, "id": 12332, "name": "The Red Swords", "price": 11811024, "ru_name": "Красные мечи" },
-    { "bone": 0, "id": 12333, "name": "Pink wings", "price": 11811024, "ru_name": "Розовые крылья" },
-    { "bone": 6, "id": 12334, "name": "Bolter", "price": 11811024, "ru_name": "Болтер" },
-    { "bone": 1, "id": 12335, "name": "Juggernaut Head", "price": 2362205, "ru_name": "Шлем Джагернаута" },
-    { "bone": 0, "id": 12336, "name": "Green Magic Sword", "price": 3937008, "ru_name": "Зеленый магический меч" },
-    { "bone": 5, "id": 12337, "name": "Glass Shield", "price": 3937008, "ru_name": "Стеклянный щит" },
-    { "bone": 6, "id": 12338, "name": "Stylized Gun", "price": 1574803, "ru_name": "Стилизованный пистолет" },
-    { "bone": 7, "id": 12339, "name": "Wild Pistol", "price": 2362205, "ru_name": "Дикий пистолет" },
-    { "bone": 1, "id": 12340, "name": "White mask psycho", "price": 1574803, "ru_name": "Белая маска психа" },
-    { "bone": 1, "id": 12341, "name": "Punisher Skull Mask", "price": 787402, "ru_name": "Маска череп каратель" },
-    { "bone": 1, "id": 12342, "name": "Palestinian Kufiya", "price": 1574803, "ru_name": "Палестинский Куфия" },
-    { "bone": 1, "id": 12343, "name": "Hannya Mask", "price": 1574803, "ru_name": "Маска Ханья" },
-    { "bone": 1, "id": 12344, "name": "Doctor Dooms Mask", "price": 2362205, "ru_name": "Маска доктора Дума" },
+    {
+      "bone": 16,
+      "id": 12323,
+      "name": "Сhain Сards",
+      "price": 3937008,
+      "ru_name": "Цепь с колодой карт"
+    },
+    {
+      "bone": 16,
+      "id": 12324,
+      "name": "Chain Gang",
+      "price": 3937008,
+      "ru_name": "Цепь гангсты"
+    },
+    {
+      "bone": 16,
+      "id": 12325,
+      "name": "Chaint Heart",
+      "price": 3937008,
+      "ru_name": "Цепь с сердцем"
+    },
+    {
+      "bone": 16,
+      "id": 12326,
+      "name": "Chain PlayBoy",
+      "price": 3937008,
+      "ru_name": "Цепь плейбой"
+    },
+    {
+      "bone": 16,
+      "id": 12327,
+      "name": "Chain Silver Surfer",
+      "price": 3937008,
+      "ru_name": "Цепь серебрянный серфер"
+    },
+    {
+      "bone": 0,
+      "id": 12328,
+      "name": "The Golden gear",
+      "price": 2362205,
+      "ru_name": "Золотая шестеренка"
+    },
+    {
+      "bone": 0,
+      "id": 12329,
+      "name": "The blue gear",
+      "price": 2362205,
+      "ru_name": "Синяя шестеренка"
+    },
+    {
+      "bone": 0,
+      "id": 12330,
+      "name": "The purple gear",
+      "price": 2362205,
+      "ru_name": "Фиолетовая шестеренка"
+    },
+    {
+      "bone": 0,
+      "id": 12331,
+      "name": "The Magic Kosa",
+      "price": 15748032,
+      "ru_name": "Магическая коса"
+    },
+    {
+      "bone": 0,
+      "id": 12332,
+      "name": "The Red Swords",
+      "price": 11811024,
+      "ru_name": "Красные мечи"
+    },
+    {
+      "bone": 0,
+      "id": 12333,
+      "name": "Pink wings",
+      "price": 11811024,
+      "ru_name": "Розовые крылья"
+    },
+    {
+      "bone": 6,
+      "id": 12334,
+      "name": "Bolter",
+      "price": 11811024,
+      "ru_name": "Болтер"
+    },
+    {
+      "bone": 1,
+      "id": 12335,
+      "name": "Juggernaut Head",
+      "price": 2362205,
+      "ru_name": "Шлем Джагернаута"
+    },
+    {
+      "bone": 0,
+      "id": 12336,
+      "name": "Green Magic Sword",
+      "price": 3937008,
+      "ru_name": "Зеленый магический меч"
+    },
+    {
+      "bone": 5,
+      "id": 12337,
+      "name": "Glass Shield",
+      "price": 3937008,
+      "ru_name": "Стеклянный щит"
+    },
+    {
+      "bone": 6,
+      "id": 12338,
+      "name": "Stylized Gun",
+      "price": 1574803,
+      "ru_name": "Стилизованный пистолет"
+    },
+    {
+      "bone": 7,
+      "id": 12339,
+      "name": "Wild Pistol",
+      "price": 2362205,
+      "ru_name": "Дикий пистолет"
+    },
+    {
+      "bone": 1,
+      "id": 12340,
+      "name": "White mask psycho",
+      "price": 1574803,
+      "ru_name": "Белая маска психа"
+    },
+    {
+      "bone": 1,
+      "id": 12341,
+      "name": "Punisher Skull Mask",
+      "price": 787402,
+      "ru_name": "Маска череп каратель"
+    },
+    {
+      "bone": 1,
+      "id": 12342,
+      "name": "Palestinian Kufiya",
+      "price": 1574803,
+      "ru_name": "Палестинский Куфия"
+    },
+    {
+      "bone": 1,
+      "id": 12343,
+      "name": "Hannya Mask",
+      "price": 1574803,
+      "ru_name": "Маска Ханья"
+    },
+    {
+      "bone": 1,
+      "id": 12344,
+      "name": "Doctor Dooms Mask",
+      "price": 2362205,
+      "ru_name": "Маска доктора Дума"
+    },
     {
       "bone": 3,
       "id": 12345,
@@ -3930,9 +4187,28 @@
       "price": 2362205,
       "ru_name": "Игрушка на плечо «Ким Чен Ын»"
     },
-    { "bone": 1, "id": 12347, "name": "Arab headdress", "price": 2362205, "ru_name": "Арабский головной убор" },
-    { "bone": 0, "id": 12348, "name": "Burger Backpack", "price": 2362205, "ru_name": "Рюкзак бургер" },
-    { "bone": 1, "id": 12349, "name": "Fur hat with glasses", "price": 2362205, "ru_name": "Меховая шапка с очками" },
+    {
+      "bone": 1,
+      "id": 12347,
+      "name": "Arab headdress",
+      "price": 2362205,
+      "ru_name": "Арабский головной убор"
+    },
+    {
+      "backpack_lvl": 1,
+      "bone": 0,
+      "id": 12348,
+      "name": "Burger Backpack",
+      "price": 2362205,
+      "ru_name": "Рюкзак бургер"
+    },
+    {
+      "bone": 1,
+      "id": 12349,
+      "name": "Fur hat with glasses",
+      "price": 2362205,
+      "ru_name": "Меховая шапка с очками"
+    },
     {
       "bone": 1,
       "id": 12350,
@@ -3940,10 +4216,34 @@
       "price": 2362205,
       "ru_name": "Маска череп в шапке"
     },
-    { "bone": 5, "id": 12351, "name": "Captain America shield", "price": 3937008, "ru_name": "Щит Капитана Америки" },
-    { "bone": 5, "id": 12352, "name": "Hammer", "price": 2362205, "ru_name": "Молот" },
-    { "bone": 3, "id": 12353, "name": "Pudge Shoulder Toy", "price": 7874016, "ru_name": "Игрушка на плечо «Пудж»" },
-    { "bone": 3, "id": 12354, "name": "Funko Pudge", "price": 3937008, "ru_name": "Игрушка на плечо «Пудж Функо»" },
+    {
+      "bone": 5,
+      "id": 12351,
+      "name": "Captain America shield",
+      "price": 3937008,
+      "ru_name": "Щит Капитана Америки"
+    },
+    {
+      "bone": 5,
+      "id": 12352,
+      "name": "Hammer",
+      "price": 2362205,
+      "ru_name": "Молот"
+    },
+    {
+      "bone": 3,
+      "id": 12353,
+      "name": "Pudge Shoulder Toy",
+      "price": 7874016,
+      "ru_name": "Игрушка на плечо «Пудж»"
+    },
+    {
+      "bone": 3,
+      "id": 12354,
+      "name": "Funko Pudge",
+      "price": 3937008,
+      "ru_name": "Игрушка на плечо «Пудж Функо»"
+    },
     {
       "bone": 17,
       "id": 12355,
@@ -3958,9 +4258,27 @@
       "price": 1574803,
       "ru_name": "Бандитские очки"
     },
-    { "bone": 3, "id": 12357, "name": "Funko Batman", "price": 1574803, "ru_name": "Игрушка на плечо «Бэтмен Функо»" },
-    { "bone": 1, "id": 12358, "name": "Cheese Sunglasses", "price": 787402, "ru_name": "Сырные очки" },
-    { "bone": 3, "id": 12359, "name": "A Minion Shoulder Toy", "price": 1574803, "ru_name": "Игрушка на плечо «Миньон»" },
+    {
+      "bone": 3,
+      "id": 12357,
+      "name": "Funko Batman",
+      "price": 1574803,
+      "ru_name": "Игрушка на плечо «Бэтмен Функо»"
+    },
+    {
+      "bone": 1,
+      "id": 12358,
+      "name": "Cheese Sunglasses",
+      "price": 787402,
+      "ru_name": "Сырные очки"
+    },
+    {
+      "bone": 3,
+      "id": 12359,
+      "name": "A Minion Shoulder Toy",
+      "price": 1574803,
+      "ru_name": "Игрушка на плечо «Миньон»"
+    },
     {
       "bone": 5,
       "id": 12360,
@@ -3968,17 +4286,42 @@
       "price": 787402,
       "ru_name": "Киберпанк сковородка"
     },
-    { "bone": 1, "id": 12361, "name": "Walle Ears Hat", "price": 2362205, "ru_name": "Желтая шляпа с ушками" },
-    { "bone": 1, "id": 12362, "name": "Mickey Mouse Gas Mask", "price": 2362205, "ru_name": "Респиратор Микки Маус" },
-    { "bone": 3, "id": 12363, "name": "Poppy Playtime", "price": 787402, "ru_name": "Игрушка на плечо «Мак»" },
     {
+      "bone": 1,
+      "id": 12361,
+      "name": "Walle Ears Hat",
+      "price": 2362205,
+      "ru_name": "Желтая шляпа с ушками"
+    },
+    {
+      "bone": 1,
+      "id": 12362,
+      "name": "Mickey Mouse Gas Mask",
+      "price": 2362205,
+      "ru_name": "Респиратор Микки Маус"
+    },
+    {
+      "bone": 3,
+      "id": 12363,
+      "name": "Poppy Playtime",
+      "price": 787402,
+      "ru_name": "Игрушка на плечо «Мак»"
+    },
+    {
+      "backpack_lvl": 2,
       "bone": 0,
       "id": 12364,
       "name": "Labuba backpack",
       "price": 7874016,
       "ru_name": "Рюкзак лабубу"
     },
-    { "bone": 3, "id": 12365, "name": "Red cockroach bot", "price": 7874016, "ru_name": "Красный робот таракан" },
+    {
+      "bone": 3,
+      "id": 12365,
+      "name": "Red cockroach bot",
+      "price": 7874016,
+      "ru_name": "Красный робот таракан"
+    },
     {
       "bone": 0,
       "id": 12366,
@@ -3993,7 +4336,13 @@
       "price": 2362205,
       "ru_name": "Игрушка на плечо «Мастер Шифу»"
     },
-    { "bone": 5, "id": 12368, "name": "Staff Sacred Moon", "price": 394000, "ru_name": "Посох Священной Луны" },
+    {
+      "bone": 5,
+      "id": 12368,
+      "name": "Staff Sacred Moon",
+      "price": 394000,
+      "ru_name": "Посох Священной Луны"
+    },
     {
       "bone": 0,
       "id": 12369,
@@ -4022,7 +4371,13 @@
       "price": 394000,
       "ru_name": "Белая коробка с подарком"
     },
-    { "bone": 1, "id": 12374, "name": "LED Mask", "price": 2362205, "ru_name": "Светодиодная маска" },
+    {
+      "bone": 1,
+      "id": 12374,
+      "name": "LED Mask",
+      "price": 2362205,
+      "ru_name": "Светодиодная маска"
+    },
     {
       "bone": 0,
       "id": 12375,
@@ -4030,9 +4385,27 @@
       "price": 7874016,
       "ru_name": "Бронежилет Эвольв"
     },
-    { "bone": 1, "id": 12376, "name": "Multitudinous Eyes", "price": 2362205, "ru_name": "Маска множества глаз" },
-    { "bone": 5, "id": 12377, "name": "Fan Of Fiery Winds", "price": 3937008, "ru_name": "Веер огненных ветров" },
-    { "bone": 1, "id": 12378, "name": "Сrown of courage", "price": 3937008, "ru_name": "Венец мужества" },
+    {
+      "bone": 1,
+      "id": 12376,
+      "name": "Multitudinous Eyes",
+      "price": 2362205,
+      "ru_name": "Маска множества глаз"
+    },
+    {
+      "bone": 5,
+      "id": 12377,
+      "name": "Fan Of Fiery Winds",
+      "price": 3937008,
+      "ru_name": "Веер огненных ветров"
+    },
+    {
+      "bone": 1,
+      "id": 12378,
+      "name": "Сrown of courage",
+      "price": 3937008,
+      "ru_name": "Венец мужества"
+    },
     {
       "bone": 1,
       "id": 12379,
@@ -4040,14 +4413,63 @@
       "price": 2362205,
       "ru_name": "Маска Кори Тейлора"
     },
-    { "bone": 1, "id": 12380, "name": "Riki Mask", "price": 6299212, "ru_name": "Маска Рики" },
-    { "bone": 5, "id": 12381, "name": "Ursa Arms", "price": 3937008, "ru_name": "Клинок медведицы" },
-    { "bone": 0, "id": 12382, "name": "Jackpot backpack", "price": 15748032, "ru_name": "Рюкзак Лудика" },
-    { "bone": 0, "id": 12383, "name": "Elemental Attuned Blade", "price": 11811024, "ru_name": "Воровской астральный клинок" },
-    { "bone": 5, "id": 12384, "name": "Collapsing Phaseblades R", "price": 7874016, "ru_name": "Фазовый клинок R" },
-    { "bone": 3, "id": 12385, "name": "Felflame Shoulderpads", "price": 1574803, "ru_name": "Пластины пламени Скверны" },
-    { "bone": 1, "id": 12386, "name": "Changeable Punisher", "price": 3937008, "ru_name": "Капюшон изменчивого карателя" },
-    { "bone": 5, "id": 12387, "name": "Brother's final gift", "price": 2362205, "ru_name": "Последний дар братьев" },
+    {
+      "bone": 1,
+      "id": 12380,
+      "name": "Riki Mask",
+      "price": 6299212,
+      "ru_name": "Маска Рики"
+    },
+    {
+      "bone": 5,
+      "id": 12381,
+      "name": "Ursa Arms",
+      "price": 3937008,
+      "ru_name": "Клинок медведицы"
+    },
+    {
+      "backpack_lvl": 3,
+      "bone": 0,
+      "id": 12382,
+      "name": "Jackpot backpack",
+      "price": 15748032,
+      "ru_name": "Рюкзак Лудика"
+    },
+    {
+      "bone": 0,
+      "id": 12383,
+      "name": "Elemental Attuned Blade",
+      "price": 11811024,
+      "ru_name": "Воровской астральный клинок"
+    },
+    {
+      "bone": 5,
+      "id": 12384,
+      "name": "Collapsing Phaseblades R",
+      "price": 7874016,
+      "ru_name": "Фазовый клинок R"
+    },
+    {
+      "bone": 3,
+      "id": 12385,
+      "name": "Felflame Shoulderpads",
+      "price": 1574803,
+      "ru_name": "Пластины пламени Скверны"
+    },
+    {
+      "bone": 1,
+      "id": 12386,
+      "name": "Changeable Punisher",
+      "price": 3937008,
+      "ru_name": "Капюшон изменчивого карателя"
+    },
+    {
+      "bone": 5,
+      "id": 12387,
+      "name": "Brother's final gift",
+      "price": 2362205,
+      "ru_name": "Последний дар братьев"
+    },
     {
       "bone": 1,
       "id": 12388,
@@ -4055,7 +4477,13 @@
       "price": 2362205,
       "ru_name": "Шапка Акула"
     },
-    { "bone": 0, "id": 12389, "name": "Spirit Tender's Bulb", "price": 2362205, "ru_name": "Накидка духов" },
+    {
+      "bone": 0,
+      "id": 12389,
+      "name": "Spirit Tender's Bulb",
+      "price": 2362205,
+      "ru_name": "Накидка духов"
+    },
     {
       "bone": 0,
       "id": 12390,
@@ -4063,8 +4491,21 @@
       "price": 2362205,
       "ru_name": "Военный бронежилет"
     },
-    { "bone": 5, "id": 12391, "name": "The Witch Staff", "price": 7874016, "ru_name": "Посох ведьмы" },
-    { "bone": 0, "id": 12392, "name": "Backpack Ruz", "price": 2362205, "ru_name": "Рюкзак Руж" },
+    {
+      "bone": 5,
+      "id": 12391,
+      "name": "The Witch Staff",
+      "price": 7874016,
+      "ru_name": "Посох ведьмы"
+    },
+    {
+      "backpack_lvl": 1,
+      "bone": 0,
+      "id": 12392,
+      "name": "Backpack Ruz",
+      "price": 2362205,
+      "ru_name": "Рюкзак Руж"
+    },
     {
       "bone": 1,
       "id": 12393,
@@ -4072,28 +4513,168 @@
       "price": 3937008,
       "ru_name": "Балаклава Кошка"
     },
-    { "bone": 5, "id": 12394, "name": "Blade Abyss Reaper", "price": 2362205, "ru_name": "Клинок жнеца Бездны" },
-    { "bone": 1, "id": 12395, "name": "Helmet War Cat", "price": 1574803, "ru_name": "Шлем войны котик" },
-    { "bone": 5, "id": 12396, "name": "Ancient Exile Sword R", "price": 7874016, "ru_name": "Меч древнего изгнанника R" },
-    { "bone": 1, "id": 12397, "name": "Panama Bear", "price": 394000, "ru_name": "Панама Медведь" },
-    { "bone": 1, "id": 12398, "name": "Skull Mask Spider", "price": 1574803, "ru_name": "Скелетная маска паука" },
-    { "bone": 1, "id": 12399, "name": "HelmetTV", "price": 3937008, "ru_name": "Шлем телевизор" },
-    { "bone": 0, "id": 12400, "name": "BackpackBear", "price": 2362205, "ru_name": "Рюкзак мишка" },
-    { "bone": 4, "id": 12401, "name": "Collapsing Phaseblades L", "price": 7874016, "ru_name": "Фазовый клинок L" },
-    { "bone": 1, "id": 12402, "name": "Helmet Byke", "price": 2362205, "ru_name": "Шлем байкера" },
-    { "bone": 0, "id": 12403, "name": "Backpack Fastfood", "price": 3937008, "ru_name": "Рюкзак фастфуд" },
-    { "bone": 0, "id": 12404, "name": "Backpack NLO", "price": 1574803, "ru_name": "Рюкзак НЛО" },
-    { "bone": 1, "id": 12405, "name": "Hat Cheese", "price": 394000, "ru_name": "Сырная шапка" },
-    { "bone": 0, "id": 12406, "name": "Coffin", "price": 7874016, "ru_name": "Гробик" },
-    { "bone": 1, "id": 12407, "name": "Panama Glasses", "price": 787402, "ru_name": "Панама с очками" },
-    { "bone": 0, "id": 12408, "name": "Backpack Pryanya", "price": 2362205, "ru_name": "Рюкзак пряня" },
-    { "bone": 1, "id": 12409, "name": "Helmet Octopus", "price": 1574803, "ru_name": "Шлем осьминог" },
-    { "bone": 0, "id": 12410, "name": "Backpack Bear", "price": 2362205, "ru_name": "Рюкзак с мишкой" },
-    { "bone": 0, "id": 12411, "name": "Hedgehog shadow", "price": 2362205, "ru_name": "Рюкзак Ёж шедоу" },
-    { "bone": 0, "id": 12412, "name": "Backpack Skateboard", "price": 3937008, "ru_name": "Рюкзак с скейтбордом" },
-    { "bone": 1, "id": 12413, "name": "HelmetBlack", "price": 3937008, "ru_name": "Черный шлем робота" },
-    { "bone": 0, "id": 12414, "name": "Cat of happiness", "price": 3937008, "ru_name": "Рюкзак кот счастья" },
-    { "bone": 4, "id": 12415, "name": "Ancient Exile Sword L", "price": 7874016, "ru_name": "Меч древнего изгнанника L" },
+    {
+      "bone": 5,
+      "id": 12394,
+      "name": "Blade Abyss Reaper",
+      "price": 2362205,
+      "ru_name": "Клинок жнеца Бездны"
+    },
+    {
+      "bone": 1,
+      "id": 12395,
+      "name": "Helmet War Cat",
+      "price": 1574803,
+      "ru_name": "Шлем войны котик"
+    },
+    {
+      "bone": 5,
+      "id": 12396,
+      "name": "Ancient Exile Sword R",
+      "price": 7874016,
+      "ru_name": "Меч древнего изгнанника R"
+    },
+    {
+      "bone": 1,
+      "id": 12397,
+      "name": "Panama Bear",
+      "price": 394000,
+      "ru_name": "Панама Медведь"
+    },
+    {
+      "bone": 1,
+      "id": 12398,
+      "name": "Skull Mask Spider",
+      "price": 1574803,
+      "ru_name": "Скелетная маска паука"
+    },
+    {
+      "bone": 1,
+      "id": 12399,
+      "name": "HelmetTV",
+      "price": 3937008,
+      "ru_name": "Шлем телевизор"
+    },
+    {
+      "backpack_lvl": 1,
+      "bone": 0,
+      "id": 12400,
+      "name": "BackpackBear",
+      "price": 2362205,
+      "ru_name": "Рюкзак мишка"
+    },
+    {
+      "bone": 4,
+      "id": 12401,
+      "name": "Collapsing Phaseblades L",
+      "price": 7874016,
+      "ru_name": "Фазовый клинок L"
+    },
+    {
+      "bone": 1,
+      "id": 12402,
+      "name": "Helmet Byke",
+      "price": 2362205,
+      "ru_name": "Шлем байкера"
+    },
+    {
+      "backpack_lvl": 1,
+      "bone": 0,
+      "id": 12403,
+      "name": "Backpack Fastfood",
+      "price": 3937008,
+      "ru_name": "Рюкзак фастфуд"
+    },
+    {
+      "backpack_lvl": 1,
+      "bone": 0,
+      "id": 12404,
+      "name": "Backpack NLO",
+      "price": 1574803,
+      "ru_name": "Рюкзак НЛО"
+    },
+    {
+      "bone": 1,
+      "id": 12405,
+      "name": "Hat Cheese",
+      "price": 394000,
+      "ru_name": "Сырная шапка"
+    },
+    {
+      "bone": 0,
+      "id": 12406,
+      "name": "Coffin",
+      "price": 7874016,
+      "ru_name": "Гробик"
+    },
+    {
+      "bone": 1,
+      "id": 12407,
+      "name": "Panama Glasses",
+      "price": 787402,
+      "ru_name": "Панама с очками"
+    },
+    {
+      "backpack_lvl": 1,
+      "bone": 0,
+      "id": 12408,
+      "name": "Backpack Pryanya",
+      "price": 2362205,
+      "ru_name": "Рюкзак пряня"
+    },
+    {
+      "bone": 1,
+      "id": 12409,
+      "name": "Helmet Octopus",
+      "price": 1574803,
+      "ru_name": "Шлем осьминог"
+    },
+    {
+      "backpack_lvl": 1,
+      "bone": 0,
+      "id": 12410,
+      "name": "Backpack Bear",
+      "price": 2362205,
+      "ru_name": "Рюкзак с мишкой"
+    },
+    {
+      "backpack_lvl": 1,
+      "bone": 0,
+      "id": 12411,
+      "name": "Hedgehog shadow",
+      "price": 2362205,
+      "ru_name": "Рюкзак Ёж шедоу"
+    },
+    {
+      "backpack_lvl": 1,
+      "bone": 0,
+      "id": 12412,
+      "name": "Backpack Skateboard",
+      "price": 3937008,
+      "ru_name": "Рюкзак с скейтбордом"
+    },
+    {
+      "bone": 1,
+      "id": 12413,
+      "name": "HelmetBlack",
+      "price": 3937008,
+      "ru_name": "Черный шлем робота"
+    },
+    {
+      "backpack_lvl": 1,
+      "bone": 0,
+      "id": 12414,
+      "name": "Cat of happiness",
+      "price": 3937008,
+      "ru_name": "Рюкзак кот счастья"
+    },
+    {
+      "bone": 4,
+      "id": 12415,
+      "name": "Ancient Exile Sword L",
+      "price": 7874016,
+      "ru_name": "Меч древнего изгнанника L"
+    },
     {
       "bone": 0,
       "id": 14553,
@@ -5544,5 +6125,5 @@
       "ru_name": "Рация"
     }
   ],
-  "version": 4
+  "version": 5
 }
