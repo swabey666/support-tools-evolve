@@ -148,6 +148,10 @@
       "description": "Список активированных бонусных промокодов"
     },
     {
+      "command": "/hcontract",
+      "description": "Заключить контракт с закусочной"
+    },
+    {
       "command": "/quest",
       "description": "Меню квестов"
     },
@@ -782,7 +786,7 @@
     },
     {
       "command": "/fbook",
-      "description": "История фракций игрока",
+      "description": "Трудовая книжка",
       "params": "[ ID ]"
     },
     {
@@ -1612,10 +1616,6 @@
       "description": "Навигатор для таксистов"
     },
     {
-      "command": "/hcontract",
-      "description": "Заключить контракт с закусочной"
-    },
-    {
       "command": "/selleat",
       "description": "Продать еду игроку",
       "params": "[ ID ]"
@@ -1733,6 +1733,14 @@
       "params": "[ Сумма ]"
     },
     {
+      "command": "/deal",
+      "description": "Прокрутить рулетку"
+    },
+    {
+      "command": "/robload",
+      "description": "Начать загрузку фургона [ Ограбление домов ]"
+    },
+    {
       "command": "/getbizstats",
       "description": "Просмотреть статистику бизнеса",
       "params": "[ Бизнес (опционально) ]"
@@ -1812,5 +1820,5 @@
       "description": "Интерфейс рюкзака"
     }
   ],
-  "version": 7
+  "version": 8
 }
