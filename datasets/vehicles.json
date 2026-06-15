@@ -3592,16 +3592,6 @@
     },
     {
       "class": "E",
-      "id": 12646,
-      "name": "Ford F150 Raptor",
-      "price": 31496063,
-      "replacement": 554,
-      "speed": 115,
-      "trunk": 24,
-      "type": 0
-    },
-    {
-      "class": "E",
       "id": 12647,
       "name": "Mitsubishi Lancer Evolution X",
       "price": 31496063,
@@ -3689,7 +3679,77 @@
       "speed": 112,
       "trunk": 24,
       "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12656,
+      "name": "Mercedes-Benz 190 E Evolution II",
+      "price": 31496063,
+      "replacement": 445,
+      "speed": 115,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12657,
+      "name": "Brabus Rocket GTS",
+      "price": 47244095,
+      "replacement": 565,
+      "speed": 130,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12658,
+      "name": "Kamaz Dakar",
+      "price": 59055119,
+      "replacement": 573,
+      "speed": 84,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12659,
+      "name": "Mercedes-Benz SL65 AMG",
+      "price": 47244095,
+      "replacement": 587,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12660,
+      "name": "Mercedes-Benz SLR McLaren",
+      "price": 47244095,
+      "replacement": 506,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12661,
+      "name": "Lamborghini Centenario",
+      "price": 62992126,
+      "replacement": 415,
+      "speed": 138,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12662,
+      "name": "Bugatti W16 Mistral",
+      "price": 100000000,
+      "replacement": 429,
+      "speed": 145,
+      "trunk": 12,
+      "type": 0
     }
   ],
-  "version": 4
+  "version": 5
 }
