@@ -4676,6 +4676,426 @@
       "ru_name": "Меч древнего изгнанника L"
     },
     {
+      "bone": 1,
+      "id": 12416,
+      "name": "School backpack",
+      "price": 1574803,
+      "ru_name": "Школьный рюкзак"
+    },
+    {
+      "bone": 2,
+      "id": 12417,
+      "name": "Mask of the Tribe",
+      "price": 1574803,
+      "ru_name": "Маска племени"
+    },
+    {
+      "bone": 2,
+      "id": 12418,
+      "name": "The sheep hat",
+      "price": 1574803,
+      "ru_name": "Шапка овечка"
+    },
+    {
+      "bone": 2,
+      "id": 12419,
+      "name": "Biker Bandana",
+      "price": 1574803,
+      "ru_name": "Бандана байкера"
+    },
+    {
+      "bone": 1,
+      "id": 12420,
+      "name": "Chain the heart",
+      "price": 787402,
+      "ru_name": "Цепь на шею сердце"
+    },
+    {
+      "bone": 2,
+      "id": 12421,
+      "name": "USA Helmet",
+      "price": 2362205,
+      "ru_name": "Шлем США"
+    },
+    {
+      "bone": 2,
+      "id": 12422,
+      "name": "Panama Nike",
+      "price": 787402,
+      "ru_name": "Панама найк"
+    },
+    {
+      "bone": 1,
+      "id": 12423,
+      "name": "Choker Heart",
+      "price": 1574803,
+      "ru_name": "Чокер с сердцами"
+    },
+    {
+      "bone": 2,
+      "id": 12424,
+      "name": "Garrison Cap",
+      "price": 787402,
+      "ru_name": "Военная Пилотка"
+    },
+    {
+      "bone": 2,
+      "id": 12425,
+      "name": "Helmet Zombie",
+      "price": 3937008,
+      "ru_name": "Маска мульти зомби"
+    },
+    {
+      "bone": 2,
+      "id": 12426,
+      "name": "Power helmet",
+      "price": 2362205,
+      "ru_name": "Силовой шлем"
+    },
+    {
+      "bone": 2,
+      "id": 12427,
+      "name": "The hat is blessed",
+      "price": 2362205,
+      "ru_name": "Шапка благословенная"
+    },
+    {
+      "bone": 1,
+      "id": 12428,
+      "name": "Black cat Backpack",
+      "price": 3937008,
+      "ru_name": "Рюкзак черная кошка"
+    },
+    {
+      "bone": 1,
+      "id": 12429,
+      "name": "Leather Choker",
+      "price": 1574803,
+      "ru_name": "Кожанный чокер"
+    },
+    {
+      "bone": 1,
+      "id": 12430,
+      "name": "Heart Choker",
+      "price": 2362205,
+      "ru_name": "Чокер сердце"
+    },
+    {
+      "bone": 2,
+      "id": 12431,
+      "name": "Black Hijab",
+      "price": 787402,
+      "ru_name": "Черный хиджаб"
+    },
+    {
+      "bone": 2,
+      "id": 12432,
+      "name": "Mickey Mouse Mask",
+      "price": 1574803,
+      "ru_name": "Маска микки мауса"
+    },
+    {
+      "bone": 8,
+      "id": 12433,
+      "name": "Axe Astral Gladiator R",
+      "price": 7874016,
+      "ru_name": "Топор астрального гладиатора R"
+    },
+    {
+      "bone": 2,
+      "id": 12434,
+      "name": "Punk Mask",
+      "price": 2362205,
+      "ru_name": "Маска панка"
+    },
+    {
+      "bone": 1,
+      "id": 12435,
+      "name": "Radiation of Hyrukon R",
+      "price": 7874016,
+      "ru_name": "Далекое излучение Гирукона R"
+    },
+    {
+      "bone": 2,
+      "id": 12436,
+      "name": "Biker helmet cat",
+      "price": 2362205,
+      "ru_name": "Байкерский шлем кот"
+    },
+    {
+      "bone": 1,
+      "id": 12437,
+      "name": "Taeshalach",
+      "price": 7874016,
+      "ru_name": "Тайшалак"
+    },
+    {
+      "bone": 2,
+      "id": 12438,
+      "name": "Black kufiya Sugar",
+      "price": 1574803,
+      "ru_name": "Черная куфия Сахара"
+    },
+    {
+      "bone": 2,
+      "id": 12439,
+      "name": "White kufiya Sugar",
+      "price": 1574803,
+      "ru_name": "Белый куфия Сахара"
+    },
+    {
+      "bone": 2,
+      "id": 12440,
+      "name": "Minnie Mouse Mask",
+      "price": 1574803,
+      "ru_name": "Маска Минни Маус"
+    },
+    {
+      "bone": 1,
+      "id": 12441,
+      "name": "Voror",
+      "price": 7874016,
+      "ru_name": "Ворор"
+    },
+    {
+      "bone": 2,
+      "id": 12442,
+      "name": "Black Cashmere",
+      "price": 3937008,
+      "ru_name": "Черная Каса"
+    },
+    {
+      "bone": 2,
+      "id": 12443,
+      "name": "Captain cap",
+      "price": 787402,
+      "ru_name": "Капитанская фуражка"
+    },
+    {
+      "bone": 2,
+      "id": 12444,
+      "name": "Helmet of War",
+      "price": 1574803,
+      "ru_name": "Шлем войны"
+    },
+    {
+      "bone": 2,
+      "id": 12445,
+      "name": "Black handkerchief",
+      "price": 787402,
+      "ru_name": "Черный платок"
+    },
+    {
+      "bone": 2,
+      "id": 12446,
+      "name": "Parisian hat",
+      "price": 1574803,
+      "ru_name": "Шапка парижская с черепом"
+    },
+    {
+      "bone": 2,
+      "id": 12447,
+      "name": "Catwoman Mask",
+      "price": 2362205,
+      "ru_name": "Маска женщины кошки"
+    },
+    {
+      "bone": 2,
+      "id": 12448,
+      "name": "Cat Motorcycle Helmet",
+      "price": 2362205,
+      "ru_name": "Розовый мотошлем кошки"
+    },
+    {
+      "bone": 2,
+      "id": 12449,
+      "name": "Hat with a wreath",
+      "price": 2362205,
+      "ru_name": "Шапка с венком"
+    },
+    {
+      "bone": 2,
+      "id": 12450,
+      "name": "mask is an illusion",
+      "price": 787402,
+      "ru_name": "Маска иллюзия"
+    },
+    {
+      "bone": 1,
+      "id": 12451,
+      "name": "Magic Wings",
+      "price": 7874016,
+      "ru_name": "Магические крылья"
+    },
+    {
+      "bone": 2,
+      "id": 12452,
+      "name": "Devil Crown",
+      "price": 1574803,
+      "ru_name": "Дьявольская корона"
+    },
+    {
+      "bone": 1,
+      "id": 12453,
+      "name": "The Devils Armor R",
+      "price": 2362205,
+      "ru_name": "Дьявольский доспех R"
+    },
+    {
+      "bone": 1,
+      "id": 12454,
+      "name": "The Devils Armor L",
+      "price": 2362205,
+      "ru_name": "Дьявольский доспех L"
+    },
+    {
+      "bone": 2,
+      "id": 12455,
+      "name": "Piggy Mask",
+      "price": 1574803,
+      "ru_name": "Маска свинки"
+    },
+    {
+      "bone": 1,
+      "id": 12456,
+      "name": "Backpack mood",
+      "price": 2362205,
+      "ru_name": "Рюкзак настроение"
+    },
+    {
+      "bone": 2,
+      "id": 12457,
+      "name": "A cap with horns",
+      "price": 2362205,
+      "ru_name": "Фуражка с рогами"
+    },
+    {
+      "bone": 5,
+      "id": 12458,
+      "name": "Unbound Training Claws L",
+      "price": 3937008,
+      "ru_name": "Тренировочные когти L"
+    },
+    {
+      "bone": 1,
+      "id": 12459,
+      "name": "Dantes backpack",
+      "price": 3937008,
+      "ru_name": "Рюкзак дантес"
+    },
+    {
+      "bone": 2,
+      "id": 12460,
+      "name": "Freddy Krueger Mask",
+      "price": 3937008,
+      "ru_name": "Маска Фредди Крюгер"
+    },
+    {
+      "bone": 6,
+      "id": 12461,
+      "name": "Unbound Training Claws R",
+      "price": 3937008,
+      "ru_name": "Тренировочные когти R"
+    },
+    {
+      "bone": 2,
+      "id": 12462,
+      "name": "Harness",
+      "price": 2362205,
+      "ru_name": "Маска Упряжь"
+    },
+    {
+      "bone": 2,
+      "id": 12463,
+      "name": "TacticHelmet",
+      "price": 2362205,
+      "ru_name": "Тактический шлем робот"
+    },
+    {
+      "bone": 2,
+      "id": 12464,
+      "name": "Vampire Head",
+      "price": 1574803,
+      "ru_name": "Маска вампира"
+    },
+    {
+      "bone": 1,
+      "id": 12465,
+      "name": "Backpack Raccoon",
+      "price": 3937008,
+      "ru_name": "Рюкзак с енотом"
+    },
+    {
+      "bone": 1,
+      "id": 12466,
+      "name": "Mumia Backpack",
+      "price": 3937008,
+      "ru_name": "Рюкзак мумия"
+    },
+    {
+      "bone": 2,
+      "id": 12467,
+      "name": "Cyber Fox",
+      "price": 2362205,
+      "ru_name": "Кибер лиса"
+    },
+    {
+      "bone": 2,
+      "id": 12468,
+      "name": "Cyber Kunai",
+      "price": 2362205,
+      "ru_name": "Кибер кунаи"
+    },
+    {
+      "bone": 2,
+      "id": 12469,
+      "name": "Hat Winter",
+      "price": 1574803,
+      "ru_name": "Розовая зимняя шапка"
+    },
+    {
+      "bone": 2,
+      "id": 12470,
+      "name": "Wrapped Horns",
+      "price": 787402,
+      "ru_name": "Замотанные Рога"
+    },
+    {
+      "bone": 2,
+      "id": 12471,
+      "name": "Head Generator",
+      "price": 787402,
+      "ru_name": "Головной генератор"
+    },
+    {
+      "bone": 2,
+      "id": 12472,
+      "name": "Cap Too Old To Care",
+      "price": 787402,
+      "ru_name": "Кепка олда"
+    },
+    {
+      "bone": 7,
+      "id": 12473,
+      "name": "Axe Astral Gladiator L",
+      "price": 7874016,
+      "ru_name": "Топор астрального гладиатора L"
+    },
+    {
+      "bone": 1,
+      "id": 12474,
+      "name": "Radiation of Hyrukon L",
+      "price": 7874016,
+      "ru_name": "Далекое излучение Гирукона L"
+    },
+    {
+      "bone": 1,
+      "id": 12475,
+      "name": "Hellforged Shroud",
+      "price": 7874016,
+      "ru_name": "Плащ Выкованный из ада"
+    },
+    {
       "bone": 0,
       "id": 14553,
       "name": "RC Airplane",
@@ -6125,5 +6545,5 @@
       "ru_name": "Рация"
     }
   ],
-  "version": 5
+  "version": 6
 }
