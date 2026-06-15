@@ -19,7 +19,20 @@
             { "weapon_id": 23, "price": 2200000, "name": "Jawbreaker", "rarity": 2 },
             { "weapon_id": 23, "price": 100000, "name": "PC-GRN", "rarity": 0 },
             { "weapon_id": 23, "price": 800000, "name": "Royal Guard", "rarity": 1 },
-            { "weapon_id": 23, "price": 200000, "name": "Tropical Breeze", "rarity": 0 }
+            { "weapon_id": 23, "price": 200000, "name": "Tropical Breeze", "rarity": 0 },
+            { "weapon_id": 23, "price": 157480, "name": "Black Lotus", "rarity": 0 },
+            { "weapon_id": 23, "price": 78740, "name": "Blueprint", "rarity": 0 },
+            { "weapon_id": 23, "price": 78740, "name": "Business Class", "rarity": 0 },
+            { "weapon_id": 23, "price": 236220, "name": "Caiman", "rarity": 0 },
+            { "weapon_id": 23, "price": 236220, "name": "Cyrex", "rarity": 0 },
+            { "weapon_id": 23, "price": 157480, "name": "Guardian", "rarity": 0 },
+            { "weapon_id": 23, "price": 314961, "name": "Purple DDPAT", "rarity": 0 },
+            { "weapon_id": 23, "price": 629921, "name": "Road Rash", "rarity": 1 },
+            { "weapon_id": 23, "price": 78740, "name": "Stainless", "rarity": 0 },
+            { "weapon_id": 23, "price": 157480, "name": "Torque", "rarity": 0 },
+            { "weapon_id": 23, "price": 78740, "name": "Check Engine", "rarity": 0 },
+            { "weapon_id": 23, "price": 78740, "name": "Forest Leaves", "rarity": 0 },
+            { "weapon_id": 23, "price": 157480, "name": "27", "rarity": 0 }
         ]
     },
     {
@@ -55,7 +68,18 @@
             { "weapon_id": 24, "price": 200000, "name": "Mint Fan", "rarity": 0 },
             { "weapon_id": 24, "price": 400000, "name": "Mulberry", "rarity": 0 },
             { "weapon_id": 24, "price": 1700000, "name": "Starcade", "rarity": 1 },
-            { "weapon_id": 24, "price": 1400000, "name": "Tilted", "rarity": 1 }
+            { "weapon_id": 24, "price": 1400000, "name": "Tilted", "rarity": 1 },
+            { "weapon_id": 24, "price": 4724409, "name": "Blaze", "rarity": 2 },
+            { "weapon_id": 24, "price": 78740, "name": "Calligraffiti", "rarity": 0 },
+            { "weapon_id": 24, "price": 196850, "name": "Heat Treated", "rarity": 0 },
+            { "weapon_id": 24, "price": 236220, "name": "Hypnotic", "rarity": 0 },
+            { "weapon_id": 24, "price": 393701, "name": "Night", "rarity": 0 },
+            { "weapon_id": 24, "price": 472441, "name": "Serpent Strike", "rarity": 0 },
+            { "weapon_id": 24, "price": 393701, "name": "Sputnik", "rarity": 0 },
+            { "weapon_id": 24, "price": 236220, "name": "Golden Koi", "rarity": 0 },
+            { "weapon_id": 24, "price": 78740, "name": "Mudder", "rarity": 0 },
+            { "weapon_id": 24, "price": 314961, "name": "Night Heist", "rarity": 0 },
+            { "weapon_id": 24, "price": 78740, "name": "The Bronze", "rarity": 0 }
         ]
     },
     {
@@ -74,7 +98,30 @@
             { "weapon_id": 25, "price": 150000, "name": "Gum Wall Camo", "rarity": 0 },
             { "weapon_id": 25, "price": 100000, "name": "Halftone Shift", "rarity": 0 },
             { "weapon_id": 25, "price": 2200000, "name": "Monster Melt", "rarity": 2 },
-            { "weapon_id": 25, "price": 300000, "name": "Solitude", "rarity": 0 }
+            { "weapon_id": 25, "price": 300000, "name": "Solitude", "rarity": 0 },
+            { "weapon_id": 25, "price": 200000, "name": "Ancient Lore", "rarity": 0 },
+            { "weapon_id": 25, "price": 300000, "name": "Banana Leaf", "rarity": 0 },
+            { "weapon_id": 25, "price": 700000, "name": "Black Tie", "rarity": 1 },
+            { "weapon_id": 25, "price": 78740, "name": "Blue Steel", "rarity": 0 },
+            { "weapon_id": 25, "price": 157480, "name": "Charter", "rarity": 0 },
+            { "weapon_id": 25, "price": 157480, "name": "Fallout Warning", "rarity": 0 },
+            { "weapon_id": 25, "price": 393701, "name": "Heaven Guard", "rarity": 1 },
+            { "weapon_id": 25, "price": 196850, "name": "Hieroglyph", "rarity": 0 },
+            { "weapon_id": 25, "price": 78740, "name": "Oxide Blaze", "rarity": 0 },
+            { "weapon_id": 25, "price": 236220, "name": "Quicksilver", "rarity": 0 },
+            { "weapon_id": 25, "price": 157480, "name": "Red Leather", "rarity": 0 },
+            { "weapon_id": 25, "price": 78740, "name": "Scumbria", "rarity": 0 },
+            { "weapon_id": 25, "price": 393701, "name": "Slipstream", "rarity": 1 },
+            { "weapon_id": 25, "price": 393701, "name": "Teclu Burner", "rarity": 1 },
+            { "weapon_id": 25, "price": 787402, "name": "Tranquility", "rarity": 2 },
+            { "weapon_id": 25, "price": 236220, "name": "Zombie Offensive", "rarity": 0 },
+            { "weapon_id": 25, "price": 78740, "name": "Blue Spruce", "rarity": 0 },
+            { "weapon_id": 25, "price": 157480, "name": "Copperflage", "rarity": 0 },
+            { "weapon_id": 25, "price": 314961, "name": "Irezumi", "rarity": 0 },
+            { "weapon_id": 25, "price": 78740, "name": "Jungle", "rarity": 0 },
+            { "weapon_id": 25, "price": 236220, "name": "Mockingbird", "rarity": 0 },
+            { "weapon_id": 25, "price": 157480, "name": "Run Run Run", "rarity": 0 },
+            { "weapon_id": 25, "price": 78740, "name": "Urban Perforated", "rarity": 0 }
         ]
     },
     {
@@ -93,7 +140,15 @@
             { "weapon_id": 29, "price": 800000, "name": "Phosphor", "rarity": 1 },
             { "weapon_id": 29, "price": 150000, "name": "Neon Squeezer", "rarity": 0 },
             { "weapon_id": 29, "price": 100000, "name": "Nitro", "rarity": 0 },
-            { "weapon_id": 29, "price": 900000, "name": "Statics", "rarity": 1 }
+            { "weapon_id": 29, "price": 900000, "name": "Statics", "rarity": 1 },
+            { "weapon_id": 29, "price": 78740, "name": "Acid Wash", "rarity": 0 },
+            { "weapon_id": 29, "price": 236220, "name": "Bamboo Garden", "rarity": 1 },
+            { "weapon_id": 29, "price": 314961, "name": "Desert Strike", "rarity": 1 },
+            { "weapon_id": 29, "price": 78740, "name": "Dirt Drop", "rarity": 0 },
+            { "weapon_id": 29, "price": 78740, "name": "Gold Leaf", "rarity": 0 },
+            { "weapon_id": 29, "price": 236220, "name": "Lime Hex", "rarity": 1 },
+            { "weapon_id": 29, "price": 157480, "name": "Nitro", "rarity": 0 },
+            { "weapon_id": 29, "price": 78740, "name": "Savannah Halftone", "rarity": 0 }
         ]
     },
     {
@@ -117,7 +172,44 @@
             { "weapon_id": 30, "price": 400000, "name": "Nouveau Rouge", "rarity": 0 },
             { "weapon_id": 30, "price": 200000, "name": "The Outsiders", "rarity": 0 },
             { "weapon_id": 30, "price": 300000, "name": "Searing Rage", "rarity": 0 },
-            { "weapon_id": 30, "price": 5000000, "name": "The Oligarch", "rarity": 2 }
+            { "weapon_id": 30, "price": 5000000, "name": "The Oligarch", "rarity": 2 },
+            { "weapon_id": 30, "price": 78740, "name": "Baroque Purple", "rarity": 0 },
+            { "weapon_id": 30, "price": 78740, "name": "Black Laminate", "rarity": 0 },
+            { "weapon_id": 30, "price": 78740, "name": "Blue Laminate", "rarity": 0 },
+            { "weapon_id": 30, "price": 314961, "name": "Cartele", "rarity": 0 },
+            { "weapon_id": 30, "price": 4724409, "name": "Case Hardened", "rarity": 2 },
+            { "weapon_id": 30, "price": 472441, "name": "Elite build", "rarity": 0 },
+            { "weapon_id": 30, "price": 78740, "name": "Emerald Pinstripe", "rarity": 0 },
+            { "weapon_id": 30, "price": 78740, "name": "First Class", "rarity": 0 },
+            { "weapon_id": 30, "price": 3149606, "name": "Frontside Misty", "rarity": 2 },
+            { "weapon_id": 30, "price": 1338583, "name": "Fuel Injector", "rarity": 1 },
+            { "weapon_id": 30, "price": 5905512, "name": "Gold Arabesque", "rarity": 2 },
+            { "weapon_id": 30, "price": 78740, "name": "Green Laminate", "rarity": 0 },
+            { "weapon_id": 30, "price": 393701, "name": "Hydroponic", "rarity": 0 },
+            { "weapon_id": 30, "price": 472441, "name": "Jaguar", "rarity": 0 },
+            { "weapon_id": 30, "price": 314961, "name": "Jet Set", "rarity": 0 },
+            { "weapon_id": 30, "price": 1574803, "name": "Leet Museo", "rarity": 1 },
+            { "weapon_id": 30, "price": 1574803, "name": "Legion of Anubis", "rarity": 1 },
+            { "weapon_id": 30, "price": 5511811, "name": "Neon Revolution", "rarity": 2 },
+            { "weapon_id": 30, "price": 393701, "name": "Orbit Mk01", "rarity": 0 },
+            { "weapon_id": 30, "price": 551181, "name": "Panthera onca", "rarity": 0 },
+            { "weapon_id": 30, "price": 472441, "name": "Phantom Disruptor", "rarity": 0 },
+            { "weapon_id": 30, "price": 393701, "name": "Rat Rod", "rarity": 0 },
+            { "weapon_id": 30, "price": 78740, "name": "Red Laminate", "rarity": 0 },
+            { "weapon_id": 30, "price": 866142, "name": "Redline", "rarity": 1 },
+            { "weapon_id": 30, "price": 78740, "name": "Safety Net", "rarity": 0 },
+            { "weapon_id": 30, "price": 157480, "name": "Slate", "rarity": 0 },
+            { "weapon_id": 30, "price": 157480, "name": "Steel Delta", "rarity": 0 },
+            { "weapon_id": 30, "price": 157480, "name": "Uncharted", "rarity": 0 },
+            { "weapon_id": 30, "price": 1023622, "name": "Vulcan", "rarity": 1 },
+            { "weapon_id": 30, "price": 314961, "name": "Crossfade", "rarity": 0 },
+            { "weapon_id": 30, "price": 78740, "name": "Jungle Spray", "rarity": 0 },
+            { "weapon_id": 30, "price": 787402, "name": "Midnight Laminate", "rarity": 1 },
+            { "weapon_id": 30, "price": 118110, "name": "Olive Polycam", "rarity": 0 },
+            { "weapon_id": 30, "price": 157480, "name": "Predator", "rarity": 0 },
+            { "weapon_id": 30, "price": 78740, "name": "Safari Mesh", "rarity": 0 },
+            { "weapon_id": 30, "price": 78740, "name": "VariCamo Grey", "rarity": 0 },
+            { "weapon_id": 30, "price": 78740, "name": "Wintergreen", "rarity": 0 }
         ]
     },
     {
@@ -155,7 +247,13 @@
             { "weapon_id": 31, "price": 400000, "name": "Solitude", "rarity": 0 },
             { "weapon_id": 31, "price": 2200000, "name": "Stratosphere", "rarity": 1 },
             { "weapon_id": 31, "price": 5000000, "name": "Vaporwave", "rarity": 2 },
-            { "weapon_id": 31, "price": 100000, "name": "Wash me plz", "rarity": 0 }
+            { "weapon_id": 31, "price": 100000, "name": "Wash me plz", "rarity": 0 },
+            { "weapon_id": 31, "price": 600000, "name": "Bright Water", "rarity": 0 },
+            { "weapon_id": 31, "price": 787402, "name": "Control Panel", "rarity": 1 },
+            { "weapon_id": 31, "price": 787402, "name": "Knight", "rarity": 1 },
+            { "weapon_id": 31, "price": 472441, "name": "Moss Quartz", "rarity": 0 },
+            { "weapon_id": 31, "price": 787402, "name": "Black Lotus", "rarity": 1 },
+            { "weapon_id": 31, "price": 944882, "name": "Blue Phosphor", "rarity": 1 }
         ]
     },
     {
@@ -176,7 +274,23 @@
             { "weapon_id": 33, "price": 100000, "name": "Green Ceramic", "rarity": 0 },
             { "weapon_id": 33, "price": 150000, "name": "Memorial", "rarity": 0 },
             { "weapon_id": 33, "price": 200000, "name": "Rapid Transit", "rarity": 0 },
-            { "weapon_id": 33, "price": 150000, "name": "Zeno", "rarity": 0 }
+            { "weapon_id": 33, "price": 150000, "name": "Zeno", "rarity": 0 },
+            { "weapon_id": 33, "price": 78740, "name": "Blush Pour", "rarity": 0 },
+            { "weapon_id": 33, "price": 157480, "name": "Dezastre", "rarity": 0 },
+            { "weapon_id": 33, "price": 157480, "name": "Red Stone", "rarity": 0 },
+            { "weapon_id": 33, "price": 78740, "name": "Sand Dune", "rarity": 0 },
+            { "weapon_id": 33, "price": 78740, "name": "Tiger Tear", "rarity": 0 },
+            { "weapon_id": 33, "price": 157480, "name": "Tropical Storm", "rarity": 0 },
+            { "weapon_id": 33, "price": 236220, "name": "Azure Glyph", "rarity": 0 },
+            { "weapon_id": 33, "price": 393701, "name": "Big Iron", "rarity": 1 },
+            { "weapon_id": 33, "price": 157480, "name": "Carbon Fiber", "rarity": 0 },
+            { "weapon_id": 33, "price": 78740, "name": "Dark Water", "rarity": 0 },
+            { "weapon_id": 33, "price": 2362205, "name": "Death Strike", "rarity": 2 },
+            { "weapon_id": 33, "price": 314961, "name": "Mainframe", "rarity": 0 },
+            { "weapon_id": 33, "price": 78740, "name": "Necropos", "rarity": 0 },
+            { "weapon_id": 33, "price": 314961, "name": "Parallax", "rarity": 0 },
+            { "weapon_id": 33, "price": 157480, "name": "Slashed", "rarity": 0 },
+            { "weapon_id": 33, "price": 236220, "name": "Spring Twilly", "rarity": 0 }
         ]
     },
     {
@@ -201,9 +315,27 @@
             { "weapon_id": 34, "price": 1100000, "name": "GreenEnergy", "rarity": 1 },
             { "weapon_id": 34, "price": 1300000, "name": "Ice Coaled", "rarity": 1 },
             { "weapon_id": 34, "price": 400000, "name": "LongDog", "rarity": 0 },
-            { "weapon_id": 34, "price": 1700000, "name": "Printstream", "rarity": 1 }
+            { "weapon_id": 34, "price": 1700000, "name": "Printstream", "rarity": 1 },
+            { "weapon_id": 34, "price": 393701, "name": "Acheron", "rarity": 0 },
+            { "weapon_id": 34, "price": 393701, "name": "Black Nile", "rarity": 0 },
+            { "weapon_id": 34, "price": 157480, "name": "Capillary", "rarity": 0 },
+            { "weapon_id": 34, "price": 393701, "name": "Chromatic Aberration", "rarity": 0 },
+            { "weapon_id": 34, "price": 236220, "name": "Corticera", "rarity": 0 },
+            { "weapon_id": 34, "price": 236220, "name": "Elite Build", "rarity": 0 },
+            { "weapon_id": 34, "price": 1181102, "name": "Exoskeleton", "rarity": 1 },
+            { "weapon_id": 34, "price": 236220, "name": "Fever Dream", "rarity": 0 },
+            { "weapon_id": 34, "price": 157480, "name": "Graphite", "rarity": 0 },
+            { "weapon_id": 34, "price": 3937008, "name": "Gungnir", "rarity": 2 },
+            { "weapon_id": 34, "price": 1574803, "name": "Medusa", "rarity": 1 },
+            { "weapon_id": 34, "price": 393701, "name": "Mortis", "rarity": 0 },
+            { "weapon_id": 34, "price": 1023622, "name": "Oni Taiji", "rarity": 1 },
+            { "weapon_id": 34, "price": 5118110, "name": "Prince", "rarity": 2 },
+            { "weapon_id": 34, "price": 157480, "name": "Silk Tiger", "rarity": 0 },
+            { "weapon_id": 34, "price": 78740, "name": "Sun in Leo", "rarity": 0 },
+            { "weapon_id": 34, "price": 78740, "name": "Worm God", "rarity": 0 },
+            { "weapon_id": 34, "price": 1023622, "name": "CMYK", "rarity": 1 }
         ]
     }
   ],
-  "version": 1
+  "version": 2
 }
