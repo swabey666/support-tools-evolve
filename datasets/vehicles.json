@@ -3749,7 +3749,67 @@
       "speed": 145,
       "trunk": 12,
       "type": 0
+    },
+    {
+      "class": "Нет",
+      "id": 12663,
+      "name": "Sikorsky MH-53",
+      "price": 0,
+      "replacement": 548,
+      "speed": 126,
+      "trunk": 0,
+      "type": 1
+    },
+    {
+      "class": "E",
+      "id": 12664,
+      "name": "Mercedes-Benz G63 6X6",
+      "price": 78740158,
+      "replacement": 490,
+      "speed": 120,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12665,
+      "name": "Volvo EM90",
+      "price": 47244095,
+      "replacement": 418,
+      "speed": 118,
+      "trunk": 30,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12666,
+      "name": "Toyota Tacoma TRD PRO",
+      "price": 31496063,
+      "replacement": 554,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12667,
+      "name": "Ford Mustang 2024",
+      "price": 47244095,
+      "replacement": 603,
+      "speed": 125,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12668,
+      "name": "Porsche 911 GT3",
+      "price": 59055119,
+      "replacement": 415,
+      "speed": 136,
+      "trunk": 12,
+      "type": 0
     }
   ],
-  "version": 5
+  "version": 6
 }
