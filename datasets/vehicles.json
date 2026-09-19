@@ -3809,7 +3809,67 @@
       "speed": 136,
       "trunk": 12,
       "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12670,
+      "name": "Brabus 700 AMG E53",
+      "price": 51181103,
+      "replacement": 445,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12671,
+      "name": "Brabus 730 AMG C63",
+      "price": 51181103,
+      "replacement": 561,
+      "speed": 130,
+      "trunk": 12,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12672,
+      "name": "Audi RS5 2026",
+      "price": 51181103,
+      "replacement": 560,
+      "speed": 130,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12673,
+      "name": "Porsche Taycan 4S ST",
+      "price": 51181103,
+      "replacement": 561,
+      "speed": 128,
+      "trunk": 18,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12674,
+      "name": "Cadillac Escalade IQ",
+      "price": 47244095,
+      "replacement": 490,
+      "speed": 122,
+      "trunk": 24,
+      "type": 0
+    },
+    {
+      "class": "E",
+      "id": 12675,
+      "name": "Toyota Tacoma TRD Police",
+      "price": 0,
+      "replacement": 554,
+      "speed": 115,
+      "trunk": 24,
+      "type": 0
     }
   ],
-  "version": 6
+  "version": 7
 }
