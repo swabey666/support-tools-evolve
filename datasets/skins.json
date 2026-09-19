@@ -3087,7 +3087,39 @@
       "name": "Lewis Hamilton",
       "price": 19685040,
       "replacement": 47
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13982,
+      "name": "Florence Vox",
+      "price": 19685040,
+      "replacement": 192
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13983,
+      "name": "Luna Tone",
+      "price": 19685040,
+      "replacement": 12
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Мужской",
+      "id": 13984,
+      "name": "Jung Kook",
+      "price": 19685040,
+      "replacement": 120
+    },
+    {
+      "fraction": "Гражданский",
+      "gender": "Женский",
+      "id": 13985,
+      "name": "Raven Scarlett",
+      "price": 19685040,
+      "replacement": 91
     }
   ],
-  "version": 5
+  "version": 6
 }
