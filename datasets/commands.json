@@ -1036,6 +1036,10 @@
       "description": "База преступников"
     },
     {
+      "command": "/oop",
+      "description": "Список заключенных со статусом ООП"
+    },
+    {
       "command": "/showudost",
       "description": "Показать удостоверение игроку",
       "params": "[ ID ]"
@@ -1409,6 +1413,10 @@
     {
       "command": "/gmap",
       "description": "Количество территорий и граффити под контролем банд"
+    },
+    {
+      "command": "/bmap",
+      "description": "Количество территорий и лабораторий под контролем клуба"
     },
     {
       "command": "/robskill",
@@ -1820,5 +1828,5 @@
       "description": "Интерфейс рюкзака"
     }
   ],
-  "version": 8
+  "version": 9
 }
