@@ -1,6 +1,6 @@
 {
-  "script_version": "1.7",
-  "script_version_number": 9,
+  "script_version": "2.0",
+  "script_version_number": 11,
   "datasets": {
     "accessories": 9,
     "businesses": 1,
