@@ -2,7 +2,7 @@
   "script_version": "1.7",
   "script_version_number": 9,
   "datasets": {
-    "accessories": 8,
+    "accessories": 9,
     "businesses": 1,
     "commands": 9,
     "costumes": 1,
@@ -13,7 +13,7 @@
     "items": 2,
     "jobs": 2,
     "skins": 6,
-    "vehicles": 7,
+    "vehicles": 8,
     "weapons": 1,
     "weapon_skins": 2,
     "mm": 2,

@@ -6216,6 +6216,34 @@
       "ru_name": "Украшенный меч R"
     },
     {
+      "bone": 1,
+      "id": 14172,
+      "name": "Pumpkin Head",
+      "price": 6299212,
+      "ru_name": "Тыквоголовый"
+    },
+    {
+      "bone": 1,
+      "id": 14173,
+      "name": "Pumpkin Obodok",
+      "price": 1574803,
+      "ru_name": "Тыквенный ободок"
+    },
+    {
+      "bone": 1,
+      "id": 14175,
+      "name": "Halloween Stump",
+      "price": 3937008,
+      "ru_name": "Опен на Хэллоуин"
+    },
+    {
+      "bone": 1,
+      "id": 14180,
+      "name": "Skull With Hat",
+      "price": 2362205,
+      "ru_name": "Маска черепа"
+    },
+    {
       "bone": 0,
       "id": 14553,
       "name": "RC Airplane",
@@ -7665,5 +7693,5 @@
       "ru_name": "Рация"
     }
   ],
-  "version": 8
+  "version": 9
 }
